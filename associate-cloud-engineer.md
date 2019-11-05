@@ -1,32 +1,28 @@
 # Associate Cloud Engineer 	
 
 ## About the exam
-**Official Link:** https://cloud.google.com/certification/cloud-engineer
 
-**Experience:** Intermediate
-
-**Length:** 2 hours
-
-**Registration fee:** $125 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity.
-
-**Exam format:** Multiple choice and multiple select, taken in person at a test center.
-
-**Recommended experience:** 6 months+ hands-on experience with GCP.
-
-**Official Practice Exam:** https://cloud.google.com/certification/practice-exam/cloud-engineer
+| :---:         |     :---      |          :--- |
+| **Official Link:** | https://cloud.google.com/certification/cloud-engineer | 
+| **Experience:** | Intermediate | 
+| **Length:** | 2 hours | 
+| **Registration fee:** | $125 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity. | 
+| **Exam format:** | Multiple choice and multiple select, taken in person at a test center. | 
+| **Recommended experience:** | 6 months+ hands-on experience with GCP. | 
+| **Official Practice Exam:** | https://cloud.google.com/certification/practice-exam/cloud-engineer | 
 
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | 2019/03 | [Google Cloud Certification : Associate Cloud Engineer](https://medium.com/devopslinks/google-cloud-certification-associate-cloud-engineer-dc25765a23e2) | Raj |
-| 2019/03 | [Google Associate Cloud Engineer (ACE) Certification Exam: Our Tips for Success](https://www.mobilise.cloud/blog/google-associate-cloud-engineer-exam) | | 
+| 2019/03 | [Google Associate Cloud Engineer (ACE) Certification Exam: Our Tips for Success](https://www.mobilise.cloud/blog/google-associate-cloud-engineer-exam) | mobilise.cloud | 
 | 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma | 
 | 11/2018 | [Writing and Passing the Google Cloud Associate Engineer Certification](https://medium.com/@sathishvj/writing-and-passing-the-google-cloud-associate-engineer-certification-a60c2f6d99c2) | Sathish VJ |
 | 2018/08 | [Associate Cloud Engineer Certification Exam Overview- Things to do](https://medium.com/@achilleslinux/associate-cloud-engineer-certification-exam-overview-things-to-do-466c7b9a2885) | Avinash Kumar |
 | 2018/05 | [Associate Cloud Engineer — Study Guide](https://medium.com/@joaovitor/associate-cloud-engineer-study-guide-cf7e74da1bb6) | João Vitor Guimarães |
 
 ### Books
-| Published | Title/Link | Publication | Authors |
+| Published | Title/Link | Publisher | Authors |
 | :---:         |     :---      |          :--- |
 | | [Google Cloud Certified Associate Cloud Engineer Study Guide](https://www.google.com/search?q=official+google+cloud+certified+associate+cloud+engineer+study+guide) | | Dan Sullivan |
 | | [Google Cloud Platform Cookbook](https://www.google.com/search?q=Google+Cloud+Platform+Cookbook+by+Legorie+Rajan+PS) | | Legorie Rajan PS |
