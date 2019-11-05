@@ -2,15 +2,15 @@
 
 **Official Link:** https://cloud.google.com/certification/cloud-architect/
 
-** Length:** 2 hours
+**Length:** 2 hours
 
-** Registration fee:** $200 (plus tax where applicable). 
+**Registration fee:** $200 (plus tax where applicable). 
 
-** Exam format:** Multiple choice and multiple select, taken in person at a test center. Locate a test center near you.
+**Exam format:** Multiple choice and multiple select, taken in person at a test center. Locate a test center near you.
 
-** Recommended experience:**  3+ years of industry experience including 1+ years designing and managing solutions using GCP.
+**Recommended experience:**  3+ years of industry experience including 1+ years designing and managing solutions using GCP.
 
-** Official Practice Test:** https://cloud.google.com/certification/practice-exam/cloud-architect
+**Official Practice Test:** https://cloud.google.com/certification/practice-exam/cloud-architect
 
 ### Posts
 | Published | Title/Link | Author |
