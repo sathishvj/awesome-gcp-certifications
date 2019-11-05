@@ -1,11 +1,6 @@
 # Awesome GCP Certifications [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Contributing
-
-[Please refer to the contributing guide for details](contributing.md).
-
 # Content
-Till today, there are **8 certifications** available for Google Cloud which are listed below. Choose the one you are interested in and us the reference link to jump directly to the right area. 
 
 - [General References](#General-References)
 - [Google Cloud - Associate Cloud Engineer](associate-cloud-engineer.md)
@@ -14,8 +9,10 @@ Till today, there are **8 certifications** available for Google Cloud which are 
 - [Google Cloud - Professional Cloud Developer](professional-cloud-developer.md)
 - [Google Cloud - Professional Cloud Network Engineer](professional-cloud-network-engineer.md)
 - [Google Cloud - Professional Cloud Security Engineer](professional-cloud-security-engineer.md.md)
-- [Google Cloud - GSuite](gsuite.md)
+- [Google Cloud - Professional Collaboration Engineer](professional-collaboration-engineer.md)
+- [Google Cloud - Professional Cloud DevOps Engineer](professional-cloud-devops-engineer.md)
 - [Google Cloud - Apigee Certified API Engineer](apigee-certified-api-engineer.md)
+- [Google Cloud - GSuite](gsuite.md)
 
 A complete overview can also be found [here](https://cloud.google.com/certification/).
 
