@@ -1,10 +1,10 @@
 # GSuite
 
-**Official Link:** https://cloud.google.com/certification/gsuite/
-
-**Experience:** Advanced
-
-**Certification type:** Specialization
+| | | |
+| :---:         |     :---      |          :--- |
+| **Official Link:** | https://cloud.google.com/certification/gsuite/ | 
+| **Experience:** | Advanced | 
+| **Certification type:** | Specialization | 
 
 ### Posts
 | Published | Title/Link | Author |
@@ -35,3 +35,8 @@
 | Google | [Applied Digital Skills](https://applieddigitalskills.withgoogle.com/s/en/home) | |
 | Google | [G Suite Training - App](https://chrome.google.com/webstore/detail/g-suite-training/idkloemkmldbemijiamdiolojbffnjlh/related) | |
 
+
+### Qwiklabs Links
+|  Title/Link  |
+| :---:         |
+| [G Suite Integrations](https://google.qwiklabs.com/quests/51) | 

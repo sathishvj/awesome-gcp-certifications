@@ -1,27 +1,24 @@
 # Professional Cloud Architect
 
-**Official Link:** https://cloud.google.com/certification/cloud-architect/
-
-**Length:** 2 hours
-
-**Registration fee:** $200 (plus tax where applicable).  There is also a discount for those from countries with lower purchasing power parity.
-
-**Exam format:** Multiple choice and multiple select, taken in person at a test center.
-
-**Recommended experience:**  3+ years of industry experience including 1+ years designing and managing solutions using GCP.
-
-**Official Practice Test:** https://cloud.google.com/certification/practice-exam/cloud-architect
+| | | |
+| :---:         |     :---      |          :--- |
+| **Official Link:** | https://cloud.google.com/certification/cloud-architect/ | 
+| **Length:** | 2 hours | 
+| **Registration fee:** | $200 (plus tax where applicable).  There is also a discount for those from countries with lower purchasing power parity. | 
+| **Exam format:** | Multiple choice and multiple select, taken in person at a test center. | 
+| **Recommended experience:** |  3+ years of industry experience including 1+ years designing and managing solutions using GCP. | 
+| **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/cloud-architect | 
 
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-| | [Notes from my Google Cloud Professional Cloud Architect Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-cloud-architect-exam-bbc4299ac30) | Sathish VJ |
-| | [How to pass - Google Professional Cloud Architect](https://www.linkedin.com/pulse/how-pass-google-professional-cloud-architect-david-das-neves/) | David das Neves |
-| | [Google Cloud Architect Exam Study Materials](https://medium.com/@earlg3/google-cloud-architect-exam-study-materials-5ab327b62bc8) | Earl Gay |
-| | [Google Certified Professional — Cloud Architect — Study Resources](https://medium.com/@agasthi.kothurkar/google-certified-professional-cloud-architect-study-resources-a66f8f52aac5) | Agasthi Kothurkar |
-| | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma |
-| | [5 Tips to Become a Google Cloud Certified Professional Architect](https://thenewstack.io/5-tips-to-become-a-google-cloud-certified-professional-architect/) | Janakiram MSV |
-| | [Professional Cloud Architect Certification](https://medium.com/google-cloud/professional-cloud-architect-certification-6a6dfa5c6ff5) | Mete Atamel |
+| 2019/03 | [Professional Cloud Architect Certification](https://medium.com/google-cloud/professional-cloud-architect-certification-6a6dfa5c6ff5) | Mete Atamel |
+| 2019/01 | [Notes from my Google Cloud Professional Cloud Architect Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-cloud-architect-exam-bbc4299ac30) | Sathish VJ |
+| 2019/01 | [5 Tips to Become a Google Cloud Certified Professional Architect](https://thenewstack.io/5-tips-to-become-a-google-cloud-certified-professional-architect/) | Janakiram MSV |
+| 2018/12 | [How to pass - Google Professional Cloud Architect](https://www.linkedin.com/pulse/how-pass-google-professional-cloud-architect-david-das-neves/) | David das Neves |
+| 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma |
+| 2018/01 | [Google Certified Professional — Cloud Architect — Study Resources](https://medium.com/@agasthi.kothurkar/google-certified-professional-cloud-architect-study-resources-a66f8f52aac5) | Agasthi Kothurkar |
+| 2017/07 | [Google Cloud Architect Exam Study Materials](https://medium.com/@earlg3/google-cloud-architect-exam-study-materials-5ab327b62bc8) | Earl Gay |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |

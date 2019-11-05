@@ -1,17 +1,17 @@
 # Professional Cloud Developer
 
-**Official Link:** https://cloud.google.com/certification/cloud-developer/
-
-**Experience:** Advanced - Professional
-
-**Certification type:** Specialization
+| | | |
+| :---:         |     :---      |          :--- |
+| **Official Link:** | https://cloud.google.com/certification/cloud-developer/ | 
+| **Experience:** | Advanced - Professional | 
+| **Certification type:** | Specialization | 
 
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-| | [The — Google Cloud Professional Cloud Developer — Beta challenge](https://medium.com/@DaviddasNeves/the-google-cloud-professional-cloud-developer-beta-challenge-48b2ee6109d6) | David das Neves |
-| | [Notes from my beta Google Cloud Professional Cloud Developer Exam](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-cloud-developer-exam-e5826f6e5de1) | Sathish VJ |
-| | [Google Professional Cloud Developer — Study Guide](https://medium.com/@joaovitor/professional-cloud-developer-study-guide-309a69400ebc) | João Vitor Guimarães |
+| 2019/01 | [The — Google Cloud Professional Cloud Developer — Beta challenge](https://medium.com/@DaviddasNeves/the-google-cloud-professional-cloud-developer-beta-challenge-48b2ee6109d6) | David das Neves |
+| 2019/01 | [Notes from my beta Google Cloud Professional Cloud Developer Exam](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-cloud-developer-exam-e5826f6e5de1) | Sathish VJ |
+| 2018/11 | [Google Professional Cloud Developer — Study Guide](https://medium.com/@joaovitor/professional-cloud-developer-study-guide-309a69400ebc) | João Vitor Guimarães |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |

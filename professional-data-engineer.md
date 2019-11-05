@@ -1,22 +1,23 @@
 # Professional Data Engineer
 
-**Official Description:** https://cloud.google.com/certification/data-engineer/
-
-**Certification type:** Specialization
-
-**Experience:** Advanced - Professional
+| | | |
+| :---:         |     :---      |          :--- |
+| **Official Description:** | https://cloud.google.com/certification/data-engineer/ | 
+| **Certification type:** | Specialization | 
+| **Experience:** | Advanced - Professional | 
 
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | | [Google Cloud - Professional Data Engineer Exam Study Materials](https://github.com/Leverege/gcp-data-engineer-exam) | Leverege Developers |
-| | [Google Cloud Certified Professional Data Engineer - 2019 Updated exam](https://deploy.live/blog/google-cloud-certified-professional-data-engineer/) | Dmitri Lerko |
-| | [Notes from my Google Cloud Professional Data Engineer Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0) | Sathish VJ |
-| | [Google Cloud Professional Data Engineer Certification— my personal study guide!](https://medium.com/weareservian/google-cloud-data-engineer-exam-study-guide-9afc80be2ee3) | Guang X |
-| | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma |
-| | [GCP Certified Data Engineer in 3 Weeks](https://medium.com/@avinash.gupta/gcp-certified-data-engineer-in-3-weeks-345ecfa667c3) | Avinash Gupta |
-| | [How to pass your Google Cloud Platform Professional Data Engineer exam](https://www.slideshare.net/vinoaj/measure-camp-how-to-pass-your-gcp-professional-data-engineer-exam-20181020) | vinoaj |
-
+| 2019/11 | [Google Cloud Professional Data Engineer Certification— my personal study guide!](https://medium.com/weareservian/google-cloud-data-engineer-exam-study-guide-9afc80be2ee3) | Guang X |
+| 2019/04 | [Google Cloud Certified Professional Data Engineer - 2019 Updated exam](https://deploy.live/blog/google-cloud-certified-professional-data-engineer/) | Dmitri Lerko |
+| 2019/01 | [Notes from my Google Cloud Professional Data Engineer Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0) | Sathish VJ |
+| 2019/01 | [GCP Certified Data Engineer in 3 Weeks](https://medium.com/@avinash.gupta/gcp-certified-data-engineer-in-3-weeks-345ecfa667c3) | Avinash Gupta |
+| 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma |
+| 2018/10 | [How to pass your Google Cloud Platform Professional Data Engineer exam](https://www.slideshare.net/vinoaj/measure-camp-how-to-pass-your-gcp-professional-data-engineer-exam-20181020) | vinoaj |
+| 2018/10 | [A Study Guide to the Google Cloud Professional Data Engineer Certification Path](https://medium.com/@simonleewm/a-study-guide-to-the-google-cloud-professional-data-engineer-certification-path-9e83e41e311) | Simon Lee |
+| 2017/12 | [Google Cloud Certified Professional - Data Engineer Track](https://www.linkedin.com/pulse/google-cloud-certified-professional-data-engineer-writeup-rix/) | Kayleigh Rix |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
@@ -50,4 +51,11 @@
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | | [Data Engineering on GCP ](https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet/blob/master/data_engineering_on_GCP.pdf) | Maverick Lin |
+| | [A TensorFlow Glossary/Cheat Sheet](https://medium.com/google-cloud/a-tensorflow-glossary-cheat-sheet-382583b22932) | Bill Prin |
+| | [GCP Data Engineer cheatsheet](https://www.slideshare.net/GuangXu5/gcp-data-engineer-cheatsheet) | Guang Xu|
 
+### Qwiklabs Links
+|  Title/Link  |
+| :---:         |
+| [Baseline: Data, ML, AI](https://google.qwiklabs.com/quests/34) | 
+| [Data Engineering](https://google.qwiklabs.com/quests/25) | 

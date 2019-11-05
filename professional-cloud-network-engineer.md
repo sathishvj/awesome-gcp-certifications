@@ -1,18 +1,18 @@
 # Professional Cloud Network Engineer
 
-**Official Link:** https://cloud.google.com/certification/cloud-network-engineer/
-
-**Experience:** Professional
-
-**Certification type:** Specialization
+| | | |
+| :---:         |     :---      |          :--- |
+| **Official Link:** | https://cloud.google.com/certification/cloud-network-engineer/ | 
+| **Experience:** | Professional | 
+| **Certification type:** | Specialization | 
 
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-| | [Notes from my beta Google Cloud Professional Network Engineer Certification Exam](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-network-engineer-certification-exam-2b08d852aae1) | Sathish VJ |
-| | [Google Professional Cloud Network Engineer Certification](https://www.jhanley.com/google-professional-network-engineer-certification/) | John Hanley |
-| | [Google Professional Cloud Network Engineer Beta Exam walkthrough](https://deploy.live/blog/google-professional-cloud-network-engineer-beta-exam/) | Lerko |
-| | [Google Cloud Network Engineer Exam Experience: Fail-Fast. Learn. Pass.](https://medium.com/@jpantjsoha/google-cloud-network-engineer-exam-experience-fail-fast-learn-pass-1d913e18888) | Jaroslav Pantsjoha |
+| 2019/07 | [Google Cloud Network Engineer Exam Experience: Fail-Fast. Learn. Pass.](https://medium.com/@jpantjsoha/google-cloud-network-engineer-exam-experience-fail-fast-learn-pass-1d913e18888) | Jaroslav Pantsjoha |
+| 2019/03 | [Google Professional Cloud Network Engineer Certification](https://www.jhanley.com/google-professional-network-engineer-certification/) | John Hanley |
+| 2019/02 | [Notes from my beta Google Cloud Professional Network Engineer Certification Exam](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-network-engineer-certification-exam-2b08d852aae1) | Sathish VJ |
+| 2019/01 | [Google Professional Cloud Network Engineer Beta Exam walkthrough](https://deploy.live/blog/google-professional-cloud-network-engineer-beta-exam/) | Lerko |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
