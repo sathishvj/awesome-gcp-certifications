@@ -42,6 +42,6 @@
 | Udemy | [Google Cloud Associate Cloud Engineer](https://www.udemy.com/google-certified-associate-cloud-engineer/?couponCode=GCPFREELY) | |
 
 ### Qwiklabs Links
-| | Title/Link  |
+|  Title/Link  |
 | :---:         |
 | [GCP Essentials](https://google.qwiklabs.com/quests/23) | 
