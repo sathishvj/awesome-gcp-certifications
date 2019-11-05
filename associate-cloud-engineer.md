@@ -3,12 +3,19 @@
 
 ## About the exam
 **Official Link:** https://cloud.google.com/certification/cloud-engineer
+
 **Experience:** Intermediate
+
 **Length:** 2 hours
+
 **Registration fee:** $125 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity.
+
 **Exam format:** Multiple choice and multiple select, taken in person at a test center.
+
 **Recommended experience:** 6 months+ hands-on experience with GCP.
+
 **Status:** Generally Available
+
 **Official Practice Exam:** https://cloud.google.com/certification/practice-exam/cloud-engineer
 
 ### Guides
@@ -22,20 +29,20 @@
 | | [Google Associate Cloud Engineer (ACE) Certification Exam: Our Tips for Success](https://www.mobilise.cloud/blog/google-associate-cloud-engineer-exam) | | 
 
 ### Books
+| Published | Title/Link | Author |
+| :---:         |     :---      |          :--- |
 | | [Google Cloud Certified Associate Cloud Engineer Study Guide](https://www.amazon.com/Google-Cloud-Certified-Associate-Engineer/dp/1119564417) | Dan Sullivan |
 | | [Google Cloud Platform Cookbook](https://www.amazon.com/Google-Cloud-Platform-Cookbook-applications/dp/1788291999/) | Legorie Rajan PS |
 | | [Google Cloud Platform in Action](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520/) | JJ Geewax |
 
-### Videos / Sessions
-- #### [getgcpcertified.com - "Managing GCP Resources & Cloud Deployment Manager vs Cloud Launcher"](https://www.getgcpcertified.com/p/free-trial-associate-cloud-engineer)
-
-
 ### Online Trainings
-- #### [Coursera - "Google Cloud Platform Fundamentals: Core Infrastructure"](https://www.coursera.org/learn/gcp-fundamentals)
-- #### [Coursera - "Architecting with Google Cloud Platform Specialization"](https://www.coursera.org/specializations/gcp-architecture)
-- #### [Qwiklabs - "GCP Essentials"](https://google.qwiklabs.com/quests/23)
-- #### [Udemy - "Google Cloud Platform Associate Cloud Engineer Bootcamp"](https://www.udemy.com/google-cloud-platform-associate-cloud-engineer-bootcamp/)
-- #### [Linux Academy - "Google Cloud Certified Associate Cloud Engineer"](https://linuxacademy.com/google-cloud-platform/training/course/name/google-cloud-certified-associate-cloud-engineer)
-- #### [Coursera - "Introduction to Cloud Identity"](https://www.coursera.org/learn/cloud-identity)
-- #### [Udemy - "Google Cloud Associate Cloud Engineer"](https://www.udemy.com/google-certified-associate-cloud-engineer/?couponCode=GCPFREELY)
+| Site | Title/Link | Instructor |
+| :---:         |     :---      |          :--- |
+| Coursera | [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) | |
+| Coursera | [Architecting with Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-architecture) | |
+| Qwiklabs | [GCP Essentials](https://google.qwiklabs.com/quests/23) | |
+| Udemy | [Google Cloud Platform Associate Cloud Engineer Bootcamp](https://www.udemy.com/google-cloud-platform-associate-cloud-engineer-bootcamp/) | |
+| Linux Academy | [Google Cloud Certified Associate Cloud Engineer](https://linuxacademy.com/google-cloud-platform/training/course/name/google-cloud-certified-associate-cloud-engineer) | |
+| Coursera | [Introduction to Cloud Identity](https://www.coursera.org/learn/cloud-identity) | |
+| Udemy | [Google Cloud Associate Cloud Engineer](https://www.udemy.com/google-certified-associate-cloud-engineer/?couponCode=GCPFREELY) | |
 
