@@ -33,9 +33,13 @@
 | :---:         |     :---      |          :--- |
 | Coursera | [](https://www.coursera.org/learn/gcp-fundamentals) | | | Platform Fundamentals: Core Infrastructure
 | Coursera | ["Developing Applications with Google Cloud Platform Specialization"](https://www.coursera.org/specializations/developing-apps-gcp) | |
-| Qwiklabs | ["Application Development - Java"](https://google.qwiklabs.com/quests/42) | |
-| Qwiklabs | ["Application Development - Python"](https://google.qwiklabs.com/quests/41) | |
-| Qwiklabs | ["Kubernetes Solutions"](https://google.qwiklabs.com/quests/45) | |
-| Qwiklabs | ["Google Cloud Solutions I: Scaling Your Infrastructure"](https://google.qwiklabs.com/quests/36) | |
-| Qwiklabs | ["Stackdriver"](https://google.qwiklabs.com/quests/35) | |
+
+### Qwiklabs Links
+|  Title/Link  |
+| :---:         |
+| [Application Development - Java](https://google.qwiklabs.com/quests/42) |
+| [Application Development - Python](https://google.qwiklabs.com/quests/41) |
+| [Kubernetes Solutions](https://google.qwiklabs.com/quests/45) |
+| [Google Cloud Solutions I: Scaling Your Infrastructure](https://google.qwiklabs.com/quests/36) ||
+| [Stackdriver](https://google.qwiklabs.com/quests/35) ||
 

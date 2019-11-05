@@ -38,5 +38,4 @@ These references are useful across all certifications.
 | | [Directory of Google Developer Experts (GDE) for Cloud](https://developers.google.com/community/experts/directory) | |
 | 2019/04 | [Google Cloud Platform Authorized Trainer](https://medium.com/@sathishvj/google-cloud-platform-authorized-trainer-1b202f3eef61) | Sathish VJ |
 
-# Unsorted References
 
