@@ -1,6 +1,6 @@
-# Associate Cloud Engineer 	
+## Associate Cloud Engineer 	
 
-## About the exam
+### About the exam
 
 | | | |
 | :---:         |     :---      |          :--- |
@@ -24,7 +24,7 @@
 
 ### Books
 | Published | Title/Link | Publisher | Authors |
-| :---:         |     :---      |          :--- |
+| :---:         |     :---     |     :---       |          :--- |
 | | [Google Cloud Certified Associate Cloud Engineer Study Guide](https://www.google.com/search?q=official+google+cloud+certified+associate+cloud+engineer+study+guide) | | Dan Sullivan |
 | | [Google Cloud Platform Cookbook](https://www.google.com/search?q=Google+Cloud+Platform+Cookbook+by+Legorie+Rajan+PS) | | Legorie Rajan PS |
 | | [Google Cloud Platform in Action](https://www.google.com/search?q=Google+Cloud+Platform+in+Action+JJ+Geewax) | | JJ Geewax |
