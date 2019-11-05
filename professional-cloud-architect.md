@@ -1,12 +1,12 @@
-# Google Cloud - Professional Cloud Architect
+# Professional Cloud Architect
 
 **Official Link:** https://cloud.google.com/certification/cloud-architect/
 
 **Length:** 2 hours
 
-**Registration fee:** $200 (plus tax where applicable). 
+**Registration fee:** $200 (plus tax where applicable).  There is also a discount for those from countries with lower purchasing power parity.
 
-**Exam format:** Multiple choice and multiple select, taken in person at a test center. Locate a test center near you.
+**Exam format:** Multiple choice and multiple select, taken in person at a test center.
 
 **Recommended experience:**  3+ years of industry experience including 1+ years designing and managing solutions using GCP.
 

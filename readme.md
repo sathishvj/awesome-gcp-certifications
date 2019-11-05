@@ -16,18 +16,19 @@
 
 A complete overview can also be found [here](https://cloud.google.com/certification/).
 
-___
+______
+
 
 # General References
 
-These references include a good overview of further interesting links about the Google Cloud Platform.
-
-- #### ["The Google Cloud Developer Cheat Sheet" by Greg Wilson](https://github.com/gregsramblings/google-cloud-4-words)
-- #### ["Google Cloud - Jumpstart, Tutorials & Community!" by David das Neves](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/)
-- #### ["Cloud Solutions Architecture Reference"](http://gcp.solutions/)
-- #### ["GCP Building Blocks"](https://docs.google.com/document/d/1-8vSS5rNOWmxVQWmTaWus7V5uZvgWZKY-Nl4bYMWDbk)
-- #### ["Class Central - Free Online Courses"](https://www.class-central.com/institution/googlecloud)
-- #### ["FREE codes for Qwiklabs" by Sathish VJ](https://medium.com/@sathishvj/qwiklabs-free-codes-gcp-and-aws-e40f3855ffdb)
-- #### ["Google Cloud Platform Authorized Trainer" by Sathish VJ](https://medium.com/@sathishvj/google-cloud-platform-authorized-trainer-1b202f3eef61)
-- #### ["Get GCP Certified" by Samuel Lee](https://www.getgcpcertified.com/)
+| Published | Title/Link | Author |
+| :---:         |     :---      |          :--- |
+| | [The Google Cloud Developer Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words) | Greg Wilson |
+| | [Google Cloud - Jumpstart, Tutorials & Community!](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/) | David das Neves |
+| | [Cloud Solutions Architecture Reference](http://gcp.solutions/) | |
+| | [GCP Building Blocks](https://docs.google.com/document/d/1-8vSS5rNOWmxVQWmTaWus7V5uZvgWZKY-Nl4bYMWDbk) | |
+| | [Class Central - Free Online Courses](https://www.class-central.com/institution/googlecloud) | |
+| | [FREE codes for Qwiklabs](https://medium.com/@sathishvj/qwiklabs-free-codes-gcp-and-aws-e40f3855ffdb) | Sathish VJ |
+| | [Google Cloud Platform Authorized Trainer](https://medium.com/@sathishvj/google-cloud-platform-authorized-trainer-1b202f3eef61) | Sathish VJ |
+| | [Get GCP Certified](https://www.getgcpcertified.com/) | Samuel Lee |
 

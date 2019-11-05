@@ -1,4 +1,3 @@
-
 # Associate Cloud Engineer 	
 
 ## About the exam
