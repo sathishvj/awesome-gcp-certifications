@@ -18,7 +18,7 @@
 | 2019/03 | [Google Cloud Certification : Associate Cloud Engineer](https://medium.com/devopslinks/google-cloud-certification-associate-cloud-engineer-dc25765a23e2) | Raj |
 | 2019/03 | [Google Associate Cloud Engineer (ACE) Certification Exam: Our Tips for Success](https://www.mobilise.cloud/blog/google-associate-cloud-engineer-exam) | mobilise.cloud | 
 | 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma | 
-| 11/2018 | [Writing and Passing the Google Cloud Associate Engineer Certification](https://medium.com/@sathishvj/writing-and-passing-the-google-cloud-associate-engineer-certification-a60c2f6d99c2) | Sathish VJ |
+| 2018/11 | [Writing and Passing the Google Cloud Associate Engineer Certification](https://medium.com/@sathishvj/writing-and-passing-the-google-cloud-associate-engineer-certification-a60c2f6d99c2) | Sathish VJ |
 | 2018/08 | [Associate Cloud Engineer Certification Exam Overview- Things to do](https://medium.com/@achilleslinux/associate-cloud-engineer-certification-exam-overview-things-to-do-466c7b9a2885) | Avinash Kumar |
 | 2018/05 | [Associate Cloud Engineer — Study Guide](https://medium.com/@joaovitor/associate-cloud-engineer-study-guide-cf7e74da1bb6) | João Vitor Guimarães |
 
