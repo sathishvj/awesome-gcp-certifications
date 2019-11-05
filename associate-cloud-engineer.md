@@ -1,5 +1,5 @@
 
-# Google Cloud - Associate Cloud Engineer 	
+# Associate Cloud Engineer 	
 
 ## About the exam
 **Official Link:** https://cloud.google.com/certification/cloud-engineer
@@ -18,7 +18,7 @@
 
 **Official Practice Exam:** https://cloud.google.com/certification/practice-exam/cloud-engineer
 
-### Guides
+### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | 11/2018 | [Writing and Passing the Google Cloud Associate Engineer Certification](https://medium.com/@sathishvj/writing-and-passing-the-google-cloud-associate-engineer-certification-a60c2f6d99c2) | Sathish VJ |
