@@ -3,16 +3,16 @@
 # Contents
 
 - [Common References For All Certifications](#Common-References)
-- [Google Cloud - Associate Cloud Engineer](associate-cloud-engineer.md)
-- [Google Cloud - Professional Cloud Architect](professional-cloud-architect.md)
-- [Google Cloud - Professional Data Engineer](professional-data-engineer.md)
-- [Google Cloud - Professional Cloud Developer](professional-cloud-developer.md)
-- [Google Cloud - Professional Cloud Network Engineer](professional-cloud-network-engineer.md)
-- [Google Cloud - Professional Cloud Security Engineer](professional-cloud-security-engineer.md)
-- [Google Cloud - Professional Collaboration Engineer](professional-collaboration-engineer.md)
-- [Google Cloud - Professional Cloud DevOps Engineer](professional-cloud-devops-engineer.md)
-- [Google Cloud - Apigee Certified API Engineer](apigee-certified-api-engineer.md)
-- [Google Cloud - GSuite](gsuite.md)
+- [Associate Cloud Engineer](associate-cloud-engineer.md)
+- [Professional Cloud Architect](professional-cloud-architect.md)
+- [Professional Cloud DevOps Engineer](professional-cloud-devops-engineer.md)
+- [Professional Cloud Developer](professional-cloud-developer.md)
+- [Professional Cloud Network Engineer](professional-cloud-network-engineer.md)
+- [Professional Cloud Security Engineer](professional-cloud-security-engineer.md)
+- [Professional Data Engineer](professional-data-engineer.md)
+- [Professional Collaboration Engineer](professional-collaboration-engineer.md)
+- [GSuite](gsuite.md)
+- [Apigee Certified API Engineer](apigee-certified-api-engineer.md)
 
 ______
 
