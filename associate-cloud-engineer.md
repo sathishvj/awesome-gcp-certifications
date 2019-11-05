@@ -2,6 +2,7 @@
 
 ## About the exam
 
+| | | |
 | :---:         |     :---      |          :--- |
 | **Official Link:** | https://cloud.google.com/certification/cloud-engineer | 
 | **Experience:** | Intermediate | 
