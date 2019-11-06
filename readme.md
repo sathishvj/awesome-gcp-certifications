@@ -2,7 +2,8 @@
 
 # Contents
 
-- [Common References For All Certifications](#Common-References)
+- [Common Resources For All Certifications](#Common-Resources)
+- [Miscellaneous References](#Miscellaneous-References)
 - [Associate Cloud Engineer](associate-cloud-engineer.md)
 - [Professional Cloud Architect](professional-cloud-architect.md)
 - [Professional Cloud DevOps Engineer](professional-cloud-devops-engineer.md)
@@ -13,10 +14,11 @@
 - [Professional Collaboration Engineer](professional-collaboration-engineer.md)
 - [GSuite](gsuite.md)
 - [Apigee Certified API Engineer](apigee-certified-api-engineer.md)
+- [Contributing](#Contributing)
 
 ______
 
-# Common References
+### Common Resources
 
 These references are useful across all certifications.
 
@@ -30,7 +32,7 @@ These references are useful across all certifications.
 | | [Grace's Flowcharts](https://grumpygrace.dev/posts/gcp-flowcharts/) | Grace |
 | 2018/10 | [Google Cloud - Jumpstart, Tutorials & Community!](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/) | David das Neves |
 
-# Miscellaneous References
+### Miscellaneous References
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | | [Forum for certified people (invite only)](https://www.cloudconnectcommunity.com/ccc/ls/community/google-cloud-certifications) | |
@@ -39,3 +41,8 @@ These references are useful across all certifications.
 | 2019/04 | [Google Cloud Platform Authorized Trainer](https://medium.com/@sathishvj/google-cloud-platform-authorized-trainer-1b202f3eef61) | Sathish VJ |
 
 
+### Contributing
+- Please contribute to making this list really awesome, exhaustive, and up to date.
+- Contributing to this list is easy - adding the information in an issue would be the easiest.  
+- Please provide details as required by that section.  Links, author names, date published, which certification(s) does it apply to, etc.
+- For book links, preferably send a search link with the book and author name.  (Why? Using an amazon.com link assumes that all readers are in one country and using one book seller.)
