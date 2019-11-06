@@ -28,7 +28,7 @@
 | Published | Title/Link | Event | Instructors |
 | :---:         |     :---      |          :--- |          :--- | 
 | 2019/04 | [DevOps and SRE sessions](https://www.youtube.com/playlist?list=PLIivdWyY5sqISlOXDGGK-SeUCvsxtB1c0)  | Cloud Next 2019 | |
-| 2018/03 | [class SRE implements DevOps - Playlist](https://www.youtube.com/watch?v=uTEL8Ff1Zvk&list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj)  | Cloud Next 2019 | |
+| 2018/03 | [class SRE implements DevOps - Playlist](https://www.youtube.com/watch?v=uTEL8Ff1Zvk&list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj)  | | Liz & Seth |
 
 
 
