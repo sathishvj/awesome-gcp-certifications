@@ -49,4 +49,7 @@
 | Qwiklabs | [Challenge: GCP Architecture](https://google.qwiklabs.com/quests/47) | |
 | Coursera | [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam) | |
 | Linux Academy | [Google Certified Professional Cloud Architect](https://linuxacademy.com/linux/training/course/name/google-cloud-platform-architect-essentials) | |
+| acloud.guru | [Google Certified Professional Cloud Architect 2019](https://acloud.guru/learn/gcp-certified-professional-cloud-architect) | Mattias Andersson |
+| pluralsight | [Architecting with Google Cloud Platform: Infrastructure](https://www.pluralsight.com/paths/architecting-with-google-cloud-platform-infrastructure) | Google Cloud |
+| pluralsight | [Google: Professional Cloud Architect](https://www.pluralsight.com/paths/google-professional-cloud-architect) | Howard Dierking, Janani Ravi, Vitthal Srinivasan |
 

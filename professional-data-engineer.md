@@ -47,6 +47,9 @@
 | Udemy | ["Preparing for the Google Cloud Professional Data Engineer Exam"](https://www.udemy.com/topic/google-cloud-professional-data-engineer/) | |
 | Udemy | ["An Introduction to Google Cloud Platform for Data Engineers"](https://www.udemy.com/an-introduction-to-google-cloud-platform-for-data-engineers/) | |
 | Udemy | ["Learn GCP: Google Cloud Data Engineer Express Course!"](https://www.udemy.com/learn-gcp-become-a-certified-data-engineer-express-course/) | |
+| acloud.guru | [Applied Machine Learning with BigQuery on Google Cloud Platform](https://acloud.guru/learn/gcp-applied-machine-learning-bigquery) | Mike West |
+| pluralsight | [Data Engineering on Google Cloud Platform](https://www.pluralsight.com/paths/data-engineering-on-google-cloud-platform) | Google Cloud |
+| pluralsight | [Google: Professional Cloud Data Engineer](https://www.pluralsight.com/paths/google-professional-cloud-data-engineer) | Janani Ravi, Vitthal Srinivasan |
 
 ### Cheat Sheets
 | Published | Title/Link | Author |
