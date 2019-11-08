@@ -30,8 +30,9 @@
 ### Books
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-| | [Data Science on the Google Cloud Platform](https://www.amazon.com/Data-Science-Google-Cloud-Platform/dp/1491974567/) | Valliappa Lakshmanan |
-| | [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/) | Aurélien Géron |
+| | [Data Science on the Google Cloud Platform](https://www.google.com/search?q=Data%20Science%20on%20the%20Google%20Cloud%20Platform) | Valliappa Lakshmanan |
+| | [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.google.com/search?q=Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow) | Aurélien Géron |
+| 2019/10 | [Google BigQuery: The Definitive Guide](https://www.google.com/search?q=bigquery+the+definitive+guide+Book+by+Jordan+Tigani+and+Valliappa+Lakshmanan) | Jordan Tigani & Valliappa Lakshmanan |
 
 ### Videos / Sessions
 | Published | Title/Link | Instructor |

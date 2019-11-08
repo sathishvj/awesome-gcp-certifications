@@ -25,6 +25,7 @@ These references are useful across all certifications.
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | | [GCP Certification](https://cloud.google.com/certification/) | GCP Docs |
+| | [FAQs - GCP Certification](https://cloud.google.com/certification/faqs/) | Frequently Asked Questions |
 | | [Cloud Solutions Architecture Reference](http://gcp.solutions/) | GCP Docs |
 | | [Google Cloud Products and Solutions in 4 words](https://github.com/gregsramblings/google-cloud-4-words) | Greg Wilson |
 | | [GCP Building Blocks - A Glossary of GCP Terms](https://docs.google.com/document/d/1-8vSS5rNOWmxVQWmTaWus7V5uZvgWZKY-Nl4bYMWDbk) | |
