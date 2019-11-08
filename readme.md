@@ -35,6 +35,8 @@ These references are useful across all certifications.
 | | [Grace's Flowcharts](https://grumpygrace.dev/posts/gcp-flowcharts/) | Grace |
 | | [GCP Essentials - Staying in Touch](https://medium.com/google-cloud/gcp-essentials-staying-in-touch-43764ec9fa0a) | Alexis MP |
 | | [Community Tutorials](https://cloud.google.com/community/tutorials/) | |
+| | [Google Cloud Training - Classroom Schedule](https://cloud.google.com/training/courses) | various trainers |
+| | [Google Cloud Training - Course Listing and Contents](https://google.qwiklabs.com/catalog?format%5B%5D=courses&utm_source=cloud-dot-google&utm_medium=website&per_page=50) | |
 | 2018/10 | [Google Cloud - Jumpstart, Tutorials & Community!](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/) | David das Neves |
 
 ### Miscellaneous References
