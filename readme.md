@@ -27,10 +27,14 @@ These references are useful across all certifications.
 | | [GCP Certification](https://cloud.google.com/certification/) | GCP Docs |
 | | [FAQs - GCP Certification](https://cloud.google.com/certification/faqs/) | Frequently Asked Questions |
 | | [Cloud Solutions Architecture Reference](http://gcp.solutions/) | GCP Docs |
+| | [Tutorials in the Docs - collected list](https://cloud.google.com/docs/tutorials) | GCP Docs |
+| | [Google Cloud Solutions](https://cloud.google.com/solutions/) | GCP Docs |
 | | [Google Cloud Products and Solutions in 4 words](https://github.com/gregsramblings/google-cloud-4-words) | Greg Wilson |
 | | [GCP Building Blocks - A Glossary of GCP Terms](https://docs.google.com/document/d/1-8vSS5rNOWmxVQWmTaWus7V5uZvgWZKY-Nl4bYMWDbk) | |
 | | [FREE codes for Qwiklabs](https://medium.com/@sathishvj/qwiklabs-free-codes-gcp-and-aws-e40f3855ffdb) | Sathish VJ |
 | | [Grace's Flowcharts](https://grumpygrace.dev/posts/gcp-flowcharts/) | Grace |
+| | [GCP Essentials - Staying in Touch](https://medium.com/google-cloud/gcp-essentials-staying-in-touch-43764ec9fa0a) | Alexis MP |
+| | [Community Tutorials](https://cloud.google.com/community/tutorials/) | |
 | 2018/10 | [Google Cloud - Jumpstart, Tutorials & Community!](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/) | David das Neves |
 
 ### Miscellaneous References
