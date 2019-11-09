@@ -11,8 +11,10 @@
 | :---:         |     :---      |          :--- |
 | | [Google Cloud - Professional Data Engineer Exam Study Materials](https://github.com/Leverege/gcp-data-engineer-exam) | Leverege Developers |
 | 2019/10 | [The Ultimate Hack to passing Google Cloud Professional Data Engineer certification exam](https://medium.com/@sodiumsun/the-ultimate-hack-to-passing-google-cloud-professional-data-engineer-certification-exam-2019-oct-663b2dfac492) | Kelly Sun |
-| 2019/01 | [Google Cloud Professional Data Engineer Certification— my personal study guide!](https://medium.com/weareservian/google-cloud-data-engineer-exam-study-guide-9afc80be2ee3) | Guang X |
-| 2019/04 | [Google Cloud Certified Professional Data Engineer - 2019 Updated exam](https://deploy.live/blog/google-cloud-certified-professional-data-engineer/) | Dmitri Lerko |
+| 2019/05 | [Concepts to focus for passing Google Cloud PDE Exam](https://medium.com/@srividyaramaraju/concepts-to-focus-for-passing-google-cloud-professional-data-engineer-exam-8ce5f9048cc1) | Srividya Ramaraju |
+| 2019/02 | [PDE— Roadmap for preparation](https://medium.com/globallogic-cloud-and-devops-blogs/google-cloud-professional-data-engineer-roadmap-for-preparation-94e881d43382) | Pankaj K |
+| 2019/01 | [Professional Data Engineer Certification— my personal study guide!](https://medium.com/weareservian/google-cloud-data-engineer-exam-study-guide-9afc80be2ee3) | Guang X |
+| 2019/04 | [Certified Professional Data Engineer - 2019 Updated exam](https://deploy.live/blog/google-cloud-certified-professional-data-engineer/) | Dmitri Lerko |
 | 2019/01 | [Notes from my Google Cloud Professional Data Engineer Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0) | Sathish VJ |
 | 2019/01 | [GCP Certified Data Engineer in 3 Weeks](https://medium.com/@avinash.gupta/gcp-certified-data-engineer-in-3-weeks-345ecfa667c3) | Avinash Gupta |
 | 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma |
