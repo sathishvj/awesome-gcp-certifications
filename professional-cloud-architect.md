@@ -19,6 +19,7 @@
 | 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma |
 | 2018/01 | [Google Certified Professional — Cloud Architect — Study Resources](https://medium.com/@agasthi.kothurkar/google-certified-professional-cloud-architect-study-resources-a66f8f52aac5) | Agasthi Kothurkar |
 | 2017/07 | [Google Cloud Architect Exam Study Materials](https://medium.com/@earlg3/google-cloud-architect-exam-study-materials-5ab327b62bc8) | Earl Gay |
+| | [Cloud Architect Challenge Study Map](https://www.troposphere.tech/wp-content/uploads/2019/11/Professional-Cloud-Architect-Challenge-Study-Map.htm) | Simon Eres |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
