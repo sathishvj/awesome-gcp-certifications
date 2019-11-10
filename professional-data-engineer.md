@@ -40,6 +40,7 @@
 | Published | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
 | | [GCP data engineer certification review](https://www.youtube.com/playlist?list=PL44lENRqK1vwC_y_CHT-drcyS62qXIbH_) | John |
+| | [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro) | Google |
 
 ### Online Trainings
 | Site | Title/Link | Instructor |
