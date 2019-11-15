@@ -10,12 +10,14 @@
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | 2019/08 | [Google Cloud Security Exam Experience: RTFQ twice](https://medium.com/@jpantjsoha/google-cloud-security-exam-experience-8c4c973a86d6) | Jaroslav Pantsjoha |
+| 2019/08 | [Google Cloud Security Exam Experience: RTFQ twice](https://medium.com/@jpantjsoha/google-cloud-security-exam-experience-8c4c973a86d6) | Jaroslav Pantsjoha |
 | 2019/05 | [Google Professional Cloud Security Engineer Certification](https://www.jhanley.com/google-professional-cloud-security-engineer-certification/) | John Hanley |
 | 2019/03 | [Google Professional Cloud Security Engineer — Beta exam review](https://medium.com/@techie.rakesh/google-professional-cloud-security-engineer-beta-exam-review-e21445bc2979) | Rakesh Sharma |
 | 2019/03 | [GCP Certified : The GCP Professional Cloud Security Engineer Exam (BETA)](https://antonitzavelas.com/2019/03/08/gcp-certified-the-gcp-professional-cloud-security-engineer-exam-beta/) | Antoni Tzavelas |
 | 2019/02 | [Notes from my beta Google Cloud Professional Security Engineer Certification Exam](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-security-engineer-certification-exam-bff02c93d757) | Sathish VJ |
 | 2019/02 | [Google Professional Cloud Security Engineer Beta Exam walkthrough](http://deploy.live/blog/google-professional-cloud-security-engineer-beta-exam/) | Dmitri Lerko |
 | 2019/02 | [Google Cloud Professional Security Engineer Exam Guide](https://www.linkedin.com/pulse/google-cloud-professional-security-engineer-exam-guide-darpan-shah/) | Darpan Shah |
+| 2018/03 | [Google Cloud Security Whitepapers](https://services.google.com/fh/files/misc/security_whitepapers_march2018.pdf) | Google |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
