@@ -9,7 +9,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-| 2019/08 | [Google Cloud Security Exam Experience: RTFQ twice](https://medium.com/@jpantjsoha/google-cloud-security-exam-experience-8c4c973a86d6) | Jaroslav Pantsjoha |
+| 2019/11 | [Google Cloud Security Engineer Exam Notes](https://medium.com/@tjwebb/google-cloud-security-engineer-exam-21f55d3dd5a7) | Travis Webb |
 | 2019/08 | [Google Cloud Security Exam Experience: RTFQ twice](https://medium.com/@jpantjsoha/google-cloud-security-exam-experience-8c4c973a86d6) | Jaroslav Pantsjoha |
 | 2019/05 | [Google Professional Cloud Security Engineer Certification](https://www.jhanley.com/google-professional-cloud-security-engineer-certification/) | John Hanley |
 | 2019/03 | [Google Professional Cloud Security Engineer — Beta exam review](https://medium.com/@techie.rakesh/google-professional-cloud-security-engineer-beta-exam-review-e21445bc2979) | Rakesh Sharma |
