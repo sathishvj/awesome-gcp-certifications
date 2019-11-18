@@ -42,6 +42,7 @@ These references are useful across all certifications.
 | | [Google Cloud Whitepapers](https://cloud.google.com/whitepapers/) | Google |
 | | [GCP Blog](https://cloud.google.com/blog/products/gcp) | Google |
 | | [GCP Data Analytics Blog](https://cloud.google.com/blog/products/data-analytics) | Google |
+| 2019/01 | [On Passing All Google Cloud Certifications](https://medium.com/@sathishvj/on-passing-all-google-cloud-certifications-54b2cc1e428c) | Sathish VJ |
 | 2018/10 | [Google Cloud - Jumpstart, Tutorials & Community!](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/) | David das Neves |
 
 ### Miscellaneous References
