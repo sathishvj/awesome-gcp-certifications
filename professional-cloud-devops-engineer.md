@@ -14,7 +14,9 @@
 | :---:         |     :---      |          :--- |
 | 2019/11 | [Top Ten things to know for DevOps Beta Exam](https://myblockchainexperts.org/2019/11/17/top-ten-things-to-know-for-google-cloud-professional-devops-engineer-beta-exam/) | Joe Holbrook |
 | 2019/11 | [Study Guide](https://drive.google.com/file/d/1TU8i3-YbJ6xIa1aiaM9-Zf9iLYWl2q2O/view) | Ammett Williams |
+| 2019/11 | [SRE best practices for people in a hurry](https://medium.com/@waheedbrown/sre-best-practices-for-people-in-a-hurry-c49f89786b51) | Waheed Brown |
 | | [Devops](https://cloud.google.com/devops/) | GCP Docs |
+| | [SRE resources from Google](https://landing.google.com/sre/resources/) | Google |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
@@ -25,6 +27,7 @@
 | :---:         |     :---      |          :--- |
 | | [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html) | Edited by Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy |
 | | [Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) | Edited by Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara and Stephen Thorne |
+| | [Building Secure and Reliable Systems - Preview Version](https://landing.google.com/sre/resources/foundationsandprinciples/srs-book/) | Written by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield |
 
 ### Videos / Sessions
 | Published | Title/Link | Event | Instructors |
