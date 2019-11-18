@@ -44,6 +44,8 @@ These references are useful across all certifications.
 | | [GCP Data Analytics Blog](https://cloud.google.com/blog/products/data-analytics) | Google |
 | 2019/01 | [On Passing All Google Cloud Certifications](https://medium.com/@sathishvj/on-passing-all-google-cloud-certifications-54b2cc1e428c) | Sathish VJ |
 | 2018/10 | [Google Cloud - Jumpstart, Tutorials & Community!](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/) | David das Neves |
+| | [Pluralsight courses on GCP](https://app.pluralsight.com/profile/author/google-cloud) | Google Cloud |
+| | [Coursera courses on GCP](https://www.coursera.org/search?query=google%20cloud&) | Google Cloud |
 
 ### Miscellaneous References
 | Published | Title/Link | Author |
