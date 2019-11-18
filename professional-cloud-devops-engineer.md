@@ -12,6 +12,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2019/11 | [Top Ten things to know for DevOps Beta Exam](https://myblockchainexperts.org/2019/11/17/top-ten-things-to-know-for-google-cloud-professional-devops-engineer-beta-exam/) | Joe Holbrook |
 | 2019/11 | [Study Guide](https://drive.google.com/file/d/1TU8i3-YbJ6xIa1aiaM9-Zf9iLYWl2q2O/view) | Ammett Williams |
 | | [Devops](https://cloud.google.com/devops/) | GCP Docs |
 
