@@ -39,11 +39,13 @@ These references are useful across all certifications.
 | | [CodeLabs/cloud](https://codelabs.developers.google.com/?cat=Cloud) | developers.google |
 | | [Google Cloud Training - Classroom Schedule](https://cloud.google.com/training/courses) | various trainers |
 | | [Google Cloud Training - Course Listing and Contents](https://google.qwiklabs.com/catalog?format%5B%5D=courses&utm_source=cloud-dot-google&utm_medium=website&per_page=50) | |
+| | [Google Cloud Whitepapers](https://cloud.google.com/whitepapers/) | |
 | 2018/10 | [Google Cloud - Jumpstart, Tutorials & Community!](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/) | David das Neves |
 
 ### Miscellaneous References
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| | [Weekly Newsletter](https://www.gcpweekly.com/newsletter/) | Zdenko Hrček |
 | | [Forum for certified people (invite only)](https://www.cloudconnectcommunity.com/ccc/ls/community/google-cloud-certifications) | |
 | | [Google Cloud Certified Credential Holder Directory (voluntary list)](https://googlecloudcertified.credential.net/) | |
 | | [Directory of Google Developer Experts (GDE) for Cloud](https://developers.google.com/community/experts/directory) | |
