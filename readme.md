@@ -63,5 +63,5 @@ These references are useful across all certifications.
 	- How many questions on each topic?
 	- Anything that compromises the integrity of the exam.
 - When one of my blog posts leaked some exam info, I was contacted by the Google Certifications Team.
-- If you find any posts that might be a concern, please let me and also the authors know.
+- If you find any posts that I've listed which might be a concern, please let me and also the original authors know.
 
