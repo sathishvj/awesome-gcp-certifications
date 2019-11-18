@@ -15,6 +15,7 @@
 - [GSuite](gsuite.md)
 - [Apigee Certified API Engineer](apigee-certified-api-engineer.md)
 - [Contributing](#Contributing)
+- [Maintaining Exam Integrity](#Maintaining-Exam-Integrity)
 
 ______
 
@@ -54,3 +55,13 @@ These references are useful across all certifications.
 - Contributing to this list is easy - adding the information in an issue would be the easiest.  
 - Please provide details as required by that section.  Links, author names, date published, which certification(s) does it apply to, etc.
 - For book links, preferably send a search link with the book and author name.  (Why? Using an amazon.com link assumes that all readers are in one country and using one book seller.)
+
+### Maintaining Exam Integrity
+- Google takes the privacy of the exams very seriously.
+- If and when you write notes, do not reveal details about the exam.
+	- What questions were asked?
+	- How many questions on each topic?
+	- Anything that compromises the integrity of the exam.
+- When one of my blog posts leaked some exam info, I was contacted by the Google Certifications Team.
+- If you find any posts that might be a concern, please let me and also the authors know.
+
