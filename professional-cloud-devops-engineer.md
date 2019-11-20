@@ -17,6 +17,7 @@
 | 2019/11 | [SRE best practices for people in a hurry](https://medium.com/@waheedbrown/sre-best-practices-for-people-in-a-hurry-c49f89786b51) | Waheed Brown |
 | | [Devops](https://cloud.google.com/devops/) | GCP Docs |
 | | [SRE resources from Google](https://landing.google.com/sre/resources/) | Google |
+| | [CI/CD on Google Cloud](https://cloud.google.com/docs/ci-cd/) | Google |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
