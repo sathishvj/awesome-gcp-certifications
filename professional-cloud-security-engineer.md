@@ -9,8 +9,11 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2019/11 | [Exam Study Guide](https://www.linkedin.com/pulse/google-cloud-professional-security-engineer-exam-study-mark-johnson/) | Mark Johnson |
 | 2019/11 | [Google Cloud Security Engineer Exam Notes](https://medium.com/@tjwebb/google-cloud-security-engineer-exam-21f55d3dd5a7) | Travis Webb |
 | 2019/08 | [Google Cloud Security Exam Experience: RTFQ twice](https://medium.com/@jpantjsoha/google-cloud-security-exam-experience-8c4c973a86d6) | Jaroslav Pantsjoha |
+| 2019/07 | [Exam Prep Sheet](https://www.linkedin.com/pulse/google-cloud-professional-security-exam-prep-sheet-ammett-williams/?published=t) | Ammett Williams |
+| 2019/06 | [How to fail and then pass the Security Engineer Exam](https://www.linkedin.com/pulse/how-fail-pass-google-cloud-professional-security-exam-ammett-williams/) | Ammett Williams |
 | 2019/05 | [Google Professional Cloud Security Engineer Certification](https://www.jhanley.com/google-professional-cloud-security-engineer-certification/) | John Hanley |
 | 2019/03 | [Google Professional Cloud Security Engineer — Beta exam review](https://medium.com/@techie.rakesh/google-professional-cloud-security-engineer-beta-exam-review-e21445bc2979) | Rakesh Sharma |
 | 2019/03 | [GCP Certified : The GCP Professional Cloud Security Engineer Exam (BETA)](https://antonitzavelas.com/2019/03/08/gcp-certified-the-gcp-professional-cloud-security-engineer-exam-beta/) | Antoni Tzavelas |
