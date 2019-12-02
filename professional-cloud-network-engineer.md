@@ -9,6 +9,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2019/11 | [How to Pass GCP Network Engineer Certification](https://medium.com/ci-t/how-to-pass-the-google-professional-cloud-network-engineer-certification-40bb1f6cc962) | Ivam Luz |
 | 2019/11 | [Network Engineer Exam Study Guide](https://www.linkedin.com/pulse/google-cloud-professional-network-engineer-exam-study-mark-johnson/) | Mark Johnson |
 | 2019/08 | [Cloud Professional - Cloud Network Engineer Exam Prep sheet](https://www.linkedin.com/pulse/google-cloud-professional-network-engineer-exam-prep-williams/) | Ammett Williams |
 | 2019/07 | [Exam Experience: Fail-Fast. Learn. Pass.](https://medium.com/@jpantjsoha/google-cloud-network-engineer-exam-experience-fail-fast-learn-pass-1d913e18888) | Jaroslav Pantsjoha |

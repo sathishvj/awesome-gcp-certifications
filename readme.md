@@ -47,6 +47,7 @@ These references are useful across all certifications.
 | | [Pluralsight courses on GCP](https://app.pluralsight.com/profile/author/google-cloud) | Google Cloud |
 | | [Coursera courses on GCP](https://www.coursera.org/search?query=google%20cloud&) | Google Cloud |
 | | [Cloud Minute - 1 minute videos](https://www.youtube.com/playlist?list=PLIivdWyY5sqIij_cgINUHZDMnGjVx3rxi) | Google Cloud |
+| | [github GCP code repo](https://github.com/GoogleCloudPlatform) | Google Cloud |
 
 ### Miscellaneous References
 | Published | Title/Link | Author |
