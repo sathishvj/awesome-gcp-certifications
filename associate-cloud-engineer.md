@@ -46,3 +46,4 @@
 |  Title/Link  |
 | :---:         |
 | [GCP Essentials](https://google.qwiklabs.com/quests/23) | 
+| [Cloud Engineering](https://www.qwiklabs.com/quests/66) | 
