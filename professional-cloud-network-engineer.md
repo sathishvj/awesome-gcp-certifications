@@ -20,7 +20,7 @@
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-| | [Coming soon](https://cloud.google.com/certification/cloud-network-engineer/) | |
+| | [Official Practice Test](https://cloud.google.com/certification/practice-exam/cloud-network-engineer) | Google |
 
 ### Books
 | Published | Title/Link | Author |
@@ -37,6 +37,7 @@
 | | [VPC Deep Dive and Best Practices (Cloud Next '18)](https://www.youtube.com/watch?v=wmP6SQe5J7g) | GCP |
 | | [Hybrid Connectivity - Reliably Extending Your Enterprise Network to GCP (Cloud Next '18)](https://www.youtube.com/watch?v=28ildhOzMSI) | GCP |
 | | [Curated Networking playlist: Best Practices, VPC, GCE, Kubernetes (Kubecon, Cloud Next '18 '19)](https://www.youtube.com/playlist?list=PLxQzKf1gjjCPfFXjRa1pa-ykwBhKs4T0J) | Jaroslav Pantsjoha |
+| | [GCP Networking Deep Dive](https://www.youtube.com/watch?v=nRJBFNyY944&feature=youtu.be) | Prajakta Joshi & Srinivas Krishnan |
 
 ### Online Trainings
 | Site | Title/Link | Instructor |
