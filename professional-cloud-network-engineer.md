@@ -38,6 +38,7 @@
 | | [Hybrid Connectivity - Reliably Extending Your Enterprise Network to GCP (Cloud Next '18)](https://www.youtube.com/watch?v=28ildhOzMSI) | GCP |
 | | [Curated Networking playlist: Best Practices, VPC, GCE, Kubernetes (Kubecon, Cloud Next '18 '19)](https://www.youtube.com/playlist?list=PLxQzKf1gjjCPfFXjRa1pa-ykwBhKs4T0J) | Jaroslav Pantsjoha |
 | | [GCP Networking Deep Dive](https://www.youtube.com/watch?v=nRJBFNyY944&feature=youtu.be) | Prajakta Joshi & Srinivas Krishnan |
+| | [Playlist - Network Engineer Certification](https://www.youtube.com/playlist?list=PLxQzKf1gjjCPfFXjRa1pa-ykwBhKs4T0J) | |
 
 ### Online Trainings
 | Site | Title/Link | Instructor |
