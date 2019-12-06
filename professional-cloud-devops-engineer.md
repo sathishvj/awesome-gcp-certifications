@@ -12,6 +12,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2019/12 | [Experiences with the DevOps Beta Exam](https://www.linkedin.com/pulse/experiences-google-cloud-platform-devops-beta-exam-bj%25C3%25B6rn-jessen-noak/) | Björn Jessen-Noak |
 | 2019/11 | [Top Ten things to know for DevOps Beta Exam](https://myblockchainexperts.org/2019/11/17/top-ten-things-to-know-for-google-cloud-professional-devops-engineer-beta-exam/) | Joe Holbrook |
 | 2019/11 | [Study Guide](https://drive.google.com/file/d/1TU8i3-YbJ6xIa1aiaM9-Zf9iLYWl2q2O/view) | Ammett Williams |
 | 2019/11 | [SRE best practices for people in a hurry](https://medium.com/@waheedbrown/sre-best-practices-for-people-in-a-hurry-c49f89786b51) | Waheed Brown |
