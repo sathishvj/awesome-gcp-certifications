@@ -11,6 +11,7 @@
 | :---:         |     :---      |          :--- |
 | 2019/11 | [How to Pass GCP Network Engineer Certification](https://medium.com/ci-t/how-to-pass-the-google-professional-cloud-network-engineer-certification-40bb1f6cc962) | Ivam Luz |
 | 2019/11 | [Network Engineer Exam Study Guide](https://www.linkedin.com/pulse/google-cloud-professional-network-engineer-exam-study-mark-johnson/) | Mark Johnson |
+| 2019/10 | [Articles to go with her GCP Network videos](https://medium.com/@swongra) | Stephanie Wong |
 | 2019/08 | [Cloud Professional - Cloud Network Engineer Exam Prep sheet](https://www.linkedin.com/pulse/google-cloud-professional-network-engineer-exam-prep-williams/) | Ammett Williams |
 | 2019/07 | [Exam Experience: Fail-Fast. Learn. Pass.](https://medium.com/@jpantjsoha/google-cloud-network-engineer-exam-experience-fail-fast-learn-pass-1d913e18888) | Jaroslav Pantsjoha |
 | 2019/03 | [Google Professional Cloud Network Engineer Certification](https://www.jhanley.com/google-professional-network-engineer-certification/) | John Hanley |
@@ -39,6 +40,7 @@
 | | [Curated Networking playlist: Best Practices, VPC, GCE, Kubernetes (Kubecon, Cloud Next '18 '19)](https://www.youtube.com/playlist?list=PLxQzKf1gjjCPfFXjRa1pa-ykwBhKs4T0J) | Jaroslav Pantsjoha |
 | | [GCP Networking Deep Dive](https://www.youtube.com/watch?v=nRJBFNyY944&feature=youtu.be) | Prajakta Joshi & Srinivas Krishnan |
 | | [Playlist - Network Engineer Certification](https://www.youtube.com/playlist?list=PLxQzKf1gjjCPfFXjRa1pa-ykwBhKs4T0J) | |
+| | [Playlist - GCP Network End-to-End](https://www.youtube.com/watch?v=cNb7xKyya5c&list=PLIivdWyY5sqJ0oXcnZYqOnuNRsLF9H48u) | Stephanie Wong |
 
 ### Online Trainings
 | Site | Title/Link | Instructor |
