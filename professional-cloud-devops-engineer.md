@@ -19,6 +19,12 @@
 | | [Devops](https://cloud.google.com/devops/) | GCP Docs |
 | | [SRE resources from Google](https://landing.google.com/sre/resources/) | Google |
 | | [CI/CD on Google Cloud](https://cloud.google.com/docs/ci-cd/) | Google |
+| | [The Art of SLOs - landing page](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) | Google |
+| | [The Art of SLOs - slides](https://docs.google.com/presentation/d/1qcQ6alG_qUg3qWf733ZsDnTggwzqe4PZICrFXZ1zQZs/edit#slide=id.g75945b48fe_0_0) | Google |
+| | [The Art of SLOs - Participant Handbook](https://docs.google.com/document/d/11qMVVdn95tyGvYiVA5HwjlIV750-gYiT-dJCNS0ZPE0/edit) | Google |
+| | [The Art of SLOs - Facilitator Handbook](https://docs.google.com/document/d/1S-L2AWwNAgLwhPfPBG5qKww02k9Dj3LcCW0mlI1aURs/edit) | Google |
+| | []() | Google |
+| | []() | Google |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
