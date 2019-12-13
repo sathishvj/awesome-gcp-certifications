@@ -31,7 +31,7 @@
 ### Online Trainings
 | Site | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
-| Coursera | [G Suite Administrator Fundamentals](https://www.coursera.org/learn/gsuite-admin-fundamentals) | |
+| Coursera | [G Suite Administration Specialization](https://www.coursera.org/specializations/g-suite-administration) | |
 | Qwiklabs | [G Suite Certification: Practice Lab](https://google.qwiklabs.com/focuses/4051) | |
 | Google | [Applied Digital Skills - GSuite Certification](https://applieddigitalskills.withgoogle.com/en/gsuitecertification) | |
 | Google | [Applied Digital Skills](https://applieddigitalskills.withgoogle.com/s/en/home) | |
