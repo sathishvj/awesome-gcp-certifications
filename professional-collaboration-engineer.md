@@ -12,10 +12,13 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+|  2019/10 | [Professional Collaboration Engineer Exam Guide](https://www.observian.com/blog/professional-collaboration-engineer-exam-guide) | Ryan Allred |
+|  2015/08 | [Google Apps Technical Transition Guide](https://static.googleusercontent.com/media/www.google.com/en//support/enterprise/static/gapps/docs/admin/en/gapps_transition/gapps_transition_guide.pdf) | Google Apps |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| | [Official Practice Exam](https://cloud.google.com/certification/practice-exam/collaboration-engineer) | Google |
 
 ### Books
 | Published | Title/Link | Author |
@@ -24,6 +27,7 @@
 ### Videos / Sessions
 | Published | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
+| | [GSuite Channel on YouTube](https://www.youtube.com/user/GoogleApps/featured) | Google |
 
 
 ### Online Trainings
