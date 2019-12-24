@@ -14,6 +14,9 @@
 | :---:         |     :---      |          :--- |
 |  2019/10 | [Professional Collaboration Engineer Exam Guide](https://www.observian.com/blog/professional-collaboration-engineer-exam-guide) | Ryan Allred |
 |  2015/08 | [Google Apps Technical Transition Guide](https://static.googleusercontent.com/media/www.google.com/en//support/enterprise/static/gapps/docs/admin/en/gapps_transition/gapps_transition_guide.pdf) | Google Apps |
+|  | [Docs - Gmail Setup and Configuration](https://support.google.com/a/topic/2705493?hl=en&ref_topic=9202) | Google |
+|  | [Docs - G Suite migration tools product matrix](https://support.google.com/a/answer/9413033?hl=en) | Google |
+|  | [Docs - Data Migration Service](https://support.google.com/a/topic/6245191?hl=en&ref_topic=9212795) | Google |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
@@ -29,7 +32,6 @@
 | :---:         |     :---      |          :--- |
 | | [GSuite Channel on YouTube](https://www.youtube.com/user/GoogleApps/featured) | Google |
 
-
 ### Online Trainings
 | Site | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
@@ -38,4 +40,5 @@
 ### Qwiklabs Links
 |  Title/Link  |
 | :---:         |
+| [G Suite Essentials](https://google.qwiklabs.com/quests/65) | 
 | [G Suite Integrations](https://google.qwiklabs.com/quests/51) | 
