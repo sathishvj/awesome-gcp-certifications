@@ -38,6 +38,7 @@
 | Site | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
 | Coursera | [G Suite Administration Specialization](https://www.coursera.org/specializations/g-suite-administration/) | Google |
+| Coursera | [Introduction to Cloud Identity](https://www.coursera.org/learn/cloud-identity) | Google |
 
 ### Qwiklabs Links
 |  Title/Link  |
