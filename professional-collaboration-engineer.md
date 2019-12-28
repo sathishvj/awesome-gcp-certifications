@@ -17,6 +17,8 @@
 |  | [Docs - Gmail Setup and Configuration](https://support.google.com/a/topic/2705493?hl=en&ref_topic=9202) | Google |
 |  | [Docs - G Suite migration tools product matrix](https://support.google.com/a/answer/9413033?hl=en) | Google |
 |  | [Docs - Data Migration Service](https://support.google.com/a/topic/6245191?hl=en&ref_topic=9212795) | Google |
+|  | [G Suite Updates Blog](https://gsuiteupdates.googleblog.com/) | Google |
+|  | [G Suite Release Calendar](https://gsuite.google.com/whatsnew/calendar/) | Google |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |

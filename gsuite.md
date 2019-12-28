@@ -3,14 +3,14 @@
 | | | |
 | :---:         |     :---      |          :--- |
 | **Official Link:** | https://cloud.google.com/certification/gsuite/ | 
-| **Experience:** | Advanced | 
-| **Certification type:** | Specialization | 
 
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | 2019/07 | [Clearing the GSuite Certification Exam](https://www.linkedin.com/pulse/clearing-g-suite-certification-exam-ammett-williams/) | Ammett Williams |
 | | [Official Exam Guide](https://cloud.google.com/certification/guides/gsuite) | |
+|  | [G Suite Updates Blog](https://gsuiteupdates.googleblog.com/) | Google |
+|  | [G Suite Release Calendar](https://gsuite.google.com/whatsnew/calendar/) | Google |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
