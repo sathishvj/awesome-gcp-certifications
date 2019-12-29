@@ -48,4 +48,9 @@
 | Coursera | [Networking in Google Cloud Platform Specialization](https://www.coursera.org/specializations/networking-google-cloud-platform) | |
 | Qwiklabs | [Networking in the Google Cloud](https://google.qwiklabs.com/quests/31) | |
 | Qwiklabs | [Network Performance and Optimization](https://google.qwiklabs.com/quests/46) | |
+| Linux Academy | [GCP Network Concepts](https://linuxacademy.com/cp/modules/view/id/437) | |
+| Linux Academy | [GCP Network Management](https://linuxacademy.com/cp/modules/view/id/438) | |
+| Linux Academy | [GCP Hybrid Networking](https://linuxacademy.com/cp/modules/view/id/439) | |
+| Linux Academy | [GCP Network Design & Monitoring](https://linuxacademy.com/cp/modules/view/id/440) | |
+
 
