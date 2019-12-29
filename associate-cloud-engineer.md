@@ -15,6 +15,8 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2019/05 | [Notes from my Associate Cloud Engineer — Section 2](https://medium.com/@fahed.dorgaa/notes-from-my-google-cloud-associate-cloud-engineer-section-2-5469797b1079) | Fahed Dorgaa |
+| 2019/04 | [Notes from my Associate Cloud Engineer — Section 1](https://medium.com/@fahed.dorgaa/i-have-passed-the-associate-cloud-engineer-exam-373076d07288) | Fahed Dorgaa |
 | 2019/03 | [Google Cloud Certification : Associate Cloud Engineer](https://medium.com/devopslinks/google-cloud-certification-associate-cloud-engineer-dc25765a23e2) | Raj |
 | 2019/03 | [Google Associate Cloud Engineer (ACE) Certification Exam: Our Tips for Success](https://www.mobilise.cloud/blog/google-associate-cloud-engineer-exam) | mobilise.cloud | 
 | 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma | 
