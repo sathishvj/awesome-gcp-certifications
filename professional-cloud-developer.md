@@ -9,6 +9,8 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2019/12 | [How to pass the Google Professional Cloud Developer certification](https://medium.com/ci-t/how-to-pass-the-google-professional-cloud-developer-certification-2e89e5aaa31f?) | Ivam Luz |
+| 2019/03 | [https://medium.com/@joshlaird/google-cloud-certified-professional-cloud-developer-exam-tips-6cbc5ddb9fb8](https://medium.com/@joshlaird/google-cloud-certified-professional-cloud-developer-exam-tips-6cbc5ddb9fb8) | Josh Laird |
 | 2019/01 | [The — Google Cloud Professional Cloud Developer — Beta challenge](https://medium.com/@DaviddasNeves/the-google-cloud-professional-cloud-developer-beta-challenge-48b2ee6109d6) | David das Neves |
 | 2019/01 | [Notes from my beta Google Cloud Professional Cloud Developer Exam](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-cloud-developer-exam-e5826f6e5de1) | Sathish VJ |
 | 2018/11 | [Google Professional Cloud Developer — Study Guide](https://medium.com/@joaovitor/professional-cloud-developer-study-guide-309a69400ebc) | João Vitor Guimarães |
