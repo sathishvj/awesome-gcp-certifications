@@ -37,6 +37,7 @@
 | Site | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
 | Coursera | [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) | |
+| Coursera | [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) | |
 | Coursera | [Architecting with Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-architecture) | |
 | Udemy | [Google Cloud Platform Associate Cloud Engineer Bootcamp](https://www.udemy.com/google-cloud-platform-associate-cloud-engineer-bootcamp/) | |
 | Linux Academy | [Google Cloud Certified Associate Cloud Engineer](https://linuxacademy.com/google-cloud-platform/training/course/name/google-cloud-certified-associate-cloud-engineer) | |
