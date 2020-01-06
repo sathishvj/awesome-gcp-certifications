@@ -12,6 +12,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+|  2020/01 | [Notes from my Collaboration Engineer Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-collaboration-engineer-certification-exam-5aaaaa2a4b19) | Sathish VJ |
 |  2019/10 | [Professional Collaboration Engineer Exam Guide](https://www.observian.com/blog/professional-collaboration-engineer-exam-guide) | Ryan Allred |
 |  2015/08 | [Google Apps Technical Transition Guide](https://static.googleusercontent.com/media/www.google.com/en//support/enterprise/static/gapps/docs/admin/en/gapps_transition/gapps_transition_guide.pdf) | Google Apps |
 |  | [Docs - Gmail Setup and Configuration](https://support.google.com/a/topic/2705493?hl=en&ref_topic=9202) | Google |
