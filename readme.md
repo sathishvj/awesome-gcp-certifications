@@ -33,6 +33,7 @@ These references are useful across all certifications.
 | | [Google Cloud Products and Solutions in 4 words](https://github.com/gregsramblings/google-cloud-4-words) | Greg Wilson |
 | | [GCP Building Blocks - A Glossary of GCP Terms](https://docs.google.com/document/d/1-8vSS5rNOWmxVQWmTaWus7V5uZvgWZKY-Nl4bYMWDbk) | |
 | | [FREE codes for Qwiklabs](https://medium.com/@sathishvj/qwiklabs-free-codes-gcp-and-aws-e40f3855ffdb) | Sathish VJ |
+| | [FAQs on GCP Certification Exams](https://medium.com/@sathishvj/frequently-asked-follow-up-questions-on-google-cloud-gcp-certifications-438e1addb91d) | Sathish VJ |
 | | [Grace's Flowcharts](https://grumpygrace.dev/posts/gcp-flowcharts/) | Grace |
 | | [GCP Essentials - Staying in Touch](https://medium.com/google-cloud/gcp-essentials-staying-in-touch-43764ec9fa0a) | Alexis MP |
 | | [Community Tutorials](https://cloud.google.com/community/tutorials/) | |
