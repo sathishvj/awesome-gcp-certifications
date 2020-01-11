@@ -5,6 +5,7 @@
 | **Official Description:** | https://cloud.google.com/certification/data-engineer/ | 
 | **Certification type:** | Specialization | 
 | **Experience:** | Advanced - Professional | 
+| **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/data-engineer | 
 
 ### Posts
 | Published | Title/Link | Author |
