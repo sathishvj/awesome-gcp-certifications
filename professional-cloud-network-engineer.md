@@ -5,6 +5,7 @@
 | **Official Link:** | https://cloud.google.com/certification/cloud-network-engineer/ | 
 | **Experience:** | Professional | 
 | **Certification type:** | Specialization | 
+| **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/cloud-network-engineer | 
 
 ### Posts
 | Published | Title/Link | Author |
