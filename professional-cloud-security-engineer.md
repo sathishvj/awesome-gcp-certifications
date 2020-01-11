@@ -5,6 +5,7 @@
 | **Official Description:** | https://cloud.google.com/certification/cloud-security-engineer/ | 
 | **Experience:** | Advanced - Professional | 
 | **Certification type:** | Specialization | 
+| **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/cloud-security-engineer | 
 
 ### Posts
 | Published | Title/Link | Author |
