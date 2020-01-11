@@ -5,6 +5,7 @@
 | **Official Link:** | https://cloud.google.com/certification/cloud-developer/ | 
 | **Experience:** | Advanced - Professional | 
 | **Certification type:** | Specialization | 
+| **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/cloud-developer | 
 
 ### Posts
 | Published | Title/Link | Author |
