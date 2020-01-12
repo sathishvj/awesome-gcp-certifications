@@ -10,6 +10,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2020/01 | [How I pass the GCP Data Engineer exam - Key points to study and personal experience](https://medium.com/@kennycontreras/how-i-pass-the-gcp-data-engineer-exam-key-points-to-study-and-personal-experience-4eec4d7d3396) | Kenny Contreras |
 | 2019/12 | [How to pass the Google Cloud Professional Data Engineer exam](https://towardsdatascience.com/how-to-pass-the-google-cloud-professional-data-engineer-exam-f241d7191e47?source=friends_link&sk=ede0b669e5bf68a8e699a3443b9fb087) | Jonathan M |
 | | [Google Cloud - Professional Data Engineer Exam Study Materials](https://github.com/Leverege/gcp-data-engineer-exam) | Leverege Developers |
 | 2019/12 | [Road to Success — Professional Data Engineer](https://medium.com/@biswarup.ghoshal/road-to-success-professional-data-engineer-google-cloud-platform-41115fcf510e) | Biswarup Ghoshal |
