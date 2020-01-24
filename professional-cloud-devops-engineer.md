@@ -2,10 +2,9 @@
 
 | | | |
 | :---:         |     :---      |          :--- |
-| **Status:** | Beta | 
 | **Official Link:** | https://cloud.google.com/certification/cloud-devops-engineer | 
-| **Length:** | 4 hours when in beta with about 100 questions | 
-| **Registration fee:** | $120 (plus taxes where applicable). | 
+| **Length:** | 2 hours with about 50 questions | 
+| **Registration fee:** | $200 (plus taxes where applicable). | 
 | **Exam format:** | Multiple choice and multiple select, taken in person at a test center. | 
 | **Official Practice Test:** | NA | 
 
@@ -26,8 +25,6 @@
 | | [The Art of SLOs - slides](https://docs.google.com/presentation/d/1qcQ6alG_qUg3qWf733ZsDnTggwzqe4PZICrFXZ1zQZs/edit#slide=id.g75945b48fe_0_0) | Google |
 | | [The Art of SLOs - Participant Handbook](https://docs.google.com/document/d/11qMVVdn95tyGvYiVA5HwjlIV750-gYiT-dJCNS0ZPE0/edit) | Google |
 | | [The Art of SLOs - Facilitator Handbook](https://docs.google.com/document/d/1S-L2AWwNAgLwhPfPBG5qKww02k9Dj3LcCW0mlI1aURs/edit) | Google |
-| | []() | Google |
-| | []() | Google |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
@@ -45,8 +42,6 @@
 | :---:         |     :---      |          :--- |          :--- | 
 | 2019/04 | [DevOps and SRE sessions](https://www.youtube.com/playlist?list=PLIivdWyY5sqISlOXDGGK-SeUCvsxtB1c0)  | Cloud Next 2019 | |
 | 2018/03 | [class SRE implements DevOps - Playlist](https://www.youtube.com/watch?v=uTEL8Ff1Zvk&list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj)  | | Liz & Seth |
-
-
 
 ### Online Trainings
 | Site | Title/Link | Instructor |
