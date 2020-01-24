@@ -12,6 +12,8 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2020/01 | [Documentation Quick Links](https://drive.google.com/file/d/1C3lEJC8mJR6w6fFoSQWRKKY054jltj7f/view) | Salem Amazit |
+| 2020/01 | [How to Ace the Google Cloud Professional DevOps Engineer Certification](https://www.linkedin.com/pulse/how-ace-google-cloud-professional-devops-engineer-salem-amazit/) | Salem Amazit |
 | 2019/12 | [DevOps Engineer Exam prep sheet](https://www.linkedin.com/pulse/google-cloud-professional-devops-engineer-exam-prep-sheet-williams/?published=t) | Ammett Williams |
 | 2019/12 | [Experiences with the DevOps Beta Exam](https://www.linkedin.com/pulse/experiences-google-cloud-platform-devops-beta-exam-bj%25C3%25B6rn-jessen-noak/) | Björn Jessen-Noak |
 | 2019/11 | [Top Ten things to know for DevOps Beta Exam](https://myblockchainexperts.org/2019/11/17/top-ten-things-to-know-for-google-cloud-professional-devops-engineer-beta-exam/) | Joe Holbrook |
