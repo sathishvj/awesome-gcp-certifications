@@ -12,6 +12,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2019/07 | [How to pass the Cloud Architect and Data Engineer GCP certifications](https://medium.com/ci-t/how-to-pass-both-the-cloud-architect-and-data-engineer-gcp-certifications-bb6a0812a1b1) | Ivam Luz |
 | 2019/03 | [Professional Cloud Architect Certification](https://medium.com/google-cloud/professional-cloud-architect-certification-6a6dfa5c6ff5) | Mete Atamel |
 | 2019/01 | [Notes from my Google Cloud Professional Cloud Architect Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-cloud-architect-exam-bbc4299ac30) | Sathish VJ |
 | 2019/01 | [5 Tips to Become a Google Cloud Certified Professional Architect](https://thenewstack.io/5-tips-to-become-a-google-cloud-certified-professional-architect/) | Janakiram MSV |
