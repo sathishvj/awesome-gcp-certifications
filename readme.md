@@ -12,6 +12,7 @@
 - [Professional Cloud Security Engineer](professional-cloud-security-engineer.md)
 - [Professional Data Engineer](professional-data-engineer.md)
 - [Professional Collaboration Engineer](professional-collaboration-engineer.md)
+- [Fellow Hybrid Multi-cloud](fellow-hybrid-multi-cloud.md)
 - [GSuite](gsuite.md)
 - [Apigee Certified API Engineer](apigee-certified-api-engineer.md)
 - [Contributing](#Contributing)
