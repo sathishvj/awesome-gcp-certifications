@@ -26,7 +26,8 @@
 ### Online Trainings
 | Site | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
+| QwikLabs | [Architecting Hybrid Cloud Infrastructure with Anthos](https://www.qwiklabs.com/courses/1336) | |
 
 ### Qwiklabs Links
 |  Title/Link  |
-| :---:         |
+| [Architecting Hybrid Cloud Infrastructure with Anthos](https://www.qwiklabs.com/courses/1336) |
