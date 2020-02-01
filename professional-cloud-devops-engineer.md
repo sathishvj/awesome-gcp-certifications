@@ -11,6 +11,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2020/01 | [Identifying and tracking toil using SRE principles](https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles) | Google Cloud Blog |
 | 2020/01 | [Documentation Quick Links](https://drive.google.com/file/d/1C3lEJC8mJR6w6fFoSQWRKKY054jltj7f/view) | Salem Amazit |
 | 2020/01 | [How to Ace the Google Cloud Professional DevOps Engineer Certification](https://www.linkedin.com/pulse/how-ace-google-cloud-professional-devops-engineer-salem-amazit/) | Salem Amazit |
 | 2019/12 | [DevOps Engineer Exam prep sheet](https://www.linkedin.com/pulse/google-cloud-professional-devops-engineer-exam-prep-sheet-williams/?published=t) | Ammett Williams |
