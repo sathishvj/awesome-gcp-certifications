@@ -32,6 +32,9 @@
 | | [Google Cloud Platform in Action](https://www.google.com/search?q=Google+Cloud+Platform+in+Action+JJ+Geewax) | | JJ Geewax |
 
 ### Videos / Sessions
+| Published | Title/Link | Publisher | Authors |
+| :---:         |     :---     |     :---       |          :--- |
+| | [The Certified Q&A - Associate Cloud Engineer Playlist](https://www.youtube.com/watch?v=MESzvFfGhN8&list=PLQMsfKRZZviRwqJwNmh1eAWnRMvlrk40x) | AwesomeGCP | Sathish VJ |
 
 ### Online Trainings
 | Site | Title/Link | Instructor |
