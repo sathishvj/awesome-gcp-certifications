@@ -33,7 +33,6 @@
 | | [Official Practice Exam](https://cloud.google.com/certification/practice-exam/data-engineer) | |
 | Udemy | [Google Cloud - Professional Data Engineer Practice Exams](https://www.udemy.com/google-cloud-certified-professional-data-engineer-practice-exams/) | |
 
-
 ### Books
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
@@ -72,3 +71,9 @@
 | :---:         |
 | [Baseline: Data, ML, AI](https://google.qwiklabs.com/quests/34) | 
 | [Data Engineering](https://google.qwiklabs.com/quests/25) | 
+
+### Deep Dive Links
+| Published | Topic | Title/Link | Instructor |
+| :---:     | :---  |   :---     |   :---     |
+| 2020/02 | Cloud Spanner | [Internals of Google Cloud Spanner](https://thedataguy.in/internals-of-google-cloud-spanner/) | Bhuvanesh |
+
