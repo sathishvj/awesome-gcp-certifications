@@ -26,6 +26,7 @@ These references are useful across all certifications.
 
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2020/02 | [AwesomeGCP Channel](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A) | Sathish VJ |
 | | [GCP Certification](https://cloud.google.com/certification/) | GCP Docs |
 | | [FAQs - GCP Certification](https://cloud.google.com/certification/faqs/) | Frequently Asked Questions |
 | | [Cloud Solutions Architecture Reference](http://gcp.solutions/) | GCP Docs |
@@ -63,7 +64,7 @@ These references are useful across all certifications.
 
 ### Contributing
 - Please contribute to making this list really awesome, exhaustive, and up to date.
-- Contributing to this list is easy - adding the information in an issue would be the easiest.  
+- Contributing to this list is easy: a pull request in this repo or you can also send me the info on [LinkedIn](https://www.linkedin.com/in/sathishvj/) or [Twitter](https://twitter.com/sathishvj).
 - Please provide details as required by that section.  Links, author names, date published, which certification(s) does it apply to, etc.
 - For book links, preferably send a search link with the book and author name.  (Why? Using an amazon.com link assumes that all readers are in one country and using one book seller.)
 
