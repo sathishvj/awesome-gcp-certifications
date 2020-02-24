@@ -10,6 +10,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2020/02 | [BeyondProd: A new approach to cloud-native security](https://cloud.google.com/security/beyondprod/) | Google |
 | 2019/11 | [Exam Study Guide](https://www.linkedin.com/pulse/google-cloud-professional-security-engineer-exam-study-mark-johnson/) | Mark Johnson |
 | 2019/11 | [Google Cloud Security Engineer Exam Notes](https://medium.com/@tjwebb/google-cloud-security-engineer-exam-21f55d3dd5a7) | Travis Webb |
 | 2019/08 | [How to pass the Google Professional Cloud Security Engineer certification](https://medium.com/ci-t/how-to-pass-the-google-professional-cloud-security-engineer-certification-74160bf4d205) | Ivam Luz |
