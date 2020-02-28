@@ -10,6 +10,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2020/02 | [Topics in the GCP PDE Exam](https://developer.rackspace.com/blog/topics-in-the-google-cloud-professional-data-engineer-certification-exam/) | Sabeehah Ahmed |
 | 2020/02 | [My personal road map and thoughts in 2020](https://medium.com/@helpthx/google-cloud-professional-data-engineer-certification-my-personal-road-map-and-thoughts-in-2020-b78f5e1984ca) | João Vitor Baptista |
 | 2020/01 | [How I pass the GCP Data Engineer exam - Key points to study and personal experience](https://medium.com/@kennycontreras/how-i-pass-the-gcp-data-engineer-exam-key-points-to-study-and-personal-experience-4eec4d7d3396) | Kenny Contreras |
 | 2019/12 | [How to pass the Google Cloud Professional Data Engineer exam](https://towardsdatascience.com/how-to-pass-the-google-cloud-professional-data-engineer-exam-f241d7191e47?source=friends_link&sk=ede0b669e5bf68a8e699a3443b9fb087) | Jonathan M |
