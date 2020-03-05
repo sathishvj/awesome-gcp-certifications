@@ -6,7 +6,7 @@
 | **Length:** | 2 hours with about 50 questions | 
 | **Registration fee:** | $200 (plus taxes where applicable). | 
 | **Exam format:** | Multiple choice and multiple select, taken in person at a test center. | 
-| **Official Practice Test:** | NA | 
+| **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/cloud-devops-engineer | 
 
 ### Posts
 | Published | Title/Link | Author |
