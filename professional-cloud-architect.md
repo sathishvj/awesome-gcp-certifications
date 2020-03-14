@@ -40,6 +40,7 @@
 ### Videos / Sessions
 | Published | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
+| | [AwesomeGCP - Professional Architect Playlist](https://www.youtube.com/watch?v=iNJe_NrbijM&list=PLQMsfKRZZviTIxEh0pkWNwnDUasGVZS4n&index=1) | Sathish VJ |
 | | [Preparing for the GCP Cloud Architect certification](https://www.youtube.com/watch?v=kM8h_IZWYjA) | Raphael Soeiro |
 | | [Google Cloud Platform Cloud Architect Certification Review Questions Virtual Networking](https://www.youtube.com/watch?v=EGum8zDYidk) | Joe |
 | | [getgcpcertified.com - "DevOps in GCP & Site Reliability Engineering Ideas"](https://www.getgcpcertified.com/p/free-trial-professional-cloud-architect) | |
