@@ -38,6 +38,7 @@
 ### Books
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| | [Book Sample - PDE Study Guide](https://media-exp1.licdn.com/dms/document/C561FAQHfTg833-JRfg/feedshare-document-pdf-analyzed/0?e=1584889200&v=beta&t=9FFVRN1STxJEZvXXwSxkFj_UUDdgHFifnap6wruJHF0) | Dan Sullivan |
 | | [Data Science on the Google Cloud Platform](https://www.google.com/search?q=Data%20Science%20on%20the%20Google%20Cloud%20Platform) | Valliappa Lakshmanan |
 | | [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.google.com/search?q=Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow) | Aurélien Géron |
 | 2019/10 | [Google BigQuery: The Definitive Guide](https://www.google.com/search?q=bigquery+the+definitive+guide+Book+by+Jordan+Tigani+and+Valliappa+Lakshmanan) | Jordan Tigani & Valliappa Lakshmanan |
