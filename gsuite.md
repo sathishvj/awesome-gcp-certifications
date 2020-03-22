@@ -7,6 +7,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2020/03 | [Nailing Google Cloud Certified G Suite exam](https://gcpfellow.com/2020/03/22/nailing-google-cloud-certified-g-suite-exam/) | Konrad Clapa |
 | 2020/01 | [Notes from my G Suite Certification Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-g-suite-certification-exam-36cd881eded3) | Sathish VJ |
 | 2019/07 | [Clearing the GSuite Certification Exam](https://www.linkedin.com/pulse/clearing-g-suite-certification-exam-ammett-williams/) | Ammett Williams |
 | | [Official Exam Guide](https://cloud.google.com/certification/guides/gsuite) | |
