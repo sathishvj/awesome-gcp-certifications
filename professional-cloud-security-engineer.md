@@ -24,6 +24,7 @@
 | 2019/02 | [Google Professional Cloud Security Engineer Beta Exam walkthrough](http://deploy.live/blog/google-professional-cloud-security-engineer-beta-exam/) | Dmitri Lerko |
 | 2019/02 | [Google Cloud Professional Security Engineer Exam Guide](https://www.linkedin.com/pulse/google-cloud-professional-security-engineer-exam-guide-darpan-shah/) | Darpan Shah |
 | 2018/03 | [Google Cloud Security Whitepapers](https://services.google.com/fh/files/misc/security_whitepapers_march2018.pdf) | Google |
+|  | [Path to Professional Security Engineer](https://www.linkedin.com/posts/google-cloud_with-google-cloud-certifications-validate-activity-6633382346668277760-M69P) | Google |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |

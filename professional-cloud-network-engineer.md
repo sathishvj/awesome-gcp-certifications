@@ -18,6 +18,7 @@
 | 2019/03 | [Google Professional Cloud Network Engineer Certification](https://www.jhanley.com/google-professional-network-engineer-certification/) | John Hanley |
 | 2019/02 | [Notes from my beta Network Engineer Certification Exam](https://medium.com/@sathishvj/notes-from-my-beta-google-cloud-professional-network-engineer-certification-exam-2b08d852aae1) | Sathish VJ |
 | 2019/01 | [Google Professional Cloud Network Engineer Beta Exam walkthrough](https://deploy.live/blog/google-professional-cloud-network-engineer-beta-exam/) | Lerko |
+|  | [Path to Network Engineer](https://www.linkedin.com/posts/google-cloud_the-net-result-of-the-professional-cloud-activity-6642980069734182912-ae1G) | Google |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
