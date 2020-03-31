@@ -40,6 +40,7 @@
 ### Qwiklabs Links
 |  Title/Link  |
 | :---:         |
+| [Developer Essentials](https://google.qwiklabs.com/quests/86) |
 | [Application Development - Java](https://google.qwiklabs.com/quests/42) |
 | [Application Development - Python](https://google.qwiklabs.com/quests/41) |
 | [Kubernetes Solutions](https://google.qwiklabs.com/quests/45) |
