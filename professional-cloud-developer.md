@@ -10,6 +10,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2020/03 | [Google PCD Certification preparation strategy](https://medium.com/@jpantjsoha/google-professional-cloud-developer-certification-preparation-strategy-272c8e9bd923) | JPantsjoha |
 | 2019/12 | [How to pass the Google Professional Cloud Developer certification](https://medium.com/ci-t/how-to-pass-the-google-professional-cloud-developer-certification-2e89e5aaa31f?) | Ivam Luz |
 | 2019/03 | [https://medium.com/@joshlaird/google-cloud-certified-professional-cloud-developer-exam-tips-6cbc5ddb9fb8](https://medium.com/@joshlaird/google-cloud-certified-professional-cloud-developer-exam-tips-6cbc5ddb9fb8) | Josh Laird |
 | 2019/01 | [The — Google Cloud Professional Cloud Developer — Beta challenge](https://medium.com/@DaviddasNeves/the-google-cloud-professional-cloud-developer-beta-challenge-48b2ee6109d6) | David das Neves |
