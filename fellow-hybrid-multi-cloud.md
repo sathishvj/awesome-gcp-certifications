@@ -10,6 +10,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| | [CIO's Guide to Application Migration](https://services.google.com/fh/files/misc/cio_guide_to_application_migraton.pdf) |  Google Cloud |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
