@@ -10,6 +10,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| | [Anthos Under the Hood - Whitepaper](https://inthecloud.withgoogle.com/content-anthos/whitepaper_anthos_under_the_hood_2020.pdf) |  Google Cloud |
 | | [CIO's Guide to Application Migration](https://services.google.com/fh/files/misc/cio_guide_to_application_migraton.pdf) |  Google Cloud |
 
 ### Practice Exams / Tests
