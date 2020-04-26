@@ -10,6 +10,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2020/04 | [How to Prepare for GCP PDE Exam](https://medium.com/@hardikr68/how-to-prepare-for-and-clear-the-gcp-professional-data-engineer-exam-7e7ff518cf4a) | Hardik Rathod |
 | 2020/02 | [Topics in the GCP PDE Exam](https://developer.rackspace.com/blog/topics-in-the-google-cloud-professional-data-engineer-certification-exam/) | Sabeehah Ahmed |
 | 2020/02 | [My personal road map and thoughts in 2020](https://medium.com/@helpthx/google-cloud-professional-data-engineer-certification-my-personal-road-map-and-thoughts-in-2020-b78f5e1984ca) | João Vitor Baptista |
 | 2020/01 | [How I pass the GCP Data Engineer exam - Key points to study and personal experience](https://medium.com/@kennycontreras/how-i-pass-the-gcp-data-engineer-exam-key-points-to-study-and-personal-experience-4eec4d7d3396) | Kenny Contreras |
@@ -54,10 +55,10 @@
 | :---:         |     :---      |          :--- |
 | Coursera | [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam) | |
 | Coursera | [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning) | |
-| Linux Academy | ["Google Cloud Certified Professional Data Engineer"](https://linuxacademy.com/linux/training/course/name/google-cloud-data-engineer) | |
-| Udemy | ["Preparing for the Google Cloud Professional Data Engineer Exam"](https://www.udemy.com/topic/google-cloud-professional-data-engineer/) | |
-| Udemy | ["An Introduction to Google Cloud Platform for Data Engineers"](https://www.udemy.com/an-introduction-to-google-cloud-platform-for-data-engineers/) | |
-| Udemy | ["Learn GCP: Google Cloud Data Engineer Express Course!"](https://www.udemy.com/learn-gcp-become-a-certified-data-engineer-express-course/) | |
+| Linux Academy | [Google Cloud Certified Professional Data Engineer](https://linuxacademy.com/linux/training/course/name/google-cloud-data-engineer) | |
+| Udemy | [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.udemy.com/topic/google-cloud-professional-data-engineer/) | |
+| Udemy | [An Introduction to Google Cloud Platform for Data Engineers](https://www.udemy.com/an-introduction-to-google-cloud-platform-for-data-engineers/) | |
+| Udemy | [Learn GCP: Google Cloud Data Engineer Express Course!](https://www.udemy.com/learn-gcp-become-a-certified-data-engineer-express-course/) | |
 | acloud.guru | [Applied Machine Learning with BigQuery on Google Cloud Platform](https://acloud.guru/learn/gcp-applied-machine-learning-bigquery) | Mike West |
 | pluralsight | [Data Engineering on Google Cloud Platform](https://www.pluralsight.com/paths/data-engineering-on-google-cloud-platform) | Google Cloud |
 | pluralsight | [Google: Professional Cloud Data Engineer](https://www.pluralsight.com/paths/google-professional-cloud-data-engineer) | Janani Ravi, Vitthal Srinivasan |
