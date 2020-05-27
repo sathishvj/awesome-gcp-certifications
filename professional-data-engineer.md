@@ -10,6 +10,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2020/05 | [Data Engineering on GCP Specialisation](https://towardsdatascience.com/data-engineering-on-gcp-specialisation-a-comprehensive-guide-for-data-professionals-4bb8bae8a1c7) | Alex Papageorgiou |
 | 2020/04 | [How to Prepare for GCP PDE Exam](https://medium.com/@hardikr68/how-to-prepare-for-and-clear-the-gcp-professional-data-engineer-exam-7e7ff518cf4a) | Hardik Rathod |
 | 2020/02 | [Topics in the GCP PDE Exam](https://developer.rackspace.com/blog/topics-in-the-google-cloud-professional-data-engineer-certification-exam/) | Sabeehah Ahmed |
 | 2020/02 | [My personal road map and thoughts in 2020](https://medium.com/@helpthx/google-cloud-professional-data-engineer-certification-my-personal-road-map-and-thoughts-in-2020-b78f5e1984ca) | João Vitor Baptista |
@@ -26,6 +27,7 @@
 | 2019/01 | [Notes from my Google Cloud Professional Data Engineer Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0) | Sathish VJ |
 | 2019/01 | [GCP Certified Data Engineer in 3 Weeks](https://medium.com/@avinash.gupta/gcp-certified-data-engineer-in-3-weeks-345ecfa667c3) | Avinash Gupta |
 | 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma |
+| 2018/11 | [Preparing for the Google Cloud](https://tzamtzis.gr/2018/digital-analytics/becoming-gcp-data-engineer/) | Panagiotis |
 | 2018/10 | [How to pass your Google Cloud Platform Professional Data Engineer exam](https://www.slideshare.net/vinoaj/measure-camp-how-to-pass-your-gcp-professional-data-engineer-exam-20181020) | vinoaj |
 | 2018/10 | [A Study Guide to the Google Cloud Professional Data Engineer Certification Path](https://medium.com/@simonleewm/a-study-guide-to-the-google-cloud-professional-data-engineer-certification-path-9e83e41e311) | Simon Lee |
 | 2017/12 | [Google Cloud Certified Professional - Data Engineer Track](https://www.linkedin.com/pulse/google-cloud-certified-professional-data-engineer-writeup-rix/) | Kayleigh Rix |
