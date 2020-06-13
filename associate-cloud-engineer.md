@@ -26,6 +26,7 @@
 | 2018/08 | [Associate Cloud Engineer Certification Exam Overview- Things to do](https://medium.com/@achilleslinux/associate-cloud-engineer-certification-exam-overview-things-to-do-466c7b9a2885) | Avinash Kumar |
 | 2018/05 | [Associate Cloud Engineer — Study Guide](https://medium.com/@joaovitor/associate-cloud-engineer-study-guide-cf7e74da1bb6) | João Vitor Guimarães |
 |  | [Path to Associate Cloud Engineer](https://www.linkedin.com/posts/google-cloud_an-associate-cloud-engineer-deploys-applications-activity-6636791052072210433-FoE2) | Google |
+|  | [Guide to GCP And Certification](https://wilsonmar.github.io/gcp/) | Wilson Mar |
 
 ### Books
 | Published | Title/Link | Publisher | Authors |
