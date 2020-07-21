@@ -157,7 +157,3 @@ These references are useful across all certifications.
 - When one of my blog posts leaked some exam info, I was contacted by the Google Certifications Team.
 - If you find any posts that I've listed which might be a concern, please let me and also the original authors know.
 
-### Landing Image
-Just some image so that the photo that shows up in social media is not my face from my github profile.
-
-![Some certification badges](./images/gcp-all-circles@0.5x.jpg)
