@@ -137,6 +137,7 @@ These references are useful across all certifications.
 | Super Administrator Account | https://cloud.google.com/resource-manager/docs/super-admin-best-practices |
 | Tightly Coupled HPC Apps | https://cloud.google.com/solutions/best-practices-for-using-mpi-on-compute-engine |
 | User Account, Authentication and Password Management | https://cloud.google.com/blog/products/gcp/12-best-practices-for-user-account |
+| VPC design | https://cloud.google.com/solutions/best-practices-vpc-design |
 | VPN | https://cloud.google.com/network-connectivity/docs/vpn/resources/best-practices |
 | VPN | https://cloud.google.com/vpn/docs/resources/best-practices |
 | Working with Cloud Support | https://cloud.google.com/support/docs/best-practice |
