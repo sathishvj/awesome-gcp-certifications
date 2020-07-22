@@ -15,6 +15,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2020/07 | [From ALC to ACE](https://medium.com/@MercyMarkus/from-alc-to-google-certified-associate-cloud-engineer-b7e5707f9bf0) | Mercy Markus |
 | 2020/03 | [How I Passed the GCP ACE](https://medium.com/@charles_j/how-i-passed-the-google-cloud-associate-engineer-certification-63a0fd932057) | Charles J |
 | 2019/12 | [How to plan and clear Google Cloud Associate Cloud Enginner Certificate](http://www.legendshub.com/blog/2019/12/24/how-to-plan-and-clear-google-cloud-associate-certificate-legendshub-blog/) | amrit_3327 |
 | 2019/05 | [Notes from my Associate Cloud Engineer — Section 2](https://medium.com/@fahed.dorgaa/notes-from-my-google-cloud-associate-cloud-engineer-section-2-5469797b1079) | Fahed Dorgaa |
