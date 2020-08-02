@@ -111,6 +111,7 @@ These references are useful across all certifications.
 | Identity Federation | https://cloud.google.com/architecture/identity/best-practices-for-federating |
 | Kubernetes | https://cloud.google.com/blog/products/containers-kubernetes/your-guide-kubernetes-best-practices |
 | Kubernetes | https://cloud.google.com/blog/topics/kubernetes-best-practices |
+| Kubernetes - running cost-optimized applications on GKE| https://cloud.google.com/solutions/best-practices-for-running-cost-effective-kubernetes-applications-on-gke |
 | Management Tools Client Libraries | https://cloud.google.com/apis/docs/client-libraries-best-practices |
 | Media Translation | https://cloud.google.com/translate/media/docs/best-practices |
 | Media Translation | https://cloud.google.com/translate/media/docs/best-practices?hl=tr |
