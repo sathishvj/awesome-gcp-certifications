@@ -128,6 +128,7 @@ These references are useful across all certifications.
 | Running Active Directory | https://cloud.google.com/managed-microsoft-ad/docs/best-practices |
 | SQL Server Instances | https://cloud.google.com/compute/docs/instances/sql-server/best-practices |
 | Secure IAM | https://cloud.google.com/iam/docs/using-iam-securely |
+| Service Accounts | https://cloud.google.com/iam/docs/understanding-service-accounts#best_practices |
 | Spanner Bulk Loading | https://cloud.google.com/spanner/docs/bulk-loading |
 | Spanner Data Manipulation Language | https://cloud.google.com/spanner/docs/dml-best-practices |
 | Spanner SQL | https://cloud.google.com/spanner/docs/sql-best-practices |
