@@ -40,6 +40,7 @@
 ### Videos / Sessions
 | Published | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
+| | [Playlist - Google Cloud Security Showcase](https://www.youtube.com/playlist?list=PLBgogxgQVM9tEGqcLF7DL_Q0sst5RvPLn) | Google Cloud |
 | | [Professional GCP Cloud Security Engineer - Beta Exam](https://www.youtube.com/playlist?list=PLAFY3hrExHFF4Df4TTXlvKCdiKIF7SZz2) | Satyen Kumar |
 | | [Google Cloud Professional Security Engineer](https://www.youtube.com/playlist?list=PLxQzKf1gjjCPqkPeX0pJqI9lp2Ifyy1oW) | Jaroslav Pantsjoha |
 
