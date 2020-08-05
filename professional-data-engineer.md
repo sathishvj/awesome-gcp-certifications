@@ -10,6 +10,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2020/07 | [preparation, tips, and my journey from failing to passing experience](https://medium.com/@kshitijmb/gcp-data-engineer-exam-preparation-important-tips-and-my-emotional-journey-from-failing-to-132d91dc75f8) | Kshitij Bhadage |
 | 2020/05 | [Data Engineering on GCP Specialisation](https://towardsdatascience.com/data-engineering-on-gcp-specialisation-a-comprehensive-guide-for-data-professionals-4bb8bae8a1c7) | Alex Papageorgiou |
 | 2020/04 | [How to Prepare for GCP PDE Exam](https://medium.com/@hardikr68/how-to-prepare-for-and-clear-the-gcp-professional-data-engineer-exam-7e7ff518cf4a) | Hardik Rathod |
 | 2020/02 | [Topics in the GCP PDE Exam](https://developer.rackspace.com/blog/topics-in-the-google-cloud-professional-data-engineer-certification-exam/) | Sabeehah Ahmed |
@@ -26,6 +27,7 @@
 | 2019/04 | [Certified Professional Data Engineer - 2019 Updated exam](https://deploy.live/blog/google-cloud-certified-professional-data-engineer/) | Dmitri Lerko |
 | 2019/01 | [Notes from my Google Cloud Professional Data Engineer Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0) | Sathish VJ |
 | 2019/01 | [GCP Certified Data Engineer in 3 Weeks](https://medium.com/@avinash.gupta/gcp-certified-data-engineer-in-3-weeks-345ecfa667c3) | Avinash Gupta |
+| 2019/01 | [Cheat sheet](https://www.slideshare.net/GuangXu5/gcp-data-engineer-cheatsheet) | Guang Xu |
 | 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma |
 | 2018/11 | [Preparing for the Google Cloud](https://tzamtzis.gr/2018/digital-analytics/becoming-gcp-data-engineer/) | Panagiotis |
 | 2018/10 | [How to pass your Google Cloud Platform Professional Data Engineer exam](https://www.slideshare.net/vinoaj/measure-camp-how-to-pass-your-gcp-professional-data-engineer-exam-20181020) | vinoaj |
