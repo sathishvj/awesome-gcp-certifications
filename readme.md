@@ -59,6 +59,7 @@ These references are useful across all certifications.
 ### Miscellaneous References
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| | [Official Icons and Sample Diagrams](https://cloud.google.com/icons) | Google Cloud |
 | | [Weekly Newsletter](https://www.gcpweekly.com/newsletter/) | Zdenko Hrček |
 | | [Forum for certified people (invite only)](https://www.cloudconnectcommunity.com/ccc/ls/community/google-cloud-certifications) | |
 | | [Google Cloud Certified Credential Holder Directory (voluntary list)](https://googlecloudcertified.credential.net/) | |
