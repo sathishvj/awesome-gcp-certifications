@@ -11,6 +11,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+|  2020/08 | [GCP ML Engineer Certification: Post Exam Impressions](https://www.linkedin.com/pulse/google-cloud-professional-machine-learning-engineer-post-timoteo/) | Carlos Timoteo |
 |  2020/08 | [GCP ML Engineer Certification Preparation Guide](https://deploy.live/blog/google-cloud-professional-machine-learning-engineer-certification-preparation-guide/) | Dmitri and Steven |
 |  2020/07 | [My take on Professional ML (Beta) Exam](https://www.linkedin.com/pulse/my-take-professional-machine-learning-engineerbeta-exam-parth-mehta/) | Parth M. |
 
