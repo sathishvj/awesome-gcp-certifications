@@ -5,7 +5,7 @@
 | **Official Link:** | https://cloud.google.com/certification/collaboration-engineer/  | 
 | **Length:** | 2 hours | 
 | **Registration fee:** | $200 (plus taxes where applicable). There is also a discount for those from countries with lower purchasing power parity. | 
-| **Exam format:** | Multiple choice and multiple select, take the exam [remotly or at a nearby testing center.](https://cloud.google.com/certification/collaboration-engineer) | 
+| **Exam format:** | Multiple choice and multiple select, take the exam remotely or at a nearby testing center. | 
 | **Recommended experience:** | 3+ years of industry experience including 1+ year G Suite administration experience.  | 
 | **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/collaboration-engineer | 
 
