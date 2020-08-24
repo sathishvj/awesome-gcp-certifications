@@ -11,10 +11,10 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-|  2020/08 | [My notes from GCP ML Engineer exam](https://medium.com/@jmoniz0/my-notes-on-google-cloud-machine-learning-engineer-exam-280eab80f8ab) | João Serra |
-|  2020/08 | [GCP ML Engineer Certification: Post Exam Impressions](https://www.linkedin.com/pulse/google-cloud-professional-machine-learning-engineer-post-timoteo/) | Carlos Timoteo |
-|  2020/08 | [GCP ML Engineer Certification Preparation Guide](https://deploy.live/blog/google-cloud-professional-machine-learning-engineer-certification-preparation-guide/) | Dmitri and Steven |
-|  2020/07 | [My take on Professional ML (Beta) Exam](https://www.linkedin.com/pulse/my-take-professional-machine-learning-engineerbeta-exam-parth-mehta/) | Parth M. |
+|  2020/08 | [My notes from GCP ML Engineer exam](https://medium.com/@jmoniz0/my-notes-on-google-cloud-machine-learning-engineer-exam-280eab80f8ab) | [João Serra](https://www.linkedin.com/in/joao-serra-cardoso-04464745/) |
+|  2020/08 | [GCP ML Engineer Certification: Post Exam Impressions](https://www.linkedin.com/pulse/google-cloud-professional-machine-learning-engineer-post-timoteo/) | [Carlos Timoteo](https://www.linkedin.com/in/carlos-timoteo-data-scientist/) |
+|  2020/08 | [GCP ML Engineer Certification Preparation Guide](https://deploy.live/blog/google-cloud-professional-machine-learning-engineer-certification-preparation-guide/) | [Dmitri](https://www.linkedin.com/in/lerko/) and [Steven](https://www.linkedin.com/in/steven-macmanus-56384519b/) |
+|  2020/07 | [My take on Professional ML (Beta) Exam](https://www.linkedin.com/pulse/my-take-professional-machine-learning-engineerbeta-exam-parth-mehta/) | [Parth M.](https://www.linkedin.com/in/parthmehta/) |
 
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
