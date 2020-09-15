@@ -28,6 +28,7 @@ These references are useful across all certifications.
 
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2020/09 | [Passing and Failing GCP Certification Exams](https://www.linkedin.com/pulse/passing-failing-google-cloud-certification-exams-bernd-nordhausen/) | Bernd Nordhausen |
 | 2020/03 | [Getting all the 10/10 GCP certificates – how do I start? Part 1/X](https://gcpfellow.com/2020/03/14/getting-all-the-10-10-gcp-certificates-how-do-i-start-part-1-x/) | Konrad Clapa |
 | 2020/02 | [AwesomeGCP Channel](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A) | Sathish VJ |
 | | [TechDevGuide - Cloud Computing ](https://techdevguide.withgoogle.com/paths/cloud/) | Google |
