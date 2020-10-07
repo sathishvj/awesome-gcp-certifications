@@ -51,6 +51,7 @@
 | :---:         |     :---      |          :--- |
 | Coursera | [Developing a Google SRE Culture](https://www.coursera.org/learn/developing-a-google-sre-culture) | Google |
 | Coursera | [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos/home/info) | Google |
+| Coursera | [Logging, Monitoring and Observability in Google Cloud](https://www.coursera.org/learn/logging-monitoring-observability-google-cloud) | Google |
 | Coursera | [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine/home/info) | Google |
 | Pluralsight | [Managing Cloud Resources Using Google Stackdriver](https://app.pluralsight.com/library/courses/google-stackdriver-managing-cloud-resources/table-of-contents) | Janani Ravi |
 | Pluralsight | [Managing Logs, Errors and Application Performance Using Google Stackdriver](https://app.pluralsight.com/library/courses/google-stackdriver-managing-logs-errors-application-performance/table-of-contents) | Vitthal Srinivasan |
