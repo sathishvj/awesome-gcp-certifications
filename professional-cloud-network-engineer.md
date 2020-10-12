@@ -10,6 +10,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2020/10 | [How to pass PCNE and Exam Preparation Tips](https://www.linkedin.com/pulse/how-pass-google-professional-cloud-network-engineer-tips-singh/) | Saurabh Singh |
 | 2019/11 | [How to Pass GCP Network Engineer Certification](https://medium.com/ci-t/how-to-pass-the-google-professional-cloud-network-engineer-certification-40bb1f6cc962) | Ivam Luz |
 | 2019/11 | [Network Engineer Exam Study Guide](https://www.linkedin.com/pulse/google-cloud-professional-network-engineer-exam-study-mark-johnson/) | Mark Johnson |
 | 2019/10 | [Articles to go with her GCP Network videos](https://medium.com/@swongra) | Stephanie Wong |
