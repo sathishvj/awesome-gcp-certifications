@@ -55,6 +55,9 @@
 | Qwiklabs | [GCP Essentials](https://google.qwiklabs.com/quests/23) | |
 | Qwiklabs | [Challenge: GCP Architecture](https://google.qwiklabs.com/quests/47) | |
 | Coursera | [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam) | |
+| Coursera | [Cloud Infrastructure Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process) | |
+| Coursera | [Cloud Architecture with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect) | |
+| Coursera | [Architecting with Google Compute Engine Specialization](https://www.coursera.org/specializations/gcp-architecture) | |
 | Linux Academy | [Google Certified Professional Cloud Architect](https://linuxacademy.com/linux/training/course/name/google-cloud-platform-architect-essentials) | |
 | acloud.guru | [Google Certified Professional Cloud Architect 2019](https://acloud.guru/learn/gcp-certified-professional-cloud-architect) | Mattias Andersson |
 | pluralsight | [Architecting with Google Cloud Platform: Infrastructure](https://www.pluralsight.com/paths/architecting-with-google-cloud-platform-infrastructure) | Google Cloud |
