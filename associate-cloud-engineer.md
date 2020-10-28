@@ -46,12 +46,15 @@
 ### Online Trainings
 | Site | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
-| Coursera | [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) | |
 | Coursera | [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) | |
+| Coursera | [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) | |
 | Coursera | [Architecting with Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-architecture) | |
+| Coursera | [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation) | |
+| Coursera | [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) | |
+| Coursera | [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation) | |
+| Coursera | [Introduction to Cloud Identity](https://www.coursera.org/learn/cloud-identity) | |
 | Udemy | [Google Cloud Platform Associate Cloud Engineer Bootcamp](https://www.udemy.com/google-cloud-platform-associate-cloud-engineer-bootcamp/) | |
 | Linux Academy | [Google Cloud Certified Associate Cloud Engineer](https://linuxacademy.com/google-cloud-platform/training/course/name/google-cloud-certified-associate-cloud-engineer) | |
-| Coursera | [Introduction to Cloud Identity](https://www.coursera.org/learn/cloud-identity) | |
 | Udemy | [Google Cloud Associate Cloud Engineer](https://www.udemy.com/google-certified-associate-cloud-engineer/?couponCode=GCPFREELY) | |
 | acloud.guru | [Google Certified Associate Cloud Engineer 2019](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer) | Mattias Andersson |
 
