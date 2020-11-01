@@ -53,3 +53,8 @@
 ### Qwiklabs Links
 |  Title/Link  |
 | :---:         |
+| [Data Science on Google Cloud: Machine Learning](https://google.qwiklabs.com/quests/50) |
+| [Google Cloud Solutions II: Data and Machine Learning](https://google.qwiklabs.com/quests/38) |
+| [Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://google.qwiklabs.com/quests/117) |
+| [BigQuery for Machine Learning](https://google.qwiklabs.com/quests/71) |
+
