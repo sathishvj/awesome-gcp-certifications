@@ -76,7 +76,7 @@
 
 ### Qwiklabs Links
 |  Title/Link  |
-| :---:         |
+| :---         |
 | [Baseline: Data, ML, AI](https://google.qwiklabs.com/quests/34) | 
 | [Data Engineering](https://google.qwiklabs.com/quests/25) | 
 | [Data Science on Google Cloud](https://google.qwiklabs.com/quests/43) | 
@@ -93,9 +93,6 @@
 | [BigQuery for Marketing Analysts](https://google.qwiklabs.com/quests/70) | 
 | [Cloud SQL](https://google.qwiklabs.com/quests/52) | 
 | [BigQuery for Machine Learning](https://google.qwiklabs.com/quests/71) | 
-| [](https://google.qwiklabs.com/quests/) | 
-| [](https://google.qwiklabs.com/quests/) | 
-| [](https://google.qwiklabs.com/quests/) | 
 
 ### Deep Dive Links
 | Published | Topic | Title/Link | Instructor |
