@@ -79,6 +79,23 @@
 | :---:         |
 | [Baseline: Data, ML, AI](https://google.qwiklabs.com/quests/34) | 
 | [Data Engineering](https://google.qwiklabs.com/quests/25) | 
+| [Data Science on Google Cloud](https://google.qwiklabs.com/quests/43) | 
+| [BigQuery Basics for Data Analysts](https://google.qwiklabs.com/quests/69) | 
+| [Engineer Data in Google Cloud](https://google.qwiklabs.com/quests/132) | 
+| [Scientific Data Processing](https://google.qwiklabs.com/quests/28) | 
+| [Build and Optimize Data Warehouses with BigQuery](https://google.qwiklabs.com/quests/147) | 
+| [BigQuery for Data Warehousing](https://google.qwiklabs.com/quests/68) | 
+| [Building Advanced Codeless Pipelines on Cloud Data Fusion](https://google.qwiklabs.com/quests/131) | 
+| [Insights from Data with BigQuery](https://google.qwiklabs.com/quests/123) | 
+| [BigQuery for Data Analysis](https://google.qwiklabs.com/quests/55) | 
+| [Data Catalog Fundamentals](https://google.qwiklabs.com/quests/134) | 
+| [Building Codeless Pipelines on Cloud Data Fusion](https://google.qwiklabs.com/quests/130) | 
+| [BigQuery for Marketing Analysts](https://google.qwiklabs.com/quests/70) | 
+| [Cloud SQL](https://google.qwiklabs.com/quests/52) | 
+| [BigQuery for Machine Learning](https://google.qwiklabs.com/quests/71) | 
+| [](https://google.qwiklabs.com/quests/) | 
+| [](https://google.qwiklabs.com/quests/) | 
+| [](https://google.qwiklabs.com/quests/) | 
 
 ### Deep Dive Links
 | Published | Topic | Title/Link | Instructor |
