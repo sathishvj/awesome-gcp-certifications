@@ -63,3 +63,10 @@
 |  Title/Link  |
 | :---:         |
 | [DevOps Essentials](https://google.qwiklabs.com/quests/96) | 
+| [Implement DevOps in Google Cloud](https://www.qwiklabs.com/quests/141) | 
+| [Deployment Manager](https://www.qwiklabs.com/quests/30) | 
+| [Cloud Logging](https://www.qwiklabs.com/quests/81) | 
+| [Google Cloud's Operations Suite on GKE](https://www.qwiklabs.com/quests/133) | 
+| [Google Cloud's Operations Suite](https://www.qwiklabs.com/quests/35) | 
+| [Monitor and Log with Google Cloud Operations Suite](https://www.qwiklabs.com/quests/143) | 
+| [Network Performance and Optimization](https://www.qwiklabs.com/quests/46) | 
