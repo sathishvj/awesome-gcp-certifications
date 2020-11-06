@@ -63,3 +63,9 @@
 | :---:         |
 | [GCP Essentials](https://google.qwiklabs.com/quests/23) | 
 | [Cloud Engineering](https://www.qwiklabs.com/quests/66) | 
+| [Ensure Access & Identity in Google Cloud](https://www.qwiklabs.com/quests/150) | 
+| [Set up and Configure a Cloud Environment in Google Cloud](https://www.qwiklabs.com/quests/119) | 
+| [Baseline: Infrastructure](https://www.qwiklabs.com/quests/33) | 
+| [Perform Foundational Infrastructure Tasks in Google Cloud](https://www.qwiklabs.com/quests/118) | 
+| [Exploring APIs](https://www.qwiklabs.com/quests/54) | 
+| [Using the Cloud SDK Command Line](https://www.qwiklabs.com/quests/95) | 
