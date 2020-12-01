@@ -40,6 +40,7 @@
 | | [Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) | Edited by Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara and Stephen Thorne |
 | | [Building Secure and Reliable Systems - Preview Version](https://landing.google.com/sre/resources/foundationsandprinciples/srs-book/) | Written by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield |
 | | [SLO Adoption and Usage in SRE ](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/SloAdoptionAndUsageInSre.pdf) | Julie McCoy with Nicole Forsgren |
+| | [Continuous Delivery with Spinnaker](https://spinnaker.io/concepts/ebook/) | multiple authors |
 
 ### Videos / Sessions
 | Published | Title/Link | Event | Instructors |
