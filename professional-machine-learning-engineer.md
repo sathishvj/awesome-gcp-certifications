@@ -11,6 +11,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+|  2020/12 | [GCP ML Certification Prep](https://hilliao.medium.com/google-cloud-professional-machine-learning-engineer-certification-preparation-guide-22a58a6610c9) | Hil Liao|
 |  2020/10 | [What I learned studying for the GCP ML Exam](https://www.jellyfish.com/en-us/training/blog/studying-for-the-gcp-machine-learning-exam) | Francisco Quintana |
 |  2020/10 | [Cloud Professional ML Engineer](https://virenlr.com/2020/10/my-journey-with-ml-part-3-cloud-professional-ml-engineer/) | virenlr |
 |  2020/08 | [My notes from GCP ML Engineer exam](https://medium.com/@jmoniz0/my-notes-on-google-cloud-machine-learning-engineer-exam-280eab80f8ab) | João Serra |
