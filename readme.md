@@ -111,10 +111,13 @@ These references are useful across all certifications.
 | Identity - Password Management | https://cloud.google.com/blog/products/identity-security/best-practices-for-password-management-2019-edition |
 | Identity Aware Proxy | https://cloud.google.com/iap/docs/concepts-best-practices |
 | Identity Federation | https://cloud.google.com/architecture/identity/best-practices-for-federating |
+| Jupyter Notebooks | https://cloud.google.com/blog/products/ai-machine-learning/best-practices-that-can-improve-the-life-of-any-developer-using-jupyter-notebooks |
 | Kubernetes | https://cloud.google.com/blog/products/containers-kubernetes/your-guide-kubernetes-best-practices |
 | Kubernetes | https://cloud.google.com/blog/topics/kubernetes-best-practices |
 | Kubernetes - running cost-optimized applications on GKE| https://cloud.google.com/solutions/best-practices-for-running-cost-effective-kubernetes-applications-on-gke |
 | Management Tools Client Libraries | https://cloud.google.com/apis/docs/client-libraries-best-practices |
+| Machine Learning - Performance and Cost Optimization | https://cloud.google.com/solutions/machine-learning/best-practices-for-ml-performance-cost |
+| Machine Learning - Rules of ML | https://developers.google.com/machine-learning/guides/rules-of-ml |
 | Media Translation | https://cloud.google.com/translate/media/docs/best-practices |
 | Media Translation | https://cloud.google.com/translate/media/docs/best-practices?hl=tr |
 | Memorystore for Redis Performance Tuning | https://cloud.google.com/blog/products/databases/performance-tuning-best-practices-for-memorystore-for-redis |
