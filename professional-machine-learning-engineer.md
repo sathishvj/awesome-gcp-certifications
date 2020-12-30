@@ -27,6 +27,7 @@
 ### Books
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+|  2020 | [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/) | Valliappa Lakshmanan, Sara Robinson, Michael Munn |
 
 ### Videos / Sessions
 | Published | Title/Link | Instructor | Notes | 
