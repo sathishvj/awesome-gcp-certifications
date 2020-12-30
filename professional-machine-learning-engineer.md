@@ -29,7 +29,7 @@
 
 ### Videos / Sessions
 | Published | Title/Link | Instructor | Notes | 
-| :---:         |     :---      |          :--- |
+| :---:         |     :---      |          :--- |          :--- | 
 | | [ROC and AUC - Clearly Explained](https://www.youtube.com/watch?v=4jRBRDbJemM) | Josh Starmer | [ML Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) |
 
 ### Online Trainings
