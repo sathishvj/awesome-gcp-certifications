@@ -22,6 +22,7 @@
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| | [Official Practice Test](https://cloud.google.com/certification/sample-questions/machine-learning-engineer) | |
 
 ### Books
 | Published | Title/Link | Author |
