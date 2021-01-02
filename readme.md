@@ -43,6 +43,7 @@ These references are useful across all certifications.
 | | [FAQs on GCP Certification Exams](https://medium.com/@sathishvj/frequently-asked-follow-up-questions-on-google-cloud-gcp-certifications-438e1addb91d) | Sathish VJ |
 | | [Grace's Flowcharts](https://grumpygrace.dev/posts/gcp-flowcharts/) | Grace |
 | | [GCP Essentials - Staying in Touch](https://medium.com/google-cloud/gcp-essentials-staying-in-touch-43764ec9fa0a) | Alexis MP |
+| | [Google Cloud on Medium](https://medium.com/google-cloud) | |
 | | [Community Tutorials](https://cloud.google.com/community/tutorials/) | |
 | | [CodeLabs/cloud](https://codelabs.developers.google.com/?cat=Cloud) | developers.google |
 | | [Google Cloud Training - Classroom Schedule](https://cloud.google.com/training/courses) | various trainers |
