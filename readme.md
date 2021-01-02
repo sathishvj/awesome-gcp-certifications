@@ -31,11 +31,12 @@ These references are useful across all certifications.
 | 2020/09 | [Passing and Failing GCP Certification Exams](https://www.linkedin.com/pulse/passing-failing-google-cloud-certification-exams-bernd-nordhausen/) | Bernd Nordhausen |
 | 2020/03 | [Getting all the 10/10 GCP certificates – how do I start? Part 1/X](https://gcpfellow.com/2020/03/14/getting-all-the-10-10-gcp-certificates-how-do-i-start-part-1-x/) | Konrad Clapa |
 | 2020/02 | [AwesomeGCP Channel](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A) | Sathish VJ |
+| | [Architecture Center](https://cloud.google.com/architecture) | Google Cloud |
 | | [TechDevGuide - Cloud Computing ](https://techdevguide.withgoogle.com/paths/cloud/) | Google |
 | | [GCP Certification](https://cloud.google.com/certification/) | GCP Docs |
 | | [FAQs - GCP Certification](https://cloud.google.com/certification/faqs/) | Frequently Asked Questions |
 | | [Cloud Solutions Architecture Reference](http://gcp.solutions/) | GCP Docs |
-| | [Tutorials in the Docs - collected list](https://cloud.google.com/docs/tutorials) | GCP Docs |
+| | [Solve With Google Cloud - Tutorials](https://cloud.google.com/docs/tutorials) | GCP Docs |
 | | [Google Cloud Solutions](https://cloud.google.com/solutions/) | GCP Docs |
 | | [Google Cloud Products and Solutions in 4 words](https://github.com/gregsramblings/google-cloud-4-words) | Greg Wilson |
 | | [GCP Building Blocks - A Glossary of GCP Terms](https://docs.google.com/document/d/1-8vSS5rNOWmxVQWmTaWus7V5uZvgWZKY-Nl4bYMWDbk) | |
