@@ -36,6 +36,8 @@
 ### Books
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2019/12 | [Professional Cloud Architect - Google Cloud Certification Guide](https://learning.oreilly.com/library/view/professional-cloud-architect/9781838555276/) | Konrad Clapa, Brian Gerrard |
+| 2019/11 | [Official Google Cloud Certified Professional Cloud Architect Study Guide](https://www.wiley.com/en-in/Official+Google+Cloud+Certified+Professional+Cloud+Architect+Study+Guide-p-9781119602446) | Dan Sullivan |
 | | [Google Cloud Platform for Architects](https://www.amazon.com/Google-Cloud-Platform-Architects-solutions/dp/1788834305/) | |
 | | [Google Cloud Platform Cookbook](https://www.amazon.com/Google-Cloud-Platform-Cookbook-applications/dp/1788291999/) | |
 | | [Google Cloud Platform in Action](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520/) | |
