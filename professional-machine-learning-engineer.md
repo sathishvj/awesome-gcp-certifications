@@ -11,6 +11,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+|  2021/01 | [How I cracked the GCP PMLE certification in 8 days!](https://ml-rafiqhasan.medium.com/how-i-cracked-the-gcp-professional-ml-engineer-certification-in-8-days-f341cf0bc5a0) | Hasan Rafig |
 |  2020/12 | [GCP ML Certification Prep](https://hilliao.medium.com/google-cloud-professional-machine-learning-engineer-certification-preparation-guide-22a58a6610c9) | Hil Liao|
 |  2020/10 | [What I learned studying for the GCP ML Exam](https://www.jellyfish.com/en-us/training/blog/studying-for-the-gcp-machine-learning-exam) | Francisco Quintana |
 |  2020/10 | [Cloud Professional ML Engineer](https://virenlr.com/2020/10/my-journey-with-ml-part-3-cloud-professional-ml-engineer/) | virenlr |
