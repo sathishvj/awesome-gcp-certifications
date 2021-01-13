@@ -145,6 +145,7 @@ These references are useful across all certifications.
 | Speech API | https://cloud.google.com/speech-to-text/docs/best-practices?hl=ru&refresh=1pli%3D1 |
 | Speech to Text | https://cloud.google.com/speech-to-text/docs/best-practices |
 | Storage | https://cloud.google.com/storage/docs/best-practices |
+| Storage - privacy and security | https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-storage-best-practices-to-help-ensure-data-privacy-and-security |
 | Storage - Request Rates | https://cloud.google.com/storage/docs/request-rate#best-practices |
 | Super Administrator Account | https://cloud.google.com/resource-manager/docs/super-admin-best-practices |
 | Tightly Coupled HPC Apps | https://cloud.google.com/solutions/best-practices-for-using-mpi-on-compute-engine |
