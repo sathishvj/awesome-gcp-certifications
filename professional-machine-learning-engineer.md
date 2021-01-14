@@ -3,10 +3,9 @@
 | | | |
 | :---:         |     :---      |          :--- |
 | **Official Link:** | https://cloud.google.com/certification/guides/machine-learning-engineer | 
-| **Status:** | Beta | 
-| **Length:** | 4 hours while in Beta | 
-| **Registration fee:** | $120 while in Beta | 
-| **Exam format:** | Multiple choice and multiple select, taken in person at a test center. | 
+| **Length:** | 2 hours | 
+| **Registration fee:** | $200 (plus tax where applicable) | 
+| **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online. | 
 
 ### Posts
 | Published | Title/Link | Author |
