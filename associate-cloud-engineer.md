@@ -57,6 +57,7 @@
 | Linux Academy | [Google Cloud Certified Associate Cloud Engineer](https://linuxacademy.com/google-cloud-platform/training/course/name/google-cloud-certified-associate-cloud-engineer) | |
 | Udemy | [Google Cloud Associate Cloud Engineer](https://www.udemy.com/google-certified-associate-cloud-engineer/?couponCode=GCPFREELY) | |
 | acloud.guru | [Google Certified Associate Cloud Engineer 2019](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer) | Mattias Andersson |
+| training.antonit.com | [Google Cloud Associate Cloud Engineer](https://training.antonit.com/p/google-cloud-associate-cloud-engineer) | Antoni Tzavelas |
 
 ### Qwiklabs Links
 |  Title/Link  |
