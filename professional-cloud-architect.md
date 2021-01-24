@@ -12,6 +12,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2021/01 | [How I prepared for Google Cloud Professional Architect exam?](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-professional-architect-exam) | Rakesh Vardan |
 | 2020/09 | [How to pass PCA – as a sales guy](https://www.linkedin.com/pulse/how-pass-google-cloud-professional-architect-sales-guy-rolf-siegel/) | Rolf Siegel |
 | 2020/03 | [Build on Your Experience to Earn Cloud Certifications](https://blog.doit-intl.com/bring-your-experience-to-the-cloud-certification-891278df5b5) | Joshua Fox |
 | 2020/02 | [PCA Prep Sheet](https://www.linkedin.com/pulse/google-cloud-professional-architect-prep-sheet-ammett-williams/) | Ammett Williams |
