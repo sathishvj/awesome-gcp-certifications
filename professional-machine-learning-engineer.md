@@ -57,6 +57,7 @@
 | | [Coursera: Recommendation Systems with TensorFlow on GCP](https://www.coursera.org/learn/recommendation-models-gcp) | Google |
 | | [Coursera: https://app.pluralsight.com/library/courses/building-end-to-end-machine-learning-workflows-kubeflow/table-of-contents](https://app.pluralsight.com/library/courses/building-end-to-end-machine-learning-workflows-kubeflow/table-of-contents) | Google |
 | | [TensorFlow: TFX on Cloud AI Platform Pipelines](https://www.tensorflow.org/tfx/tutorials/tfx/cloud-ai-platform-pipelines) | Google |
+| | [ML Pipelines on Google Cloud](https://www.coursera.org/learn/ml-pipelines-google-cloud) | Google |
 
 ### Qwiklabs Links
 |  Title/Link  |
