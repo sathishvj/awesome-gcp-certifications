@@ -3,7 +3,7 @@
 | | | |
 | :---:         |     :---      |          :--- |
 | **Official Link:** | https://cloud.google.com/certification/guides/machine-learning-engineer | 
-| **Length:** | 2 hours | 
+| **Length:** | 2 hours. (Note: there seems to be 60 questions in the PMLE.) | 
 | **Registration fee:** | $200 (plus tax where applicable) | 
 | **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online. | 
 
