@@ -15,6 +15,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2021/02 | [How I prepared for the GCP ACE Exam](https://binx.io/blog/2021/02/05/how-i-prepared-for-the-google-cloud-associate-cloud-engineer-exam/) | Luca Cavallin |
 | 2020/09 | [How I prepared for GCP ACE Exam](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-certified-associate-cloud-engineer-exam) | Rakesh Vardan |
 | 2020/07 | [From ALC to ACE](https://medium.com/@MercyMarkus/from-alc-to-google-certified-associate-cloud-engineer-b7e5707f9bf0) | Mercy Markus |
 | 2020/03 | [How I Passed the GCP ACE](https://medium.com/@charles_j/how-i-passed-the-google-cloud-associate-engineer-certification-63a0fd932057) | Charles J |
