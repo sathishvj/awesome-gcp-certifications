@@ -114,9 +114,15 @@ These references are useful across all certifications.
 | Identity Aware Proxy | https://cloud.google.com/iap/docs/concepts-best-practices |
 | Identity Federation | https://cloud.google.com/architecture/identity/best-practices-for-federating |
 | Jupyter Notebooks | https://cloud.google.com/blog/products/ai-machine-learning/best-practices-that-can-improve-the-life-of-any-developer-using-jupyter-notebooks |
+| Kubernetes | https://cloud.google.com/kubernetes-engine/docs/best-practices |
+| Kubernetes - enterprise multitenancy | https://cloud.google.com/kubernetes-engine/docs/best-practices/enterprise-multitenancy |
+| Kubernetes - scalable clusters | https://cloud.google.com/kubernetes-engine/docs/best-practices/scalability |
+| Kubernetes - upgrading clusters | https://cloud.google.com/kubernetes-engine/docs/best-practices/upgrading-clusters |
+| Kubernetes - building containers | https://cloud.google.com/solutions/best-practices-for-building-containers |
+| Kubernetes - operating containers | https://cloud.google.com/solutions/best-practices-for-operating-containers |
+| Kubernetes - running cost-optimized applications on GKE| https://cloud.google.com/solutions/best-practices-for-running-cost-effective-kubernetes-applications-on-gke |
 | Kubernetes | https://cloud.google.com/blog/products/containers-kubernetes/your-guide-kubernetes-best-practices |
 | Kubernetes | https://cloud.google.com/blog/topics/kubernetes-best-practices |
-| Kubernetes - running cost-optimized applications on GKE| https://cloud.google.com/solutions/best-practices-for-running-cost-effective-kubernetes-applications-on-gke |
 | Management Tools Client Libraries | https://cloud.google.com/apis/docs/client-libraries-best-practices |
 | Machine Learning - Performance and Cost Optimization | https://cloud.google.com/solutions/machine-learning/best-practices-for-ml-performance-cost |
 | Machine Learning - Rules of ML | https://developers.google.com/machine-learning/guides/rules-of-ml |
