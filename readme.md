@@ -102,7 +102,6 @@ These references are useful across all certifications.
 | Deployment Manager | https://cloud.google.com/deployment-manager/docs/best-practices |
 | Deployment Manager | https://cloud.google.com/deployment-manager/docs/best-practices?hl=zh-tw |
 | Dialogflow | https://cloud.google.com/dialogflow/docs/best-practices |
-| Enterprise Multi-tenancy | https://cloud.google.com/kubernetes-engine/docs/best-practices/enterprise-multitenancy |
 | Firestore | https://cloud.google.com/firestore/docs/best-practices |
 | Floating IP Addresses | https://cloud.google.com/solutions/best-practices-floating-ip-addresses |
 | For Enterprise Organizaations | https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations |
