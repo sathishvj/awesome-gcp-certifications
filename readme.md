@@ -102,7 +102,6 @@ These references are useful across all certifications.
 | Deployment Manager | https://cloud.google.com/deployment-manager/docs/best-practices |
 | Deployment Manager | https://cloud.google.com/deployment-manager/docs/best-practices?hl=zh-tw |
 | Dialogflow | https://cloud.google.com/dialogflow/docs/best-practices |
-| Enterprise Multi-tenancy | https://cloud.google.com/kubernetes-engine/docs/best-practices/enterprise-multitenancy |
 | Firestore | https://cloud.google.com/firestore/docs/best-practices |
 | Floating IP Addresses | https://cloud.google.com/solutions/best-practices-floating-ip-addresses |
 | For Enterprise Organizaations | https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations |
@@ -116,7 +115,7 @@ These references are useful across all certifications.
 | Jupyter Notebooks | https://cloud.google.com/blog/products/ai-machine-learning/best-practices-that-can-improve-the-life-of-any-developer-using-jupyter-notebooks |
 | Kubernetes | https://cloud.google.com/blog/products/containers-kubernetes/your-guide-kubernetes-best-practices |
 | Kubernetes | https://cloud.google.com/blog/topics/kubernetes-best-practices |
-| Kubernetes - running cost-optimized applications on GKE| https://cloud.google.com/solutions/best-practices-for-running-cost-effective-kubernetes-applications-on-gke |
+| Kubernetes | https://cloud.google.com/kubernetes-engine/docs/best-practices |
 | Management Tools Client Libraries | https://cloud.google.com/apis/docs/client-libraries-best-practices |
 | Machine Learning - Performance and Cost Optimization | https://cloud.google.com/solutions/machine-learning/best-practices-for-ml-performance-cost |
 | Machine Learning - Rules of ML | https://developers.google.com/machine-learning/guides/rules-of-ml |
