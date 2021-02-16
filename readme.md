@@ -58,7 +58,7 @@ These references are useful across all certifications.
 | | [Coursera courses on GCP](https://www.coursera.org/search?query=google%20cloud&) | Google Cloud |
 | | [Cloud Minute - 1 minute videos](https://www.youtube.com/playlist?list=PLIivdWyY5sqIij_cgINUHZDMnGjVx3rxi) | Google Cloud |
 | | [github GCP code repo](https://github.com/GoogleCloudPlatform) | Google Cloud |
-| | [Intellipaat GCP Certification](https://intellipaat.com/google-cloud-certification-architect-training/) | Google Cloud |
+| | [GCP Certification training](https://intellipaat.com/google-cloud-certification-architect-training/) | Intellipaat |
 
 ### Miscellaneous References
 | Published | Title/Link | Author |
