@@ -5,18 +5,21 @@
 - [Common Resources For All Certifications](#Common-Resources)
 - [Miscellaneous References](#Miscellaneous-References)
 - [Best Practices](#Best-Practices)
+
 - [Associate Cloud Engineer](associate-cloud-engineer.md)
+- [Cloud Digital Leader](cloud-digital-leader.md)
 - [Professional Cloud Architect](professional-cloud-architect.md)
 - [Professional Cloud DevOps Engineer](professional-cloud-devops-engineer.md)
 - [Professional Cloud Developer](professional-cloud-developer.md)
 - [Professional Cloud Network Engineer](professional-cloud-network-engineer.md)
 - [Professional Cloud Security Engineer](professional-cloud-security-engineer.md)
-- [Professional Data Engineer](professional-data-engineer.md)
 - [Professional Collaboration Engineer](professional-collaboration-engineer.md)
+- [Professional Data Engineer](professional-data-engineer.md)
 - [Professional Machine Learning Engineer](professional-machine-learning-engineer.md)
 - [Fellow Hybrid Multi-cloud](fellow-hybrid-multi-cloud.md)
 - [GSuite](gsuite.md)
 - [Apigee Certified API Engineer](apigee-certified-api-engineer.md)
+
 - [Contributing](#Contributing)
 - [Maintaining Exam Integrity](#Maintaining-Exam-Integrity)
 
