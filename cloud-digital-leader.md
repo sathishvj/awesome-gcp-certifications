@@ -29,6 +29,9 @@
 | :---:         |     :---      |          :--- |
 | Coursera | [Business Transformation with Google Cloud](https://www.coursera.org/learn/business-transformation-google-cloud) | Google |
 | Coursera | [Google Cloud Product Fundamentals](https://www.coursera.org/learn/google-cloud-product-fundamentals) | Google |
+| Coursera | [Understanding Your Google Cloud Platform (GCP) Costs](https://www.coursera.org/learn/gcp-cost-management#syllabus) | Google |
+| Coursera | [Optimizing Your Google Cloud Platform (GCP) Costs](https://www.coursera.org/learn/gcp-cost-optimization#syllabus) | Google |
+| Coursera | [Organizational Change and Culture for Adopting GCP](https://www.coursera.org/specializations/organizational-change-and-culture-for-adopting-google-cloud) | Google |
 
 ### Documentation
 |  Title/Link |
