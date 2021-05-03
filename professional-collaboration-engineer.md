@@ -12,6 +12,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+|  2021/05 | [Prep Notes](https://drive.google.com/file/d/1DWaD0yOfUdTBcyPvQ7HLhz5d2JLevkbc/view) | Marcus Pilgrim |
 |  2020/03 | [Nail the GCP Collaboration Engineer Exam](https://gcpfellow.com/2020/03/05/nail-the-google-cloud-profession-collaboration-engineer-exam/) | Konrad Clapa |
 |  2020/01 | [Notes from my Collaboration Engineer Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-collaboration-engineer-certification-exam-5aaaaa2a4b19) | Sathish VJ |
 |  2019/10 | [Professional Collaboration Engineer Exam Guide](https://www.observian.com/blog/professional-collaboration-engineer-exam-guide) | Ryan Allred |
