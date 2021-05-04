@@ -38,6 +38,7 @@
 | :---:         |
 | [Google Cloud Solutions](https://cloud.google.com/solutions) |
 | [Cloud Adoption Framework](https://cloud.google.com/adoption-framework) |
+| [Cost Management Blog](https://cloud.google.com/blog/topics/cost-management) |
 
 ### Qwiklabs Links
 |  Title/Link  |
