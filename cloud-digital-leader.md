@@ -14,7 +14,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-|  | | |
+| 2021/05 | [A quick review of the new Cloud Digital Leader (beta)](https://www.linkedin.com/pulse/quick-review-new-cloud-digital-leader-beta-exam-hifzullah-celik/) | Hifzullah Celik |
 
 ### Books
 | Published | Title/Link | Publisher | Authors |
