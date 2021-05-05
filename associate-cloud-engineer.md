@@ -59,6 +59,7 @@
 | Udemy | [Google Cloud Associate Cloud Engineer](https://www.udemy.com/google-certified-associate-cloud-engineer/?couponCode=GCPFREELY) | |
 | acloud.guru | [Google Certified Associate Cloud Engineer 2019](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer) | Mattias Andersson |
 | training.antonit.com | [Google Cloud Associate Cloud Engineer](https://training.antonit.com/p/google-cloud-associate-cloud-engineer) | Antoni Tzavelas |
+| Udemy | [Google Cloud Certification - Associate Cloud Engineer](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/) | in28minutes |
 
 ### Qwiklabs Links
 |  Title/Link  |
