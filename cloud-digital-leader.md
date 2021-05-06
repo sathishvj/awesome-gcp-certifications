@@ -32,11 +32,8 @@
 | Coursera | [Understanding Your Google Cloud Platform (GCP) Costs](https://www.coursera.org/learn/gcp-cost-management#syllabus) | Google |
 | Coursera | [Optimizing Your Google Cloud Platform (GCP) Costs](https://www.coursera.org/learn/gcp-cost-optimization#syllabus) | Google |
 | Coursera | [Organizational Change and Culture for Adopting GCP](https://www.coursera.org/specializations/organizational-change-and-culture-for-adopting-google-cloud) | Google |
-
-### Deep Dive
-| Site | Title/Link | Instructor |
-| :---:         |     :---      |          :--- |
 | Coursera | [Cloud Architecture with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect) | Google |
+
 
 ### Documentation
 |  Title/Link |
