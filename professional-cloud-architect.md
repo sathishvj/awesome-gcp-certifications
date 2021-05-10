@@ -21,6 +21,7 @@
 | 2019/03 | [Professional Cloud Architect Certification](https://medium.com/google-cloud/professional-cloud-architect-certification-6a6dfa5c6ff5) | Mete Atamel |
 | 2019/01 | [Notes from my GCP PCA Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-cloud-architect-exam-bbc4299ac30) | Sathish VJ |
 | 2019/01 | [5 Tips to Become a GCP PCA](https://thenewstack.io/5-tips-to-become-a-google-cloud-certified-professional-architect/) | Janakiram MSV |
+| 2019/07 | [GCP Flowcharts](https://grumpygrace.dev/posts/gcp-flowcharts/) | Grumpy Grace |
 | 2018/12 | [How to pass - Google PCA](https://www.linkedin.com/pulse/how-pass-google-professional-cloud-architect-david-das-neves/) | David das Neves |
 | 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma |
 | 2018/01 | [Google Certified Professional — PCA — Study Resources](https://medium.com/@agasthi.kothurkar/google-certified-professional-cloud-architect-study-resources-a66f8f52aac5) | Agasthi Kothurkar |
