@@ -33,6 +33,8 @@
 | Coursera | [Optimizing Your Google Cloud Platform (GCP) Costs](https://www.coursera.org/learn/gcp-cost-optimization#syllabus) | Google |
 | Coursera | [Organizational Change and Culture for Adopting GCP](https://www.coursera.org/specializations/organizational-change-and-culture-for-adopting-google-cloud) | Google |
 | Coursera | [Cloud Architecture with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect) | Google |
+| Coursera | [Introduction to Digital Transformation with Google Cloud](https://www.coursera.org/learn/introduction-to-digital-transformation-with-google-cloud) | Google |
+| Coursera | [Innovating with Data and Google Cloud](https://www.coursera.org/learn/innovating-with-data-and-google-cloud) | Google |
 
 
 ### Documentation
