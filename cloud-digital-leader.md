@@ -2,14 +2,33 @@
 
 ### About the exam
 
-| | | |
-| :---:         |     :---      |          :--- |
-| **Official Link:** | https://cloud.google.com/certification/cloud-digital-leader | 
-| **Length:** | 3 hours in beta now; should be 2 hours in GA | 
-| **Registration fee:** | $99 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity. | 
-| **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online. | 
-| **Recommended experience:** | No experience required. | 
-| **Official Practice Exam:** | Not Available Yet | 
+
+<table>
+    <tr>
+        <td><b>Official Link:</b></td>
+        <td>https://cloud.google.com/certification/cloud-digital-leader</td>
+    </tr>
+    <tr>
+        <td><b>Length:</b></td>
+        <td>3 hours in beta now; should be 2 hours in GA</td>
+    </tr>
+    <tr>
+        <td><b>Registration fee:</b></td>
+        <td>$99 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity.</td>
+    </tr>
+    <tr>
+        <td><b>Exam format:</b></td>
+        <td>Multiple choice and multiple select, taken in person at a test center or online.</td>
+    </tr>
+    <tr>
+        <td><b>Recommended experience:</b></td>
+        <td>No experience required</td>
+    </tr>
+    <tr>
+        <td><b>Official Practice Exam:</b></td>
+        <td>Not Available Yet</td>
+    </tr>
+</table>
 
 ### Posts
 | Published | Title/Link | Author |
