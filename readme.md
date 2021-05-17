@@ -38,7 +38,6 @@ These references are useful across all certifications.
 | | [TechDevGuide - Cloud Computing ](https://techdevguide.withgoogle.com/paths/cloud/) | Google |
 | | [GCP Certification](https://cloud.google.com/certification/) | GCP Docs |
 | | [FAQs - GCP Certification](https://cloud.google.com/certification/faqs/) | Frequently Asked Questions |
-| | [Cloud Solutions Architecture Reference](http://gcp.solutions/) | GCP Docs |
 | | [Solve With Google Cloud - Tutorials](https://cloud.google.com/docs/tutorials) | GCP Docs |
 | | [Google Cloud Solutions](https://cloud.google.com/solutions/) | GCP Docs |
 | | [Google Cloud Products and Solutions in 4 words](https://github.com/gregsramblings/google-cloud-4-words) | Greg Wilson |
