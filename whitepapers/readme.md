@@ -40,7 +40,7 @@ Here is a list of some whitepapers on Google Cloud technologies. Whitepapers are
 | 2019/11 | [The total economic impact of Anthos](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/the_total_economic_impact_of_anthos.pdf) | Forrester Total Economic Impact for Google |
 | 2019/09 | [Trusting your data with Google Cloud Platform](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/gcp-trust-whitepaper.pdf) | Google Cloud |
 | 2019/08 | [Unlocking business acceleration in a hybrid cloud world](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/Unlocking-business-acceleration-in-a-hybrid-cloud-world-Report-McKinsey.pdf) | McKinsey Digital |
-|   [Cloud Center of Excellence](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/cloud_center_of_excellence.pdf) | Google Cloud | 2019/05, 22 |
+| 2019/05 |   [Cloud Center of Excellence](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/cloud_center_of_excellence.pdf) | Google Cloud |
 | 2019/03 | [Migrating Enterprise Data Warehouse Workloads to BigQuery](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/esg_economic_validation_migrating_to_google_bigquery.pdf) | ESG |
 | 2019/01 | [Application modernisation and decoupling of infrastructure](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/anthos_white_paper.pdf) | Google |
 | 2019/01 | [Google Cloud VMware engine](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/digital_google_vmware_data_sheet_ga.pdf) | Google Cloud |
