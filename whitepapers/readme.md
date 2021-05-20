@@ -9,7 +9,7 @@ Here is a list of some whitepapers on Google Cloud technologies. Whitepapers are
 | [Google Cloud Security Foundations Guide](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/google-cloud-security-foundations-guide-april-2021.pdf) | Google Cloud | 2021 April |
 | [A Practical Guide to Cloud Migration](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/Oreilly-GCP%20A%20Practical%20Guide%20to%20Cloud%20Migration.pdf) | O'Reilly | 2021 April |
 | [Shifting left on Security](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/2021-02-25-shifting-left-on-security.pdf) | Google Cloud |2021 February |
-| [CISO's guide to Cloud Security Migration]() | Google Cloud | https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/ciso-guide-to-security-transformation.pdf |
+| [CISO's guide to Cloud Security Migration](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/ciso-guide-to-security-transformation.pdf) | Google Cloud | 2021 February |
 | [Scaling certificate management](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/scaling_certificate_management_cas.pdf) | Google Cloud | 2021 February |
 | [Re-architecting to cloud native](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/re_architecting_to_cloud_native_whitepaper2.pdf) | Google Cloud | 2021 February |
 | [Designing and deploying a data security strategy](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/designing_and_deploying_data_security_strategy.pdf) | Google Cloud | 2021 |
