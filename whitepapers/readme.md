@@ -2,7 +2,7 @@
 
 Here is a list of some whitepapers on Google Cloud technologies. Whitepapers are published by companies to give stakeholders a better understanding of how to use their products.
 
-| Title  | Publisher | Published on |
+| Published on | Title  | Publisher |
 |     :---       |    :--- |      :--- |
 | 2021/05 | [Practitioner's Guide to ML Ops](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/practitioners_guide_to_mlops_whitepaper.pdf) | Google Cloud |
 | 2021/05 | [Protecting the Extended Workforce with BeyondCorp Enterprise](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/bce-protected-profiles-whitepaper%20(beyond-corp-enterprise).pdf) | Google Cloud |
