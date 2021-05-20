@@ -16,7 +16,7 @@ Here is a list of some whitepapers on Google Cloud technologies. Whitepapers are
 | [Migrate workloads checklist](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/migrate_workloads_checklist.pdf) | Google Cloud | 2021 January |
 | [Forrester Wave: IaaS Platform Native Security](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/The%20Forrester%20Wave%E2%84%A2_%20Infrastructure-As-A-Service%20Platform%20Native%20Security%2C%20Q4%202020.pdf) | Forrester | 2020 December |
 | [Running VMware based applications on Google Cloud](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/technical_guide_running_vmware_apps_in_google_cloud.pdf) | Google Cloud | 2020 October |
-| [Google Cloud VMware Engine](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/google_vmware_whitepaper.pdf) | Google Cloud | September 2020 |
+| [Google Cloud VMware Engine](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/google_vmware_whitepaper.pdf) | Google Cloud | 2020 September |
 | [How partners are winning in the Google Cloud economy](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/how_partners_are_winning_in_the_google_cloud_economy.pdf) | IDC for Google Cloud | 2020 August |
 | [AI Explanations](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/AI%Explanations%20Whitepaper.pdf) | Google | 2020 July  |
 | [How digital business ecosystems drive efficiency and innovation](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/Digital%20Business%20Ecosystems%20Executive%20Summary.pdf) | Oxford Economics and Google Cloud | 2020 July |
