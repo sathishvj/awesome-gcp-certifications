@@ -14,6 +14,7 @@ Here is a list of some whitepapers on Google Cloud technologies. Whitepapers are
 | 2021/02 | [Re-architecting to cloud native](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/re_architecting_to_cloud_native_whitepaper2.pdf) | Google Cloud |
 | 2021 | [Designing and deploying a data security strategy](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/designing_and_deploying_data_security_strategy.pdf) | Google Cloud |
 | 2021/01 | [Migrate workloads checklist](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/migrate_workloads_checklist.pdf) | Google Cloud |
+| 2020 | [Google Cloud for SAP](sap-capabilities-ebook.pdf) | Google Cloud |
 | 2020/12 | [Forrester Wave: IaaS Platform Native Security](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/The%20Forrester%20Wave%E2%84%A2_%20Infrastructure-As-A-Service%20Platform%20Native%20Security%2C%20Q4%202020.pdf) | Forrester |
 | 2020/10 | [Running VMware based applications on Google Cloud](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/technical_guide_running_vmware_apps_in_google_cloud.pdf) | Google Cloud |
 | 2020/09 | [Google Cloud VMware Engine](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/whitepapers/google_vmware_whitepaper.pdf) | Google Cloud |
