@@ -46,5 +46,7 @@
 ### Qwiklabs Links
 |  Title/Link  |
 | :---:         |
-| [G Suite Essentials](https://google.qwiklabs.com/quests/65) | 
-| [G Suite Integrations](https://google.qwiklabs.com/quests/51) | 
+| [Getting Started with Google Workspace](https://google.qwiklabs.com/courses/1621) | 
+| [Google Workspace Administration](https://google.qwiklabs.com/courses/1570) | 
+| [Workspace Essentials](https://google.qwiklabs.com/quests/65) | 
+| [Workspace Integrations](https://google.qwiklabs.com/quests/51) | 
