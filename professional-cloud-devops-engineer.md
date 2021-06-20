@@ -36,6 +36,7 @@
 ### Books
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| | [Google Cloud for DevOps Engineers](https://sandeep-manchi.medium.com/implementing-devops-on-google-cloud-f0980ca0acd) | Sandeep Madamanchi |
 | | [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html) | Edited by Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy |
 | | [Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) | Edited by Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara and Stephen Thorne |
 | | [Building Secure and Reliable Systems - Preview Version](https://landing.google.com/sre/resources/foundationsandprinciples/srs-book/) | Written by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield |
