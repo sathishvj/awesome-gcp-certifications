@@ -5,7 +5,7 @@
 | | | |
 | :---:         |     :---      |          :--- |
 | **Official Link:** | https://cloud.google.com/certification/cloud-digital-leader | 
-| **Length:** | 3 hours in beta now; should be 2 hours in GA | 
+| **Length:** | 1.5 hours | 
 | **Registration fee:** | $99 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity. | 
 | **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online. | 
 | **Recommended experience:** | No experience required. | 
