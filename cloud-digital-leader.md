@@ -9,7 +9,7 @@
 | **Registration fee:** | $99 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity. | 
 | **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online. | 
 | **Recommended experience:** | No experience required. | 
-| **Official Practice Exam:** | Not Available Yet | 
+| **Official Practice Exam:** |  Available  | 
 
 ### Posts
 | Published | Title/Link | Author |
