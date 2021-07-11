@@ -16,6 +16,7 @@
 | :---:         |     :---      |          :--- |
 | 2021/07 | [Notes from my beta GC Digital Leader certification exam](https://sathishvj.medium.com/notes-from-my-beta-google-cloud-digital-leader-certification-exam-e4f9fd1b119e) | Sathish VJ |
 | 2021/05 | [A quick review of the new Cloud Digital Leader (beta)](https://www.linkedin.com/pulse/quick-review-new-cloud-digital-leader-beta-exam-hifzullah-celik/) | Hifzullah Celik |
+| 2021/05 | [My Review on the Cloud Digital Leader Beta Exam](https://www.linkedin.com/pulse/my-review-cloud-digital-leader-beta-exam-antoni-tzavelas/) | Antoni Tzavelas |
 
 ### Books
 | Published | Title/Link | Publisher | Authors |
