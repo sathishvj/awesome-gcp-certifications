@@ -2,6 +2,7 @@
 
 | | | |
 | :---:         |     :---      |          :--- |
+| **Status:** | Discontinued. | 
 | **Official Link:** | https://cloud.google.com/certification/gsuite/ | 
 
 ### Posts

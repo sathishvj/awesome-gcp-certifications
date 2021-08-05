@@ -2,6 +2,7 @@
 
 | | | |
 | :---:         |     :---      |          :--- |
+| **Status:** | Discontinued | 
 | **Official Link:** | https://cloud.google.com/certification/apigee-api-engineer | 
 | **Experience:** | Advanced-Professional | 
 | **Certification type:** | Specialization | 

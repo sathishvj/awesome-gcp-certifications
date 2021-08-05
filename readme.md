@@ -19,8 +19,8 @@
 - [Professional Data Engineer](professional-data-engineer.md)
 - [Professional Machine Learning Engineer](professional-machine-learning-engineer.md)
 - [Fellow Hybrid Multi-cloud](fellow-hybrid-multi-cloud.md)
-- [GSuite](gsuite.md)
-- [Apigee Certified API Engineer](apigee-certified-api-engineer.md)
+- [GSuite - Discontinued!](gsuite.md)
+- [Apigee Certified API Engineer - Discontinued!](apigee-certified-api-engineer.md)
 
 - [Contributing](#Contributing)
 - [Maintaining Exam Integrity](#Maintaining-Exam-Integrity)
