@@ -8,6 +8,8 @@
 
 - [Associate Cloud Engineer](associate-cloud-engineer.md)
 - [Cloud Digital Leader](cloud-digital-leader.md)
+- [Looker Business Analyst](looker-business-analyst.md)
+- [Looker LookML Developer](looker-lookml-developer.md)
 - [Professional Cloud Architect](professional-cloud-architect.md)
 - [Professional Cloud DevOps Engineer](professional-cloud-devops-engineer.md)
 - [Professional Cloud Developer](professional-cloud-developer.md)
