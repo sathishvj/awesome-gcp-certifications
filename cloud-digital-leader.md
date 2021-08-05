@@ -25,6 +25,7 @@
 ### Videos / Sessions
 | Published | Title/Link | Publisher | Authors |
 | :---:         |     :---     |     :---       |          :--- |
+| 2021/07 | [Cloud Digital Leader Playlist](https://www.youtube.com/watch?v=DbGae0j9ijg&list=PLQMsfKRZZviSL8FxXFMM3iPiHBajmgMeU)  | AwesomeGCP  | Sathish VJ |
 
 ### Online Trainings
 | Site | Title/Link | Instructor |
