@@ -25,6 +25,7 @@
 ### Videos / Sessions
 | Published | Title/Link | Publisher | Authors |
 | :---:         |     :---     |     :---       |          :--- |
+| 2021/08 | [Cloud Digital Leader Certification Course - Pass the Exam!](https://www.youtube.com/watch?v=UGRDM86MBIQ)  | FreeCodeCamp.org  | Andrew Brown |
 | 2021/07 | [Cloud Digital Leader Playlist](https://www.youtube.com/watch?v=DbGae0j9ijg&list=PLQMsfKRZZviSL8FxXFMM3iPiHBajmgMeU)  | AwesomeGCP  | Sathish VJ |
 
 ### Online Trainings
