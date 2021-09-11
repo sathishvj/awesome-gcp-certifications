@@ -29,6 +29,7 @@
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | | [Official Practice Test](https://cloud.google.com/certification/sample-questions/machine-learning-engineer) | |
+| 2021/08 | [Udemy Practice Tests](https://www.udemy.com/course/google-professional-cloud-machine-learning-exams-2021/) | |
 
 ### Books
 | Published | Title/Link | Author |
