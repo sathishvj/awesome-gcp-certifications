@@ -35,6 +35,7 @@
 ### Online Trainings
 | Site | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
+| Udemy | [Google Cloud - Professional Cloud Developer](https://www.udemy.com/course/google-cloud-certified-professional-cloud-developer/?referralCode=352C13361DB61E7B52DE) | in28minutes |
 | Coursera | [](https://www.coursera.org/learn/gcp-fundamentals) | | | Platform Fundamentals: Core Infrastructure
 | Coursera | ["Developing Applications with Google Cloud Platform Specialization"](https://www.coursera.org/specializations/developing-apps-gcp) | |
 
