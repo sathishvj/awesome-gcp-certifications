@@ -33,6 +33,7 @@
 ### Online Trainings
 | Site | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
+| Udemy | [GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/?referralCode=49BA1E33CCD6D0E0546C)|in28minutes|
 | Coursera | [Google Cloud Digital Leader Training Professional Certificate](https://www.coursera.org/professional-certificates/google-cloud-digital-leader-training) | Google |
 | Coursera | [Introduction to Digital Transformation with Google Cloud](https://www.coursera.org/learn/introduction-to-digital-transformation-with-google-cloud) | Google |
 | Coursera | [Innovating with Data and Google Cloud](https://www.coursera.org/learn/innovating-with-data-and-google-cloud) | Google |
