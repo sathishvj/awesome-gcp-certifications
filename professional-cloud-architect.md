@@ -56,6 +56,7 @@
 ### Online Trainings
 | Site | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
+| Udemy | [Google Cloud Certification - Professional Cloud Architect](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?referralCode=B5B766D32C9E03357B86) | in28minutes |
 | Qwiklabs | [GCP Essentials](https://google.qwiklabs.com/quests/23) | |
 | Qwiklabs | [Challenge: GCP Architecture](https://google.qwiklabs.com/quests/47) | |
 | Coursera | [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam) | |
