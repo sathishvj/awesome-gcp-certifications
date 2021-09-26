@@ -29,7 +29,7 @@
 |  | [Path to Professional Cloud Architect](https://www.linkedin.com/posts/google-cloud_googlecloudcertified-activity-6606289304773898240-jcR_) | Google |
 
 ### Practice Exams / Tests
-| Published | Title/Link | Author |
+| Published On | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | Udemy | [GCP - Professional Cloud Architect (Test your knowledge)](https://www.udemy.com/google-certified-professional-cloud-architect/) | |
 | Udemy | [GCP - Google Cloud Certified - Architect Practice Questions](https://www.udemy.com/google-cloud-certified-architect-practice-questions/) | |

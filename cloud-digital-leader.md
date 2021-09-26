@@ -20,6 +20,11 @@
 | 2021/05 | [A quick review of the new Cloud Digital Leader (beta)](https://www.linkedin.com/pulse/quick-review-new-cloud-digital-leader-beta-exam-hifzullah-celik/) | Hifzullah Celik |
 | 2021/05 | [My Review on the Cloud Digital Leader Beta Exam](https://www.linkedin.com/pulse/my-review-cloud-digital-leader-beta-exam-antoni-tzavelas/) | Antoni Tzavelas |
 
+### Practice Exams / Tests
+| Published On | Title/Link | Author |
+| :---:         |     :---      |          :--- |
+| Udemy | [Google Cloud Certified Cloud Digital Leader Practice Tests](https://www.udemy.com/course/google-cloud-certified-cloud-digital-leader-practice-tests/?referralCode=1E7FA94F29E3481F9767) | Sathish VJ @ AwesomeGCP |
+
 ### Books
 | Published | Title/Link | Publisher | Authors |
 | :---:         |     :---     |     :---       |          :--- |
