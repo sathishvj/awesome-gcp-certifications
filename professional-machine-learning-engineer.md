@@ -10,6 +10,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+|  2021/08 | [How to study for (and pass) Google's PMLE certification](https://www.linkedin.com/pulse/how-study-pass-googles-professional-machine-learning-engineer-siegel) | Rolf Siegel |
 |  2021/07 | [Getting Data Science / ML Certified across Azure, AWS and GCP](https://www.linkedin.com/pulse/getting-data-science-ml-certified-across-azure-aws-gcp-sahayaraj) | Sanjana Sahayaraj |
 |  2021/03 | [How I Passed the GCP Professional ML Engineer Certification](https://towardsdatascience.com/how-i-passed-the-gcp-professional-ml-engineer-certification-47104f40bec5) | Arthur Mello |
 |  2021/03 | [Notes from my GCP PMLE Exam](https://sathishvj.medium.com/notes-from-my-google-cloud-professional-machine-learning-engineer-certification-exam-2110998db0f5) | Sathish VJ |
@@ -29,7 +30,6 @@
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | | [Official Practice Test](https://cloud.google.com/certification/sample-questions/machine-learning-engineer) | |
-| 2021/08 | [Udemy Practice Tests](https://www.udemy.com/course/google-professional-cloud-machine-learning-exams-2021/) | |
 
 ### Books
 | Published | Title/Link | Author |
