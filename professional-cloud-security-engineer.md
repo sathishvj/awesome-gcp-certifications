@@ -10,6 +10,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2021/10 | [My review on the PCSE Beta Exam](https://www.linkedin.com/pulse/my-review-professional-cloud-security-engineer-beta-exam-tzavelas/?trackingId=wfzSPQTlEQXGgzkRE6XWXA%3D%3D) | Antoni Tzavelas | 
 | 2020/02 | [BeyondProd: A new approach to cloud-native security](https://cloud.google.com/security/beyondprod/) | Google |
 | 2019/11 | [Exam Study Guide](https://www.linkedin.com/pulse/google-cloud-professional-security-engineer-exam-study-mark-johnson/) | Mark Johnson |
 | 2019/11 | [Google Cloud Security Engineer Exam Notes](https://medium.com/@tjwebb/google-cloud-security-engineer-exam-21f55d3dd5a7) | Travis Webb |
