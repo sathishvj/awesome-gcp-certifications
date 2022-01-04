@@ -23,11 +23,16 @@
 ### Videos / Sessions
 | Published | Title/Link | Publisher | Authors |
 | :---:         |     :---     |     :---       |          :--- |
+| 2020/09 |  [Technical deep dive on Looker: The enterprise BI solution for Google Cloud](https://www.youtube.com/watch?v=fbgva493gb8) | Google |          |
+| 2020/06 |  [Looker on GCP Masterclass](https://www.youtube.com/watch?v=c0qR1NIN16k) | Google |          |
 
 ### Online Trainings
 | Site | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
-| Looker | [Getting Started with LookML](https://training.looker.com/looker-development-foundations) |          :--- |
+| Looker - Training | [Getting Started with LookML](https://training.looker.com/looker-development-foundations) |          :--- |
+| Looker - Connect | [Looker Connect](https://connect.looker.com) |          :--- |
+| Looker - Connect Register | [Looker Connect Register](https://connect.looker.com/register) |          :--- |
+| Looker - kitchentable sandbox| [Looker Connect - kitchentable sandbox](https://kitchentablesandbox.cloud.looker.com/browse) |          :--- |
 
 
 ### Documentation
