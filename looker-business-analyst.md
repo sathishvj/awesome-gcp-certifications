@@ -4,6 +4,7 @@
 
 | | | |
 | :---:         |     :---      |          :--- |
+| ** Status:** | DISCONTINUED | 
 | **Official Link:** | https://cloud.google.com/certification/looker-ba | 
 | **Length:** | 1 hour 40 minutes | 
 | **Exam Guide:** | https://cloud.google.com/certification/guides/looker-ba | 

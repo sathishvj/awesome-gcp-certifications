@@ -25,6 +25,7 @@
 | :---:         |     :---     |     :---       |          :--- |
 | 2020/09 |  [Technical deep dive on Looker: The enterprise BI solution for Google Cloud](https://www.youtube.com/watch?v=fbgva493gb8) | Google |          |
 | 2020/06 |  [Looker on GCP Masterclass](https://www.youtube.com/watch?v=c0qR1NIN16k) | Google |          |
+|  |  [Look & Learn - YouTube Playlist](https://www.youtube.com/watch?v=VYekpqoI04g&list=PL2rFVcDw2yVoXlI3onYS7Ecufjg2ODI9u) | Google |          |
 
 ### Online Trainings
 | Site | Title/Link | Instructor |
