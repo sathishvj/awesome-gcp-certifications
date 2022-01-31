@@ -15,6 +15,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2022/01 |  [Notes from my GCP LookML Developer Exam](https://sathishvj.medium.com/notes-from-my-google-cloud-looker-lookml-developer-certification-exam-467a2a5ece3c) | Sathish VJ |
 
 ### Books
 | Published | Title/Link | Publisher | Authors |
