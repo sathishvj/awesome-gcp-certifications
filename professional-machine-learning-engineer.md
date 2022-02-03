@@ -2,6 +2,7 @@
 
 | | | |
 | :---:         |     :---      |          :--- |
+| **Note:** | Exam is changing from Feb 22, 2022. See new exam guide. | 
 | **Official Link:** | https://cloud.google.com/certification/guides/machine-learning-engineer | 
 | **Length:** | 2 hours. (Note: there seems to be 60 questions in the PMLE.) | 
 | **Registration fee:** | $200 (plus tax where applicable) | 
@@ -40,6 +41,7 @@
 ### Videos / Sessions
 | Published | Title/Link | Instructor | Notes | 
 | :---:         |     :---      |          :--- |          :--- | 
+| | [Vertex AI - AI Simplified](https://www.youtube.com/watch?v=gT4qqHMiEpA&list=PLIivdWyY5sqJ1YuMdGjRwJ3fFYZ_vWQ62) | Priyanka Vergadia |  |
 | | [AI Adventures](https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2) | Google Cloud | |
 | | [ROC and AUC - Clearly Explained](https://www.youtube.com/watch?v=4jRBRDbJemM) | Josh Starmer | [ML Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) |
 
@@ -69,6 +71,8 @@
 ### Qwiklabs Links
 |  Title/Link  |
 | :---:         |
+| [Build and Deploy Machine Learning Solutions on Vertex AI](https://www.qwiklabs.com/quests/183) |
+| [Advanced ML: ML Infrastructure](https://www.qwiklabs.com/quests/84) |
 | [Data Science on Google Cloud: Machine Learning](https://google.qwiklabs.com/quests/50) |
 | [Google Cloud Solutions II: Data and Machine Learning](https://google.qwiklabs.com/quests/38) |
 | [Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://google.qwiklabs.com/quests/117) |
