@@ -56,6 +56,7 @@
 ### Online Trainings
 | Site | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
+| AntonIT Training | [Google Cloud Professional Cloud Architect](https://training.antonit.com/p/google-cloud-professional-cloud-architect) | Antoni Tzavelas|
 | Udemy | [Google Cloud Certification - Professional Cloud Architect](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?referralCode=B5B766D32C9E03357B86) | in28minutes |
 | Qwiklabs | [GCP Essentials](https://google.qwiklabs.com/quests/23) | |
 | Qwiklabs | [Challenge: GCP Architecture](https://google.qwiklabs.com/quests/47) | |
