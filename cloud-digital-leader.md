@@ -28,6 +28,7 @@
 ### Books
 | Published | Title/Link | Publisher | Authors |
 | :---:         |     :---     |     :---       |          :--- |
+| 2022/01 | CDL Exam Prep Guide |  | Sarah Walker-Leptich |
 
 ### Videos / Sessions
 | Published | Title/Link | Publisher | Authors |
