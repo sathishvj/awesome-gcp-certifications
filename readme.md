@@ -11,6 +11,7 @@
 - [Looker Business Analyst](looker-business-analyst.md)
 - [Looker LookML Developer](looker-lookml-developer.md)
 - [Professional Cloud Architect](professional-cloud-architect.md)
+- [Professional Cloud Database Engineer](professional-cloud-database-engineer.md)
 - [Professional Cloud DevOps Engineer](professional-cloud-devops-engineer.md)
 - [Professional Cloud Developer](professional-cloud-developer.md)
 - [Professional Cloud Network Engineer](professional-cloud-network-engineer.md)
