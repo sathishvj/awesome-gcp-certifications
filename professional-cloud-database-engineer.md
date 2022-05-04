@@ -13,6 +13,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2022/05 | [Google Database Engineer Beta Exam Thoughts](https://medium.com/cts-technologies/google-database-engineer-beta-exam-thoughts-37777a14f0be) | Alistair Grew |
 
 ### Learning Links
 | Site | Title/Link | Author |
