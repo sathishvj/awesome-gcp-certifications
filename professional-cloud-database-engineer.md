@@ -13,6 +13,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2022/05 | [My Review of the GCP PCDbE BETA Exam](https://antonit.medium.com/my-review-of-the-google-cloud-professional-cloud-database-engineer-beta-exam-7e9d549d00e9) | Antoni Tzavelas |
 | 2022/05 | [Google Database Engineer Beta Exam Thoughts](https://medium.com/cts-technologies/google-database-engineer-beta-exam-thoughts-37777a14f0be) | Alistair Grew |
 
 ### Learning Links
