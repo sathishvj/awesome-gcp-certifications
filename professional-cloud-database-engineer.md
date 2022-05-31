@@ -22,6 +22,14 @@
 | Google Cloud | [Database Modernization](https://cloud.google.com/solutions/database-modernization) | |
 | Google Cloud | [Database Migration](https://cloud.google.com/solutions/database-migration) | |
 | Google Cloud | [Which Database should I use](https://cloud.google.com/blog/topics/developers-practitioners/your-google-cloud-database-options-explained) | |
+| Google Cloud | [About replication in Cloud SQL](https://cloud.google.com/sql/docs/mysql/replication) | Google |
+| Google Cloud | [About high availability](https://cloud.google.com/sql/docs/mysql/high-availability) | Google |
+| Google Cloud | [About Cloud SQL backups](https://cloud.google.com/sql/docs/mysql/backup-recovery/backups) | Google |
+| Google Cloud | [About restoring an instance](https://cloud.google.com/sql/docs/mysql/backup-recovery/restore) | Google |
+| Google Cloud | [Troubleshoot](https://cloud.google.com/sql/docs/mysql/troubleshooting) | Google |
+| Google Cloud | [Best practices for importing and exporting data](https://cloud.google.com/sql/docs/mysql/import-export) | Google |
+| Google Cloud | [Identify idle Cloud SQL instances](https://cloud.google.com/sql/docs/mysql/recommender-sql-idle) | Google |
+| Google Cloud | [Reduce overprovisioned Cloud SQL instances](https://cloud.google.com/sql/docs/mysql/recommender-sql-overprovisioned) | Google |
 
 ### Practice Exams / Tests
 | Published On | Title/Link | Author |
