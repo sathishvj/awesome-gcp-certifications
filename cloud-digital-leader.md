@@ -10,6 +10,7 @@
 | **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online. | 
 | **Recommended experience:** | No experience required. | 
 | **Official Practice Exam:** | [link](https://docs.google.com/forms/d/e/1FAIpQLSfsSfkh9PE-HjdRRzJ24wPSjZrXF3gLxmncAYx31gyz2rLbtw/viewform) | 
+| **Certification Validity:** | Other exams have a validity of 2 years, but the CDL is valid for 3 years. | 
 
 ### Posts
 | Published | Title/Link | Author |
