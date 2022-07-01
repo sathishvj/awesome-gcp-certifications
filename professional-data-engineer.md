@@ -30,7 +30,7 @@
 | 2019/01 | [GCP Certified Data Engineer in 3 Weeks](https://medium.com/@avinash.gupta/gcp-certified-data-engineer-in-3-weeks-345ecfa667c3) | Avinash Gupta |
 | 2019/01 | [Cheat sheet](https://www.slideshare.net/GuangXu5/gcp-data-engineer-cheatsheet) | Guang Xu |
 | 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma |
-| 2018/11 | [Preparing for the Google Cloud](https://tzamtzis.gr/2018/digital-analytics/becoming-gcp-data-engineer/) | Panagiotis |
+| 2018/11 | [Preparing for the Google Cloud](https://tzamtzis.gr/2018/digital-analytics/becoming-gcp-data-engineer/) | Panagiotis Tzamtzis |
 | 2018/10 | [How to pass your Google Cloud Platform Professional Data Engineer exam](https://www.slideshare.net/vinoaj/measure-camp-how-to-pass-your-gcp-professional-data-engineer-exam-20181020) | vinoaj |
 | 2018/10 | [A Study Guide to the Google Cloud Professional Data Engineer Certification Path](https://medium.com/@simonleewm/a-study-guide-to-the-google-cloud-professional-data-engineer-certification-path-9e83e41e311) | Simon Lee |
 | 2017/12 | [Google Cloud Certified Professional - Data Engineer Track](https://www.linkedin.com/pulse/google-cloud-certified-professional-data-engineer-writeup-rix/) | Kayleigh Rix |
