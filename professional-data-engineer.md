@@ -10,6 +10,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2021/01 | [How to pass the PDE certification – as a sales guy](https://www.linkedin.com/pulse/how-pass-google-cloud-professional-data-engineer-sales-rolf-siegel/) | Rolf Siegel |
 | 2020/09 | [GCP Professional Data Engineer Guide](https://metanube.org/2020/09/10/gcp-professional-data-engineer-guide-september-2020/) | A Estevez |
 | 2020/07 | [preparation, tips, and my journey from failing to passing experience](https://medium.com/@kshitijmb/gcp-data-engineer-exam-preparation-important-tips-and-my-emotional-journey-from-failing-to-132d91dc75f8) | Kshitij Bhadage |
 | 2020/05 | [Data Engineering on GCP Specialisation](https://towardsdatascience.com/data-engineering-on-gcp-specialisation-a-comprehensive-guide-for-data-professionals-4bb8bae8a1c7) | Alex Papageorgiou |

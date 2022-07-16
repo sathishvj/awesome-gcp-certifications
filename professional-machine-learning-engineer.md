@@ -11,7 +11,8 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-|  2022/03 | [How I passed the Google Cloud Professional Machine Learning Engineer exam (Vertex AI)](https://medium.com/@joshcx/how-i-passed-the-google-cloud-professional-machine-learning-engineer-exam-vertex-ai-484c7863bbac) | Joshua Tan |
+|  2022/03 | [How I passed the Google Cloud PMLEexam (Vertex AI)](https://medium.com/@joshcx/how-i-passed-the-google-cloud-professional-machine-learning-engineer-exam-vertex-ai-484c7863bbac) | Joshua Tan |
+|  2022/01 | [How to prepare for the GCP PMLEexam](https://towardsdatascience.com/how-to-prepare-for-the-gcp-professional-machine-learning-engineer-exam-b1c59967355f) | Gabriel Cassimiro|
 |  2021/08 | [A Comprehensive Study Guide for the GCP ML Engineer Certification](https://towardsdatascience.com/a-comprehensive-study-guide-for-the-google-professional-machine-learning-engineer-certification-1e411db4d2cf) | Jeffrey Luppes |
 |  2021/08 | [How to study for (and pass) Google's PMLE certification](https://www.linkedin.com/pulse/how-study-pass-googles-professional-machine-learning-engineer-siegel) | Rolf Siegel |
 |  2021/07 | [Getting Data Science / ML Certified across Azure, AWS and GCP](https://www.linkedin.com/pulse/getting-data-science-ml-certified-across-azure-aws-gcp-sahayaraj) | Sanjana Sahayaraj |
