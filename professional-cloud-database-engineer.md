@@ -3,8 +3,8 @@
 | | | |
 | :---:         |     :---      |          :--- |
 | **Official Link:** | https://cloud.google.com/certification/cloud-database-engineer | 
-| **Length:** | 4 hours in beta; 2 hours in GA | 
-| **Registration fee:** | $120 in beta; $200 (plus tax where applicable).  There is also a discount for those from countries with lower purchasing power parity. | 
+| **Length:** | 2 hours in GA | 
+| **Registration fee:** | $200 (plus tax where applicable).  There is also a discount for those from countries with lower purchasing power parity. | 
 | **Exam format:** | Multiple choice and multiple select, taken in person at a test center. | 
 | **Recommended experience:** | 5+ years of overall database and IT experience, including 2 years of hands-on experience working with Google Cloud database solutions. | 
 | **Official Practice Test:** | Not Available Yet | 
