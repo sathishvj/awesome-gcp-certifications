@@ -45,6 +45,8 @@
 | | [GCP Networking Deep Dive](https://www.youtube.com/watch?v=nRJBFNyY944&feature=youtu.be) | Prajakta Joshi & Srinivas Krishnan |
 | | [Playlist - Network Engineer Certification](https://www.youtube.com/playlist?list=PLxQzKf1gjjCPfFXjRa1pa-ykwBhKs4T0J) | |
 | | [Playlist - GCP Network End-to-End](https://www.youtube.com/watch?v=cNb7xKyya5c&list=PLIivdWyY5sqJ0oXcnZYqOnuNRsLF9H48u) | Stephanie Wong |
+| | [Introduction to Cilium aka GKE Dataplane v2](https://www.youtube.com/watch?v=LF-itMcCkWs) | Rawkode Live |
+| | [How Cilium uses BPF to Supercharge Kubernetes Networking & Security](https://www.youtube.com/watch?v=sodtj1RPjlY) | CNCF |
 
 ### Online Trainings
 | Site | Title/Link | Instructor |
