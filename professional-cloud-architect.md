@@ -34,6 +34,7 @@
 | Udemy | [GCP - Professional Cloud Architect (Test your knowledge)](https://www.udemy.com/google-certified-professional-cloud-architect/) | |
 | Udemy | [GCP - Google Cloud Certified - Architect Practice Questions](https://www.udemy.com/google-cloud-certified-architect-practice-questions/) | |
 | Whizlabs | [GCP - Google Cloud Certified - Architect Practice Questions](https://www.whizlabs.com/google-cloud-certified-professional-cloud-architect/) | |
+| Study4Exam | [GCP - Google Cloud Certified - Architect Practice Questions](https://www.study4exam.com/google/free-professional-cloud-architect-questions) | |
 
 ### Books
 | Published | Title/Link | Author |
