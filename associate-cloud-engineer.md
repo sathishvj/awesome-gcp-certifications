@@ -55,6 +55,7 @@
 | Published | Title/Link | Publisher | Authors |
 | :---:         |     :---     |     :---       |          :--- |
 | | [The Certified Q&A - Associate Cloud Engineer Playlist](https://www.youtube.com/watch?v=MESzvFfGhN8&list=PLQMsfKRZZviRwqJwNmh1eAWnRMvlrk40x) | AwesomeGCP | Sathish VJ |
+| | [Google Cloud Associate Cloud Engineer Course - Pass the Exam!](https://youtu.be/jpno8FSqpc8) | freeCodeCamp.org  | Antoni Tzavelas |
 
 ### Online Trainings
 | Site | Title/Link | Instructor |
