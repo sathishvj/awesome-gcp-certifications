@@ -22,6 +22,7 @@
 |  2020/12 | [GCP ML Certification Prep](https://hilliao.medium.com/google-cloud-professional-machine-learning-engineer-certification-preparation-guide-22a58a6610c9) | Hil Liao|
 |  2020/12 | [Google Cloud Professional ML Engineer Certification – My Study Track](https://kevinslifer.com/2020/12/02/google-cloud-professional-ml-engineer-certification-my-study-track/) | Kevin Slifer |
 |  2020/11 | [GC PMLE: The definitive guide](https://towardsdatascience.com/google-professional-machine-learning-engineer-exam-what-to-expect-f1188e356046) | Oleh Lokshyn |
+| 2020/11 | [Tips to nail the Google Cloud Certified Machine Learning Engineer Professional exam](https://gcpfellow.com/2020/11/21/tips-to-nail-the-machine-learning-engineer-exam/) | Konrad Clapa |
 |  2020/10 | [What I learned studying for the GCP ML Exam](https://www.jellyfish.com/en-us/training/blog/studying-for-the-gcp-machine-learning-exam) | Francisco Quintana |
 |  2020/10 | [Cloud Professional ML Engineer](https://virenlr.com/2020/10/my-journey-with-ml-part-3-cloud-professional-ml-engineer/) | virenlr |
 |  2020/08 | [My notes from GCP ML Engineer exam](https://medium.com/@jmoniz0/my-notes-on-google-cloud-machine-learning-engineer-exam-280eab80f8ab) | João Serra |
