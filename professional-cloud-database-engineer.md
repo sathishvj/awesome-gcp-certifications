@@ -32,6 +32,7 @@
 | Google Cloud | [Best practices for importing and exporting data](https://cloud.google.com/sql/docs/mysql/import-export) | Google |
 | Google Cloud | [Identify idle Cloud SQL instances](https://cloud.google.com/sql/docs/mysql/recommender-sql-idle) | Google |
 | Google Cloud | [Reduce overprovisioned Cloud SQL instances](https://cloud.google.com/sql/docs/mysql/recommender-sql-overprovisioned) | Google |
+| Google Cloud | [Whitepaper - Migrating your databases to managed services on Google Cloud](https://services.google.com/fh/files/misc/migrating_your_databases_to_managed_services_on_google_cloud.pdf) | Google |
 
 ### Practice Exams / Tests
 | Published On | Title/Link | Author |
