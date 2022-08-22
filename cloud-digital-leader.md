@@ -6,6 +6,7 @@
 | :---:         |     :---      |          :--- |
 | **Official Link:** | https://cloud.google.com/certification/cloud-digital-leader | 
 | **Length:** | 1.5 hours | 
+| **Questions:** | ~60 (not a fixed number, but typically around 60+ questions) | 
 | **Registration fee:** | $99 (plus tax where applicable). There is also a discount for those from countries with lower purchasing power parity. | 
 | **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online. | 
 | **Recommended experience:** | No experience required. | 

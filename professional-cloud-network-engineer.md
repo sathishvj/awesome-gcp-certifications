@@ -3,6 +3,8 @@
 | | | |
 | :---:         |     :---      |          :--- |
 | **Official Link:** | https://cloud.google.com/certification/cloud-network-engineer/ | 
+| **Length:** | 2 hours | 
+| **Questions:** | ~50 (not a fixed number, but typically around 50+ questions) | 
 | **Experience:** | Professional | 
 | **Certification type:** | Specialization | 
 | **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/cloud-network-engineer | 

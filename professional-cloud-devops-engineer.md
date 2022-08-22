@@ -3,7 +3,8 @@
 | | | |
 | :---:         |     :---      |          :--- |
 | **Official Link:** | https://cloud.google.com/certification/cloud-devops-engineer | 
-| **Length:** | 2 hours with about 50-60 questions | 
+| **Length:** | 2 hours | 
+| **Questions:** | ~50 (not a fixed number, but typically around 50+ questions) | 
 | **Registration fee:** | $200 (plus taxes where applicable). | 
 | **Exam format:** | Multiple choice and multiple select, taken in person at a test center. | 
 | **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/cloud-devops-engineer | 

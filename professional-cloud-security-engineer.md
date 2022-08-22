@@ -3,6 +3,8 @@
 | | | |
 | :---:         |     :---      |          :--- |
 | **Official Description:** | https://cloud.google.com/certification/cloud-security-engineer/ | 
+| **Length:** | 2 hours | 
+| **Questions:** | ~50 (not a fixed number, but typically around 50+ questions) | 
 | **Experience:** | Advanced - Professional | 
 | **Certification type:** | Specialization | 
 | **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/cloud-security-engineer | 

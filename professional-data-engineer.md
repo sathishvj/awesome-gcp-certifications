@@ -3,6 +3,8 @@
 | | | |
 | :---:         |     :---      |          :--- |
 | **Official Description:** | https://cloud.google.com/certification/data-engineer/ | 
+| **Length:** | 2 hours | 
+| **Questions:** | ~50 (not a fixed number, but typically around 50+ questions) | 
 | **Certification type:** | Specialization | 
 | **Experience:** | Advanced - Professional | 
 | **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/data-engineer | 

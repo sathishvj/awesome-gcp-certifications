@@ -3,6 +3,8 @@
 | | | |
 | :---:         |     :---      |          :--- |
 | **Note:** | Exam is changing from Feb 22, 2022. See new exam guide. | 
+| **Length:** | 2 hours | 
+| **Questions:** | ~60 (not a fixed number, but typically around 60+ questions) | 
 | **Official Link:** | https://cloud.google.com/certification/guides/machine-learning-engineer | 
 | **Length:** | 2 hours. (Note: there seems to be 60 questions in the PMLE.) | 
 | **Registration fee:** | $200 (plus tax where applicable) | 
