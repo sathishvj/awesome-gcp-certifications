@@ -32,6 +32,7 @@
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | | [Professional Cloud Security Engineer Practice Exam](https://cloud.google.com/certification/practice-exam/cloud-security-engineer) | |
+| | [Professional Cloud Security Engineer Practice Exam](https://www.study4exam.com/google/free-professional-cloud-security-engineer-questions) | |
 
 ### Books
 | Published | Title/Link | Author |
