@@ -47,6 +47,7 @@
 | | [GCP Networking Deep Dive](https://www.youtube.com/watch?v=nRJBFNyY944&feature=youtu.be) | Prajakta Joshi & Srinivas Krishnan |
 | | [Playlist - Network Engineer Certification](https://www.youtube.com/playlist?list=PLxQzKf1gjjCPfFXjRa1pa-ykwBhKs4T0J) | |
 | | [Playlist - GCP Network End-to-End](https://www.youtube.com/watch?v=cNb7xKyya5c&list=PLIivdWyY5sqJ0oXcnZYqOnuNRsLF9H48u) | Stephanie Wong |
+| | [Hybrid Networking: GCP NCC - Google Cloud Network Connectivity Center](https://www.youtube.com/watch?v=BGB0ojLA22M) | Rohith Ramkumar |
 
 ### Online Trainings
 | Site | Title/Link | Instructor |
