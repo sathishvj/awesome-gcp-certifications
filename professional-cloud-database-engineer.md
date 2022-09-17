@@ -14,7 +14,8 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-| 2022/06 | [Notes from my PCDE beta certification exam](https://sathishvj.medium.com/notes-from-my-professional-cloud-database-engineer-beta-certification-exam-78ade74022e7) | Sathish VJ |
+| 2022/06 | [Get Certified: Google Cloud – PCDbE](https://blogs.sap.com/2022/09/16/get-certified-google-cloud-professional-cloud-database-engineer/) | Denys van Kempen |
+| 2022/06 | [Notes from my PCDbE beta certification exam](https://sathishvj.medium.com/notes-from-my-professional-cloud-database-engineer-beta-certification-exam-78ade74022e7) | Sathish VJ |
 | 2022/04 | [Professional Cloud Database Engineer](https://tako.nakano.net/blog/2022/04/professional-cloud-database-engineer/) (Japanese) | Takuho Nakano |
 | 2022/05 | [My Review of the GCP PCDbE BETA Exam](https://antonit.medium.com/my-review-of-the-google-cloud-professional-cloud-database-engineer-beta-exam-7e9d549d00e9) | Antoni Tzavelas |
 | 2022/05 | [Google Database Engineer Beta Exam Thoughts](https://medium.com/cts-technologies/google-database-engineer-beta-exam-thoughts-37777a14f0be) | Alistair Grew |
