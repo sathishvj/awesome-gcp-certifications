@@ -74,7 +74,8 @@ These references are useful across all certifications.
 | | [Google Cloud Certified Credential Holder Directory (voluntary list)](https://googlecloudcertified.credential.net/) | |
 | | [Directory of Google Developer Experts (GDE) for Cloud](https://developers.google.com/community/experts/directory) | |
 | 2019/04 | [Google Cloud Platform Authorized Trainer](https://medium.com/@sathishvj/google-cloud-platform-authorized-trainer-1b202f3eef61) | Sathish VJ |
-
+| | [Updated news and quality contents](https://twitter.com/pvergadia) | Priyanka Vergadia, Chief Content Officer & Staff Developer Advocate @googlecloud
+  
 ### Best Practices
 | Title | Link | 
 | :---:         |     :---      |
