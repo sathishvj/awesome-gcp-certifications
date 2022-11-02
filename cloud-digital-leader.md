@@ -29,6 +29,8 @@
 | Published On | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | Udemy | [Google Cloud Certified Cloud Digital Leader Practice Tests](https://www.udemy.com/course/google-cloud-certified-cloud-digital-leader-practice-tests/?referralCode=1E7FA94F29E3481F9767) | Sathish VJ @ AwesomeGCP |
+| Google Drive | [Google Cloud Certified Cloud Digital Leader Sample Questions 1](https://drive.google.com/file/d/15Sup0fsZWPJvuZfTQbyresCWazKerE4S/view?usp=sharing) | Google Cloud |
+| Google Drive | [Google Cloud Certified Cloud Digital Leader Sample Questions 2](https://drive.google.com/file/d/1fcl-QQNHi7gqOlKwEZoZRZR__AVCZoaL/view?usp=sharing) | Google Cloud |
 
 ### Books
 | Published | Title/Link | Publisher | Authors |
