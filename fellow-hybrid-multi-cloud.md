@@ -10,6 +10,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2022/03 | [Taking a look at Google Cloud Certified Fellows](https://engineering.sada.com/taking-a-look-at-google-cloud-certified-fellows-bc655b5cf840) | Nate David |
 | | [Anthos Under the Hood - Whitepaper](https://inthecloud.withgoogle.com/content-anthos/whitepaper_anthos_under_the_hood_2020.pdf) |  Google Cloud |
 | | [CIO's Guide to Application Migration](https://services.google.com/fh/files/misc/cio_guide_to_application_migraton.pdf) |  Google Cloud |
 

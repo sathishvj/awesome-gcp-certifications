@@ -16,7 +16,10 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2022/08 | [How I Prepared to Take the ACEngineer certification](https://medium.com/sysadminas/how-i-prepared-to-take-the-google-cloud-associate-cloud-engineer-certification-c6e41491ace6) | Mariana Carvalho |
 | 2022/08 | [GCP Associate Cloud Engineer Notes](https://github.com/Ernyoke/certified-gcp-cloud-engineer) | Ervin Szilagyi |
+| 2022/06 | [GCP ACE RoadMap & Resources](https://medium.com/@myid535/gcp-associate-cloud-engineer-ace-roadmap-resources-3553392c4a40) | Shubham Chaurasia |
+| 2022/02 | [How did I ace Google Cloud ACE in 2022?](https://medium.com/analytics-vidhya/how-did-i-ace-google-cloud-associate-cloud-engineer-in-2022-e2d1737970ce) | Prathmesh Patil |
 | 2022/01 | [Tips For Getting the GCP ACE Certification](https://www.linkedin.com/pulse/tips-getting-gcp-ace-certification-google-cloud-roger-rustad-jr-/) | Roger Rustad, Jr. |
 | 2021/06 | [Google Associate Cloud Engineer notes](https://www.pistocop.dev/posts/ace_google_exam_notes/) | Simone Guardati |
 | 2021/05 | [How to prepare for GCP ACE](https://abhisheksharma7389.medium.com/how-to-prepare-for-google-cloud-certified-associate-cloud-engineer-exam-d0d609383b8b) | Abhishek sharma |

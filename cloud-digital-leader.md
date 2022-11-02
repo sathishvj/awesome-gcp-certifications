@@ -16,6 +16,9 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2022/09 | [How I studied for the Google Cloud Digital Leader Exam](https://faun.pub/how-i-studied-for-the-google-cloud-digital-leader-exam-32d5f4b3dc96)  | Rycole |
+| 2022/03 | [How to Prepare For The Google Cloud Digital Leader Certification Exam](https://medium.com/@walkrinthecloud/how-to-prepare-for-the-google-cloud-digital-leader-certification-exam-6bf1dcf017d7)  | Sarah Walker-Leptich |
+| 2021/01 | [6 Best Google Cloud Digital Leader Certification Courses for Beginners in 2022](https://medium.com/javarevisited/5-best-google-cloud-digital-leader-certification-courses-for-beginners-5d8f25d587)  | Javin Paul |
 | 2021 | [CDL Learning Path](https://cloud.google.com/training/business#cloud-digital-leader-path)  | Google |
 | 2021/09 | [Get Certified: Google Cloud Digital Leader](https://blogs.sap.com/2021/09/11/get-certified-google-cloud-digital-leader/)  | Denys van Kempen |
 | 2021/07 | [Notes from my beta GC Digital Leader certification exam](https://sathishvj.medium.com/notes-from-my-beta-google-cloud-digital-leader-certification-exam-e4f9fd1b119e) | Sathish VJ |

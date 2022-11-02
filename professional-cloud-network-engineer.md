@@ -12,6 +12,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2022/06 | [Preparing for success with the GCP Professional Cloud Network Engineer Exam](https://medium.com/google-cloud/preparing-for-success-with-the-gcp-professional-cloud-network-engineer-exam-da230f9788ed) | Ammett Williams |
 | 2021/06 | [Reference of Important GCP CIDR Blocks](https://engineering.premise.com/reference-of-important-gcp-cidr-blocks-3641040c4195) | Austen Novis |
 | 2020/10 | [How to pass PCNE and Exam Preparation Tips](https://www.linkedin.com/pulse/how-pass-google-professional-cloud-network-engineer-tips-singh/) | Saurabh Singh |
 | 2019/11 | [How to Pass GCP Network Engineer Certification](https://medium.com/ci-t/how-to-pass-the-google-professional-cloud-network-engineer-certification-40bb1f6cc962) | Ivam Luz |

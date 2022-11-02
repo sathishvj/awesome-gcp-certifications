@@ -12,6 +12,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2022/08 | [Preparing for the Google Cloud Professional Cloud DevOps Engineer Exam](https://medium.com/google-cloud/preparing-for-the-google-cloud-professional-cloud-devops-engineer-exam-30e9d5fe07e4) | Ammett Williams |
 | 2020/02 | [Exam Deep Dive notes. Preparing for the exam (Part 1 of 2)](https://myblockchainexperts.org/2020/02/19/gcp-professional-devops-engineer-exam-deep-dive-notes-preparing-for-the-exam-part-1-of-2/) | Joe Holbrook |
 | 2020/02 | [Professional Cloud DevOps Engineer Certificate tips](https://gcpfellow.com/2020/02/02/professional-cloud-devops-engineer-certificate-tips/) | Konrad Klapa |
 | 2020/01 | [Identifying and tracking toil using SRE principles](https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles) | Google Cloud Blog |
