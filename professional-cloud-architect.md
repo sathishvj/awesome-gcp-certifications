@@ -13,9 +13,13 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-| 2022/10 | [How I passed the GCP Professional Architect Exam](https://medium.com/@geoffrey-geofe/how-i-passed-the-gcp-professional-architect-exam-94269fac325e) | Geoffrey |
+| 2022/10 | [How I passed the GCP PCA Exam](https://medium.com/@geoffrey-geofe/how-i-passed-the-gcp-professional-architect-exam-94269fac325e) | Geoffrey |
+| 2022/07 | [The Architect and the Helicopter Racing](https://medium.com/@aliaksei.kaliutau/the-architect-and-the-helicopter-racing-4fce12520715) | Aliaksei Kaliutau |
+| 2022/06 | [GCP PCA RoadMap & Resources](https://medium.com/@myid535/gcp-professional-cloud-architect-roadmap-resources-bae64dcd615a) | Shubham Chaurasia |
+| 2021/08 | [Path to Google Cloud Professional Cloud Architect Certification](https://medium.com/priceline-labs/path-to-google-cloud-professional-cloud-architect-certification-da58da63492c) | Vinny Joseph |
+| 2021/06 | [GCP Professional Cloud Architect — Exam Guide Mapping to Prep links](https://rameshrajini.medium.com/gcp-professional-cloud-architect-exam-guide-mapping-to-prep-links-f8159296f0a1) | Ramesh Rajini |
 | 2021/03 | [My Review of the PCA BETA Exam](https://www.reddit.com/r/googlecloud/comments/m15yl4/my_review_of_the_google_cloud_professional_cloud/) | Antoni Tzavelas |
-| 2021/01 | [How I prepared for Google Cloud Professional Architect exam?](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-professional-architect-exam) | Rakesh Vardan |
+| 2021/01 | [How I prepared for GCP PCA exam?](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-professional-architect-exam) | Rakesh Vardan |
 | 2020/09 | [How to pass PCA – as a sales guy](https://www.linkedin.com/pulse/how-pass-google-cloud-professional-architect-sales-guy-rolf-siegel/) | Rolf Siegel |
 | 2020/03 | [Build on Your Experience to Earn Cloud Certifications](https://blog.doit-intl.com/bring-your-experience-to-the-cloud-certification-891278df5b5) | Joshua Fox |
 | 2020/02 | [PCA Prep Sheet](https://www.linkedin.com/pulse/google-cloud-professional-architect-prep-sheet-ammett-williams/) | Ammett Williams |

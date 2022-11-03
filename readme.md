@@ -34,6 +34,8 @@ These references are useful across all certifications.
 
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2022/11 | [FAQs on Google Cloud (GCP) Certifications](https://medium.com/@sathishvj/faqs-on-google-cloud-gcp-certifications-6676d07c9725) | Sathish VJ |
+| 2021/11 | [End to End Process of Booking/scheduling your Google Cloud exam to Sharing your result](https://rameshrajini.medium.com/end-to-end-process-of-booking-scheduling-your-google-cloud-exam-to-sharing-your-result-aaac60bc6d1e) | Ramesh Rajini |
 | 2020/09 | [Passing and Failing GCP Certification Exams](https://www.linkedin.com/pulse/passing-failing-google-cloud-certification-exams-bernd-nordhausen/) | Bernd Nordhausen |
 | 2020/03 | [Getting all the 10/10 GCP certificates – how do I start? Part 1/X](https://gcpfellow.com/2020/03/14/getting-all-the-10-10-gcp-certificates-how-do-i-start-part-1-x/) | Konrad Clapa |
 | 2020/02 | [AwesomeGCP Channel](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A) | Sathish VJ |

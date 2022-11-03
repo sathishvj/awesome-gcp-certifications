@@ -12,7 +12,10 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2022/10 | [How I prepared for GCP PDE Certification](https://medium.com/@narayan.jogsingh/how-i-prepared-for-gcp-professional-data-engineer-certification-8804d90da042) | Narayan Singh |
+| 2022/07 | [How do I prepared and passed the GCP PDE Certification Exam (2022)](https://medium.com/@garyyiu/how-do-i-prepared-and-passed-the-google-cloud-professional-data-engineer-certification-exam-2022-b13989cd465b) | Gary Yiu |
 | 2022/05 | [How I Passed the PDE Exam on my First Attempt](https://dohmhen.medium.com/how-i-passed-the-google-certified-professional-data-engineer-exam-on-my-first-attempt-fa3c01699296) | Damian Ohienmhen |
+| 2021/10 | [Top ten tips for passing the GCP PDE Certification exam](https://medium.com/credera-engineering/top-10-tips-for-passing-the-google-cloud-professional-data-engineer-certification-exam-b7162a1b5507) | konrad bachusz |
 | 2021/01 | [How to pass the PDE certification – as a sales guy](https://www.linkedin.com/pulse/how-pass-google-cloud-professional-data-engineer-sales-rolf-siegel/) | Rolf Siegel |
 | 2020/09 | [GCP Professional Data Engineer Guide](https://metanube.org/2020/09/10/gcp-professional-data-engineer-guide-september-2020/) | A Estevez |
 | 2020/07 | [preparation, tips, and my journey from failing to passing experience](https://medium.com/@kshitijmb/gcp-data-engineer-exam-preparation-important-tips-and-my-emotional-journey-from-failing-to-132d91dc75f8) | Kshitij Bhadage |

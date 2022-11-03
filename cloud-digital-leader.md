@@ -16,14 +16,15 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-| 2022/09 | [How I studied for the Google Cloud Digital Leader Exam](https://faun.pub/how-i-studied-for-the-google-cloud-digital-leader-exam-32d5f4b3dc96)  | Rycole |
-| 2022/03 | [How to Prepare For The Google Cloud Digital Leader Certification Exam](https://medium.com/@walkrinthecloud/how-to-prepare-for-the-google-cloud-digital-leader-certification-exam-6bf1dcf017d7)  | Sarah Walker-Leptich |
-| 2021/01 | [6 Best Google Cloud Digital Leader Certification Courses for Beginners in 2022](https://medium.com/javarevisited/5-best-google-cloud-digital-leader-certification-courses-for-beginners-5d8f25d587)  | Javin Paul |
+| 2022/09 | [How I studied for the Google CDL Exam](https://faun.pub/how-i-studied-for-the-google-cloud-digital-leader-exam-32d5f4b3dc96)  | Rycole |
+| 2022/03 | [How to Prepare For The Google CDL Certification Exam](https://medium.com/@walkrinthecloud/how-to-prepare-for-the-google-cloud-digital-leader-certification-exam-6bf1dcf017d7)  | Sarah Walker-Leptich |
+| 2021/09 | [How to become GCP Certified CDL](https://rameshrajini.medium.com/how-to-become-google-certified-cloud-digital-leader-acc726c03142) | Ramesh Rajini |
+| 2021/01 | [6 Best Google CDL Certification Courses for Beginners in 2022](https://medium.com/javarevisited/5-best-google-cloud-digital-leader-certification-courses-for-beginners-5d8f25d587)  | Javin Paul |
 | 2021 | [CDL Learning Path](https://cloud.google.com/training/business#cloud-digital-leader-path)  | Google |
-| 2021/09 | [Get Certified: Google Cloud Digital Leader](https://blogs.sap.com/2021/09/11/get-certified-google-cloud-digital-leader/)  | Denys van Kempen |
-| 2021/07 | [Notes from my beta GC Digital Leader certification exam](https://sathishvj.medium.com/notes-from-my-beta-google-cloud-digital-leader-certification-exam-e4f9fd1b119e) | Sathish VJ |
-| 2021/05 | [A quick review of the new Cloud Digital Leader (beta)](https://www.linkedin.com/pulse/quick-review-new-cloud-digital-leader-beta-exam-hifzullah-celik/) | Hifzullah Celik |
-| 2021/05 | [My Review on the Cloud Digital Leader Beta Exam](https://www.linkedin.com/pulse/my-review-cloud-digital-leader-beta-exam-antoni-tzavelas/) | Antoni Tzavelas |
+| 2021/09 | [Get Certified: GCP CDL](https://blogs.sap.com/2021/09/11/get-certified-google-cloud-digital-leader/)  | Denys van Kempen |
+| 2021/07 | [Notes from my beta GCP CDL certification exam](https://sathishvj.medium.com/notes-from-my-beta-google-cloud-digital-leader-certification-exam-e4f9fd1b119e) | Sathish VJ |
+| 2021/05 | [A quick review of the new CDL (beta)](https://www.linkedin.com/pulse/quick-review-new-cloud-digital-leader-beta-exam-hifzullah-celik/) | Hifzullah Celik |
+| 2021/05 | [My Review on the CDL Beta Exam](https://www.linkedin.com/pulse/my-review-cloud-digital-leader-beta-exam-antoni-tzavelas/) | Antoni Tzavelas |
 
 ### Practice Exams / Tests
 | Published On | Title/Link | Author |
