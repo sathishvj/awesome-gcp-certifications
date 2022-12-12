@@ -43,12 +43,13 @@
 
 ### Books
 | Published | Title/Link | Author |
-| :---:         |     :---      |          :--- |
-| 2021/12 | [Professional Cloud Architect - Google Cloud Certification Guide - Second Edition](https://www.packtpub.com/product/professional-cloud-architect-google-cloud-certification-guide-second-edition/9781801812290/) | Konrad Clapa, Brian Gerrard |
-| 2019/11 | [Official Google Cloud Certified Professional Cloud Architect Study Guide](https://www.wiley.com/en-in/Official+Google+Cloud+Certified+Professional+Cloud+Architect+Study+Guide-p-9781119602446) | Dan Sullivan |
-| | [Google Cloud Platform for Architects](https://www.amazon.com/Google-Cloud-Platform-Architects-solutions/dp/1788834305/) | |
-| | [Google Cloud Platform Cookbook](https://www.amazon.com/Google-Cloud-Platform-Cookbook-applications/dp/1788291999/) | |
-| | [Google Cloud Platform in Action](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520/) | |
+|:---------:|     :---      |          :--- |
+|  2022/04  | [Google Cloud Certified Professional Cloud Architect Study Guide, 2nd Edition](https://www.oreilly.com/library/view/google-cloud-certified/9781119871057/) | Dan Sullivan |
+|  2021/12  | [Professional Cloud Architect - Google Cloud Certification Guide - Second Edition](https://www.packtpub.com/product/professional-cloud-architect-google-cloud-certification-guide-second-edition/9781801812290/) | Konrad Clapa, Brian Gerrard |
+|  2019/11  | [Official Google Cloud Certified Professional Cloud Architect Study Guide](https://www.wiley.com/en-in/Official+Google+Cloud+Certified+Professional+Cloud+Architect+Study+Guide-p-9781119602446) | Dan Sullivan |
+|           | [Google Cloud Platform for Architects](https://www.amazon.com/Google-Cloud-Platform-Architects-solutions/dp/1788834305/) | |
+|           | [Google Cloud Platform Cookbook](https://www.amazon.com/Google-Cloud-Platform-Cookbook-applications/dp/1788291999/) | |
+|           | [Google Cloud Platform in Action](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520/) | |
 
 ### Videos / Sessions
 | Published | Title/Link | Instructor |
@@ -57,6 +58,7 @@
 | | [Preparing for the GCP Cloud Architect certification](https://www.youtube.com/watch?v=kM8h_IZWYjA) | Raphael Soeiro |
 | | [Google Cloud Platform Cloud Architect Certification Review Questions Virtual Networking](https://www.youtube.com/watch?v=EGum8zDYidk) | Joe |
 | | [getgcpcertified.com - "DevOps in GCP & Site Reliability Engineering Ideas"](https://www.getgcpcertified.com/p/free-trial-professional-cloud-architect) | |
+| | [Preparing for the GCP Cloud Architect certification](https://www.youtube.com/watch?v=kM8h_IZWYjA) | Raphael Soeiro |
 
 
 ### Online Trainings
