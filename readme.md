@@ -16,7 +16,7 @@
 - [Professional Cloud Developer](professional-cloud-developer.md)
 - [Professional Cloud Network Engineer](professional-cloud-network-engineer.md)
 - [Professional Cloud Security Engineer](professional-cloud-security-engineer.md)
-- [Professional Collaboration Engineer](professional-collaboration-engineer.md)
+- [Professional Workspace Administrator](professional-workspace-administrator.md)
 - [Professional Data Engineer](professional-data-engineer.md)
 - [Professional Machine Learning Engineer](professional-machine-learning-engineer.md)
 - [Fellow Hybrid Multi-cloud](fellow-hybrid-multi-cloud.md)

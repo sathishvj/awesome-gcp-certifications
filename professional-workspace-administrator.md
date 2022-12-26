@@ -1,18 +1,18 @@
-# Professional Collaboration Engineer
+# Professional Workspace Administrator
 
 | | | |
 | :---:         |     :---      |          :--- |
-| **Official Link:** | https://cloud.google.com/certification/collaboration-engineer/  | 
+| **Official Link:** | https://cloud.google.com/certification/google-workspace-administrator | 
 | **Length:** | 2 hours | 
 | **Questions:** | ~50 (not a fixed number, but typically around 50+ questions) | 
 | **Registration fee:** | $200 (plus taxes where applicable). There is also a discount for those from countries with lower purchasing power parity. | 
 | **Exam format:** | Multiple choice and multiple select, take the exam remotely or at a nearby testing center. | 
 | **Recommended experience:** | 3+ years of industry experience including 1+ year G Suite administration experience.  | 
-| **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/collaboration-engineer | 
 
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+|  2022/12 | [Certification — How to Prepare for the GCP PWA](https://medium.com/@jitu028/certification-how-to-prepare-for-google-cloud-professional-google-workspace-administrator-561ed334fad2) | Jitendra Gupta |
 |  2021/05 | [Prep Notes](https://drive.google.com/file/d/1DWaD0yOfUdTBcyPvQ7HLhz5d2JLevkbc/view) | Marcus Pilgrim |
 |  2020/03 | [Nail the GCP Collaboration Engineer Exam](https://gcpfellow.com/2020/03/05/nail-the-google-cloud-profession-collaboration-engineer-exam/) | Konrad Clapa |
 |  2020/01 | [Notes from my Collaboration Engineer Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-collaboration-engineer-certification-exam-5aaaaa2a4b19) | Sathish VJ |
@@ -27,7 +27,7 @@
 ### Practice Exams / Tests
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-| | [Official Practice Exam](https://cloud.google.com/certification/practice-exam/collaboration-engineer) | Google |
+| | [Official Practice Exam](https://docs.google.com/forms/d/e/1FAIpQLSfdLA0hTTzsKnw5Mt23yL-jH06xNzV_f-s32nEBc9ZKAIFYLA/viewform) | Google |
 
 ### Books
 | Published | Title/Link | Author |
