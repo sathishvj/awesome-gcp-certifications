@@ -14,6 +14,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2022/09 | [GCP PDBE Prep Notes](https://drive.google.com/file/d/1NhJh2RUs2IAFdoWLjt4R6qhMYDjfSZTM/view) | Ammett Williams |
 | 2022/06 | [Get Certified: Google Cloud – PCDbE](https://blogs.sap.com/2022/09/16/get-certified-google-cloud-professional-cloud-database-engineer/) | Denys van Kempen |
 | 2022/06 | [Notes from my PCDbE beta certification exam](https://sathishvj.medium.com/notes-from-my-professional-cloud-database-engineer-beta-certification-exam-78ade74022e7) | Sathish VJ |
 | 2022/04 | [Professional Cloud Database Engineer](https://tako.nakano.net/blog/2022/04/professional-cloud-database-engineer/) (Japanese) | Takuho Nakano |
