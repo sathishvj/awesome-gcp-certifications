@@ -6,7 +6,7 @@
 | **Length:** | 2 hours | 
 | **Questions:** | ~50 (not a fixed number, but typically around 50+ questions) | 
 | **Registration fee:** | $200 (plus tax where applicable).  There is also a discount for those from countries with lower purchasing power parity. | 
-| **Exam format:** | Multiple choice and multiple select, taken in person at a test center. | 
+| **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online-proctored from a remote location. | 
 | **Recommended experience:** |  3+ years of industry experience including 1+ years designing and managing solutions using GCP. | 
 | **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/cloud-architect | 
 
