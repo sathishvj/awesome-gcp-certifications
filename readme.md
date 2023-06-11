@@ -81,7 +81,7 @@ These references are useful across all certifications.
 | Title | Link | 
 | :---:         |     :---      |
 | AI Hub Data Preprocesing | https://aihub.cloud.google.com/p/products%2F31bf71d8-d513-4926-92dc-23b2f913afce |
-| Anthos Environ Requirements | https://cloud.google.com/anthos/multicluster-management/environs/best-practices |
+| Anthos Fleet Requirements | https://cloud.google.com/anthos/fleet-management/docs/fleet-concepts/best-practices |
 | Anthos Migration Planning | https://cloud.google.com/migrate/anthos/docs/planning-best-practices |
 | Apigee APIs | https://cloud.google.com/files/apigee/apigee-api-best-practices-ebook.pdf |
 | Audit Logs | https://cloud.google.com/blog/products/gcp/best-practices-for-working-with-google-cloud-audit-logging |
