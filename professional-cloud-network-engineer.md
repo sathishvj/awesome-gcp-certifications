@@ -35,6 +35,7 @@
 ### Books
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| | [Google Cloud Platform (GCP) Professional Cloud Network Engineer Certification Companion](https://a.co/d/4icu5XX) | |
 | | [Google Cloud Platform for Architects](https://www.amazon.com/Google-Cloud-Platform-Architects-solutions/dp/1788834305/) | |
 | | [Google Cloud Platform Cookbook](https://www.amazon.com/Google-Cloud-Platform-Cookbook-applications/dp/1788291999/) | |
 | | [Google Cloud Platform in Action](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520/) | |
