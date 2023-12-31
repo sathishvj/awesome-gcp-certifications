@@ -2,15 +2,16 @@
 
 | | | |
 | :---:         |     :---      |          :--- |
-| **Official Link:** | https://cloud.google.com/certification/cloud-architect/ | 
-| **Length:** | 2 hours | 
-| **Questions:** | ~50 (not a fixed number, but typically around 50+ questions) | 
-| **Registration fee:** | $200 (plus tax where applicable).  There is also a discount for those from countries with lower purchasing power parity. | 
-| **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online-proctored from a remote location. | 
-| **Recommended experience:** |  3+ years of industry experience including 1+ years designing and managing solutions using GCP. | 
-| **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/cloud-architect | 
+| **Official Link:** | https://cloud.google.com/certification/cloud-architect/ |
+| **Length:** | 2 hours |
+| **Questions:** | ~50 (not a fixed number, but typically around 50+ questions) |
+| **Registration fee:** | $200 (plus tax where applicable).  There is also a discount for those from countries with lower purchasing power parity. |
+| **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online-proctored from a remote location. |
+| **Recommended experience:** |  3+ years of industry experience including 1+ years designing and managing solutions using GCP. |
+| **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/cloud-architect |
 
 ### Posts
+
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | 2022/10 | [How I passed the GCP PCA Exam](https://medium.com/@geoffrey-geofe/how-i-passed-the-gcp-professional-architect-exam-94269fac325e) | Geoffrey |
@@ -31,17 +32,17 @@
 | 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma |
 | 2018/01 | [Google Certified Professional — PCA — Study Resources](https://medium.com/@agasthi.kothurkar/google-certified-professional-cloud-architect-study-resources-a66f8f52aac5) | Agasthi Kothurkar |
 | 2017/07 | [Google PCA Exam Study Materials](https://medium.com/@earlg3/google-cloud-architect-exam-study-materials-5ab327b62bc8) | Earl Gay |
-| | [Cloud Architect Challenge Study Map](https://www.troposphere.tech/wp-content/uploads/2019/11/Professional-Cloud-Architect-Challenge-Study-Map.htm) | Simon Erses |
 |  | [Path to Professional Cloud Architect](https://www.linkedin.com/posts/google-cloud_googlecloudcertified-activity-6606289304773898240-jcR_) | Google |
 
 ### Practice Exams / Tests
+
 | Published On | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-| Udemy | [GCP - Professional Cloud Architect (Test your knowledge)](https://www.udemy.com/google-certified-professional-cloud-architect/) | |
-| Udemy | [GCP - Google Cloud Certified - Architect Practice Questions](https://www.udemy.com/google-cloud-certified-architect-practice-questions/) | |
-| Whizlabs | [GCP - Google Cloud Certified - Architect Practice Questions](https://www.whizlabs.com/google-cloud-certified-professional-cloud-architect/) | |
+| Udemy | [Google Professional Cloud Architect - GCP Practice Exam](https://www.udemy.com/course/gcp-professional-cloud-architect-pca-exams-2023/?referralCode=C48B93B1C559660AA0BD) | Alex Hsieh |
+| Whizlabs | [GCP - Google Cloud Certified - Architect Practice Questions](https://www.whizlabs.com/google-cloud-certified-professional-cloud-architect/) | whizlabs |
 
 ### Books
+
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | 2021/12 | [Professional Cloud Architect - Google Cloud Certification Guide - Second Edition](https://www.packtpub.com/product/professional-cloud-architect-google-cloud-certification-guide-second-edition/9781801812290/) | Konrad Clapa, Brian Gerrard |
@@ -51,27 +52,26 @@
 | | [Google Cloud Platform in Action](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520/) | |
 
 ### Videos / Sessions
+
 | Published | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
 | | [AwesomeGCP - Professional Architect Playlist](https://www.youtube.com/watch?v=iNJe_NrbijM&list=PLQMsfKRZZviTIxEh0pkWNwnDUasGVZS4n&index=1) | Sathish VJ |
 | | [Preparing for the GCP Cloud Architect certification](https://www.youtube.com/watch?v=kM8h_IZWYjA) | Raphael Soeiro |
 | | [Google Cloud Platform Cloud Architect Certification Review Questions Virtual Networking](https://www.youtube.com/watch?v=EGum8zDYidk) | Joe |
-| | [getgcpcertified.com - "DevOps in GCP & Site Reliability Engineering Ideas"](https://www.getgcpcertified.com/p/free-trial-professional-cloud-architect) | |
-
 
 ### Online Trainings
+
 | Site | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
 | AntonIT Training | [Google Cloud Professional Cloud Architect](https://training.antonit.com/p/google-cloud-professional-cloud-architect) | Antoni Tzavelas|
 | Udemy | [Google Cloud Certification - Professional Cloud Architect](https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/?referralCode=B5B766D32C9E03357B86) | in28minutes |
-| Qwiklabs | [GCP Essentials](https://google.qwiklabs.com/quests/23) | |
-| Qwiklabs | [Challenge: GCP Architecture](https://google.qwiklabs.com/quests/47) | |
+| Google Cloud Skills Boost | [GCP Essentials](https://www.cloudskillsboost.google/course_templates/621) | |
+| Google Cloud Skills Boost | [Cloud Architect Learning Path](https://www.cloudskillsboost.google/paths/12) | |
 | Coursera | [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam) | |
 | Coursera | [Cloud Infrastructure Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process) | |
 | Coursera | [Cloud Architecture with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect) | |
 | Coursera | [Architecting with Google Compute Engine Specialization](https://www.coursera.org/specializations/gcp-architecture) | |
-| Linux Academy | [Google Certified Professional Cloud Architect](https://linuxacademy.com/linux/training/course/name/google-cloud-platform-architect-essentials) | |
 | acloud.guru | [Google Certified Professional Cloud Architect 2019](https://acloud.guru/learn/gcp-certified-professional-cloud-architect) | Mattias Andersson |
-| pluralsight | [Architecting with Google Cloud Platform: Infrastructure](https://www.pluralsight.com/paths/architecting-with-google-cloud-platform-infrastructure) | Google Cloud |
-| pluralsight | [Google: Professional Cloud Architect](https://www.pluralsight.com/paths/google-professional-cloud-architect) | Howard Dierking, Janani Ravi, Vitthal Srinivasan |
-
+| pluralsight | [Google Cloud Certified Professional Cloud Architect](https://www.pluralsight.com/paths/cloud-architecture-with-google-cloud) | Google Cloud |
+| pluralsight | [Architecting with Google Cloud - Foundations](https://www.pluralsight.com/paths/architecting-with-google-cloud-foundations) | Google Cloud |
+| pluralsight | [Architecting with Google Compute Engine](https://www.pluralsight.com/paths/architecting-with-google-compute-engine) | Google Cloud |
