@@ -31,6 +31,11 @@
 | :---:         |     :---      |          :--- |
 | Udemy | [Google Cloud Certified Cloud Digital Leader Practice Tests](https://www.udemy.com/course/google-cloud-certified-cloud-digital-leader-practice-tests/?referralCode=1E7FA94F29E3481F9767) | Sathish VJ @ AwesomeGCP |
 
+### Study Assistant 
+|  Title/Link |
+| :---:         |
+| [GCP Digital Leader Study Assistant for ChatGPT Plus members](https://chat.openai.com/g/g-DzcUgUq2Z-gcp-digital-leader-study-assistant) |
+
 ### Books
 | Published | Title/Link | Publisher | Authors |
 | :---:         |     :---     |     :---       |          :--- |
