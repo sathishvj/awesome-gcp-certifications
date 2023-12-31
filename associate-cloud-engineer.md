@@ -16,6 +16,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2023/12 | [My Experience of GCP ACE - Lab Based Certification Exam](https://www.linkedin.com/pulse/my-experience-google-cloud-associate-engineer-ace-lab-shivnath-sharma-rk0ef/) | Shivnath Sharma |
 | 2023/05 | [The Path to Certification: How I Prepared and Passed the Associate Cloud Engineer Exam](https://medium.com/@timwebster85/the-path-to-certification-how-i-prepared-and-passed-the-associate-cloud-engineer-exam-f40176596d67) | Tim Webster |
 | 2022/08 | [How I Prepared to Take the ACEngineer certification](https://medium.com/sysadminas/how-i-prepared-to-take-the-google-cloud-associate-cloud-engineer-certification-c6e41491ace6) | Mariana Carvalho |
 | 2022/08 | [GCP Associate Cloud Engineer Notes](https://github.com/Ernyoke/certified-gcp-cloud-engineer) | Ervin Szilagyi |
