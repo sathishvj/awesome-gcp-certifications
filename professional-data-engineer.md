@@ -47,7 +47,6 @@
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
 | | [Official Practice Exam](https://cloud.google.com/certification/practice-exam/data-engineer) | |
-| Udemy | [Google Cloud - Professional Data Engineer Practice Exams](https://www.udemy.com/google-cloud-certified-professional-data-engineer-practice-exams/) | |
 
 ### Books
 | Published | Title/Link | Author |
