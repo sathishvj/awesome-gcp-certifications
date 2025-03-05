@@ -13,6 +13,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+|  2025/03 | [Guide to passing GCP PMLE(2024)](https://medium.com/@masamuneprog/guide-to-passing-gcp-pmle-exam-2024-e927b1ec220f) | Goh Zhen Rong |
 |  2024/05 | [Pass Google Cloud Machine Learning Exam, with This How-To Human Learning Guide](https://itnext.io/google-cloud-machine-learning-exam-prep-broken-down-by-learning-effort-levels-21f96088a274) | Jaroslav Pantsjoha |
 |  2022/12 | [How to clear GCP PMLE Exam?](https://medium.com/@techwithshadab/how-to-clear-google-cloud-professional-machine-learning-exam-3beeed012c48) | Shadab Hussain |
 |  2022/03 | [How I passed the Google Cloud PMLEexam (Vertex AI)](https://medium.com/@joshcx/how-i-passed-the-google-cloud-professional-machine-learning-engineer-exam-vertex-ai-484c7863bbac) | Joshua Tan |
