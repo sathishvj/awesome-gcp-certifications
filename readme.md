@@ -2,29 +2,41 @@
 
 # Contents
 
+
+### Foundational
+* [Cloud Digital Leader](cloud-digital-leader.md)
+* [Generative AI Leader](generative-ai-leader.md)
+
+### Associate
+* [Associate Cloud Engineer](associate-cloud-engineer.md)
+* [Associate Data Practitioner](associate-data-practitioner.md)
+* [Associate Google Workspace Administrator](associate-google-workspace-administrator.md)
+
+### Professional
+* [Professional Cloud Architect](professional-cloud-architect.md)
+* [Professional Cloud Database Engineer](professional-cloud-database-engineer.md)
+* [Professional Cloud DevOps Engineer](professional-cloud-devops-engineer.md)
+* [Professional Cloud Developer](professional-cloud-developer.md)
+* [Professional Cloud Network Engineer](professional-cloud-network-engineer.md)
+* [Professional Cloud Security Engineer](professional-cloud-security-engineer.md)
+* [Professional Cloud Security Operations Engineer](professional-cloud-security-operations-engineer.md)
+* [Professional Data Engineer](professional-data-engineer.md)
+* [Professional Machine Learning Engineer](professional-machine-learning-engineer.md)
+* [Professional Workspace Administrator](professional-workspace-administrator.md)
+- [Fellow Hybrid Multi-cloud](fellow-hybrid-multi-cloud.md)
+
+### Resources
 - [Common Resources For All Certifications](#Common-Resources)
 - [Miscellaneous References](#Miscellaneous-References)
 - [Best Practices](#Best-Practices)
-
-- [Associate Cloud Engineer](associate-cloud-engineer.md)
-- [Cloud Digital Leader](cloud-digital-leader.md)
-- [Looker Business Analyst](looker-business-analyst.md)
-- [Looker LookML Developer](looker-lookml-developer.md)
-- [Professional Cloud Architect](professional-cloud-architect.md)
-- [Professional Cloud Database Engineer](professional-cloud-database-engineer.md)
-- [Professional Cloud DevOps Engineer](professional-cloud-devops-engineer.md)
-- [Professional Cloud Developer](professional-cloud-developer.md)
-- [Professional Cloud Network Engineer](professional-cloud-network-engineer.md)
-- [Professional Cloud Security Engineer](professional-cloud-security-engineer.md)
-- [Professional Workspace Administrator](professional-workspace-administrator.md)
-- [Professional Data Engineer](professional-data-engineer.md)
-- [Professional Machine Learning Engineer](professional-machine-learning-engineer.md)
-- [Fellow Hybrid Multi-cloud](fellow-hybrid-multi-cloud.md)
-- [GSuite - Discontinued!](gsuite.md)
-- [Apigee Certified API Engineer - Discontinued!](apigee-certified-api-engineer.md)
-
 - [Contributing](#Contributing)
 - [Maintaining Exam Integrity](#Maintaining-Exam-Integrity)
+
+## Discontinued Exams
+- [Looker Business Analyst](looker-business-analyst.md)
+- [Looker LookML Developer](looker-lookml-developer.md)
+- [GSuite - Discontinued!](gsuite.md)
+- [Apigee Certified API Engineer - Discontinued!](apigee-certified-api-engineer.md)
 
 ______
 
