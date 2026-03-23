@@ -16,6 +16,7 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2025/09 | [Google Cloud Digital Leader Exam Guide ](https://cloudfluently.com/blog/google-cloud-digital-leader-exam-guide-2026) | Himanshu Sangshetti |
 | 2024/03 | [How To Pass The GCP Associate Cloud Engineer’s Certificate Exam (Again)](https://thedeveloperstory.com/2024/03/05/how-to-pass-the-gcp-associate-cloud-engineers-certificate-exam-again/) | Vivek Naskar         |
 | 2023/12 | [My Experience of GCP ACE - Lab Based Certification Exam](https://www.linkedin.com/pulse/my-experience-google-cloud-associate-engineer-ace-lab-shivnath-sharma-rk0ef/) | Shivnath Sharma |
 | 2023/05 | [The Path to Certification: How I Prepared and Passed the Associate Cloud Engineer Exam](https://medium.com/@timwebster85/the-path-to-certification-how-i-prepared-and-passed-the-associate-cloud-engineer-exam-f40176596d67) | Tim Webster |
