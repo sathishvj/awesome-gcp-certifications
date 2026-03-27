@@ -13,10 +13,17 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-|  2024/05 | [Pass Google Cloud Machine Learning Exam, with This How-To Human Learning Guide](https://itnext.io/google-cloud-machine-learning-exam-prep-broken-down-by-learning-effort-levels-21f96088a274) | Jaroslav Pantsjoha |
-|  2022/12 | [How to clear GCP PMLE Exam?](https://medium.com/@techwithshadab/how-to-clear-google-cloud-professional-machine-learning-exam-3beeed012c48) | Shadab Hussain |
-|  2022/03 | [How I passed the Google Cloud PMLEexam (Vertex AI)](https://medium.com/@joshcx/how-i-passed-the-google-cloud-professional-machine-learning-engineer-exam-vertex-ai-484c7863bbac) | Joshua Tan |
-|  2022/01 | [How to prepare for the GCP PMLEexam](https://towardsdatascience.com/how-to-prepare-for-the-gcp-professional-machine-learning-engineer-exam-b1c59967355f) | Gabriel Cassimiro|
+| 2025/12 | [A Balanced Path to the Google Cloud Professional Machine Learning Engineer Certification 2025](https://abhijit038.medium.com/a-balanced-path-to-the-google-cloud-professional-machine-learning-engineer-certification-2025-76dc099ce49a) | Abhijit Gupta |
+| 2025/11 | [Preparing Google Cloud Professional Machine Learning Engineer Certificate in 2025](https://steven-chen.medium.com/preparing-google-cloud-professional-machine-learning-engineer-certificate-in-2025-7035018d5d84) | Steven (Liang) Chen |
+| 2025/09 | [The Path to Proficiency: My Google Cloud Professional Machine Learning Engineer Certification](https://medium.com/@bigface00/the-path-to-proficiency-my-google-cloud-professional-machine-learning-engineer-certification-5c531803154b) | Yusuke Enami|
+| 2025/07 | [Google Cloud Professional Machine Learning Engineer Exam](https://astromaier.medium.com/google-cloud-professional-machine-learning-engineer-exam-14fadf0f22f) | Andreas Maier |
+| 2025/05 | [Google Cloud Professional Machine Learning Engineer Certification: Tips to Clear the Exam](https://medium.datadriveninvestor.com/google-cloud-professional-machine-learning-engineer-certification-tips-to-clear-the-exam-71e98ee306ba) | Mo Daoud |
+| 2025/03 | [Navigating the Google Cloud Professional Machine Learning Engineer (PMLE) Certification: What to Expect](https://medium.com/@sangitamahala/navigating-the-google-cloud-professional-machine-learning-engineer-pmle-certification-what-to-2961cc395151) | Sangita Mahala |
+| 2025/02 | [Passing the Google Cloud Professional Machine Learning Engineer Exam](https://hilliao.medium.com/passing-the-google-cloud-professional-machine-learning-engineer-exam-ee5109ad77f4) | Hilliao |
+| 2024/05 | [Pass Google Cloud Machine Learning Exam, with This How-To Human Learning Guide](https://itnext.io/google-cloud-machine-learning-exam-prep-broken-down-by-learning-effort-levels-21f96088a274) | Jaroslav Pantsjoha |
+| 2022/12 | [How to clear GCP PMLE Exam?](https://medium.com/@techwithshadab/how-to-clear-google-cloud-professional-machine-learning-exam-3beeed012c48) | Shadab Hussain |
+| 2022/03 | [How I passed the Google Cloud PMLEexam (Vertex AI)](https://medium.com/@joshcx/how-i-passed-the-google-cloud-professional-machine-learning-engineer-exam-vertex-ai-484c7863bbac) | Joshua Tan |
+| 2022/01 | [How to prepare for the GCP PMLEexam](https://towardsdatascience.com/how-to-prepare-for-the-gcp-professional-machine-learning-engineer-exam-b1c59967355f) | Gabriel Cassimiro|
 |  2021/11 | [Get recognized as an ML Expert with the Google PMLE Certificate!](https://medium.com/google-developer-experts/get-recognized-as-an-ml-expert-with-the-google-professional-ml-engineer-certificate-c85a67e9270d) | Elyes Manai |
 |  2021/08 | [A Comprehensive Study Guide for the GCP ML Engineer Certification](https://towardsdatascience.com/a-comprehensive-study-guide-for-the-google-professional-machine-learning-engineer-certification-1e411db4d2cf) | Jeffrey Luppes |
 |  2021/08 | [How to study for (and pass) Google's PMLE certification](https://www.linkedin.com/pulse/how-study-pass-googles-professional-machine-learning-engineer-siegel) | Rolf Siegel |
