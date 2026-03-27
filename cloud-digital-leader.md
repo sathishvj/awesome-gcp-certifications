@@ -20,7 +20,8 @@
 | 2026/01 | [How I prepared for the ACE](https://xebia.com/blog/how-i-prepared-for-the-google-cloud-associate-cloud-engineer-exam/) | Luca Cavallin |
 | 2025/09 | [CDL Study Notes](https://github.com/nisamrine/Google-cloud-certifications-notes/blob/main/DigitalCloudLeader/My_certif_notes_DCL.md) | Nisrine Amimi |
 | 2025/08 | [How I Passed the ACE](https://blog.rishabkumar.com/how-i-passed-google-cloud-associate-cloud-engineer-certification) | Rishab Kumar |
-| 2023/06 | [How to get GCP CDL certification on the first try?](https://medium.com/@autos24/how-to-get-google-cloud-certified-cloud-digital-leader-certification-on-the-first-try-2503c1d563de)  | Sebastian Hanania | | 2022/09 | [How I studied for the Google CDL Exam](https://faun.pub/how-i-studied-for-the-google-cloud-digital-leader-exam-32d5f4b3dc96)  | Rycole |
+| 2023/06 | [How to get GCP CDL certification on the first try?](https://medium.com/@autos24/how-to-get-google-cloud-certified-cloud-digital-leader-certification-on-the-first-try-2503c1d563de)  | Sebastian Hanania | 
+| 2022/09 | [How I studied for the Google CDL Exam](https://faun.pub/how-i-studied-for-the-google-cloud-digital-leader-exam-32d5f4b3dc96)  | Rycole |
 | 2022/03 | [How to Prepare For The Google CDL Certification Exam](https://medium.com/@walkrinthecloud/how-to-prepare-for-the-google-cloud-digital-leader-certification-exam-6bf1dcf017d7)  | Sarah Walker-Leptich |
 | 2021/09 | [How to become GCP Certified CDL](https://rameshrajini.medium.com/how-to-become-google-certified-cloud-digital-leader-acc726c03142) | Ramesh Rajini |
 | 2021/01 | [6 Best Google CDL Certification Courses for Beginners in 2022](https://medium.com/javarevisited/5-best-google-cloud-digital-leader-certification-courses-for-beginners-5d8f25d587)  | Javin Paul |

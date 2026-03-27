@@ -13,6 +13,11 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2026/01 | [GCP PCA: Complete Review and Study Tips](https://medium.com/@kittipat_1413/google-professional-cloud-architect-certification-exam-complete-review-and-study-tips-bc56ea8e3ebf) | Kittipat.Po |
+| 2025/05 | [How I Prepared Myself to Pass the PCA (Complete Guide)](https://medium.com/google-cloud/how-i-prepared-myself-to-pass-the-google-cloud-professional-architect-exam-complete-guide-ce0dc481896a) | Vinicius Hora |
+| 2024/10 | [From Zero to Certified: How I Passed the PCA in One Night](https://medium.com/@skyjuicesoftware/from-zero-to-certified-how-i-passed-the-google-cloud-architect-exam-in-one-night-9790014befd9) | Chooi-Guan Lim |
+| 2024/09 | [Journey to Becoming a GCP PCA](https://surajblog.medium.com/journey-to-becoming-a-google-cloud-professional-architect-c667589714d5) | Suraj Solanki |
+| 2023/06 | [4 times conquer PCA - KEY NOTE PCA 2023](https://medium.com/google-cloud/4-times-conquer-professional-cloud-architect-certificate-key-note-professional-cloud-architect-380e67662401) | HuyDangGDG |
 | 2022/10 | [How I passed the GCP PCA Exam](https://medium.com/@geoffrey-geofe/how-i-passed-the-gcp-professional-architect-exam-94269fac325e) | Geoffrey |
 | 2022/07 | [The Architect and the Helicopter Racing](https://medium.com/@aliaksei.kaliutau/the-architect-and-the-helicopter-racing-4fce12520715) | Aliaksei Kaliutau |
 | 2022/06 | [GCP PCA RoadMap & Resources](https://medium.com/@myid535/gcp-professional-cloud-architect-roadmap-resources-bae64dcd615a) | Shubham Chaurasia |

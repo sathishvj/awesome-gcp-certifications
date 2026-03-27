@@ -12,6 +12,16 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2026/01 | [GCP PDE Guide & Glossary](https://bigdataenthusiast.medium.com/google-cloud-professional-data-engineer-guide-ae650b2b190b) | BigDataEnthusiast |
+| 2025/12 | [New GCP PDE Renewal Exam (2026 version): What Changed and What to Expect](https://medium.com/@manojkumar.vadivel/i-took-the-new-google-cloud-professional-data-engineer-renewal-exam-dec-2025-5b90d68f8dac) | Manojkumar Vadivel |
+| 2025/02 | [Decoding the GCP PDE Certification Exam](https://blog.dataengineerthings.org/decoding-the-google-cloud-professional-data-engineer-certification-exam-c1b8ab84a3f2) | Carmel Wenga |
+| 2025/01 | [How to Prepare for the GCP PDE Exam](https://medium.com/google-cloud/how-to-prepare-for-the-google-cloud-professional-data-engineer-certification-exam-3f77ee3e4389) | David Regalado |
+| 2025/01 | [How to clear the GCP PDE Exam (December 2024) — Without Hands On Experience](https://medium.com/@ghoshsiddharth25/ultimate-guide-to-clear-the-google-cloud-professional-data-engineer-certification-exam-december-f4e8dbd1272f) | Siddharth Ghosh |
+| 2025/01 | [The Ultimate Guide to Passing the GCP PDE Exam—Part 3](https://blog.dataengineerthings.org/the-ultimate-guide-to-passing-the-google-cloud-professional-data-engineer-certification-exam-part-3-52d3f92750ba) | Carmel Wenga |
+| 2025/01 | [The Ultimate Guide to Passing the GCP PDE Exam—Part 2](https://blog.dataengineerthings.org/the-ultimate-guide-to-passe-the-google-cloud-professional-data-engineer-exam-and-become-a-certified-734c3439093a) | Carmel Wenga |
+| 2024/12 | [GCP PDE Exam: Exam Prep Guide 📚](https://medium.com/@jana_om/google-cloud-professional-data-engineer-certification-exam-prep-guide-50163b0595e1) | jana_om |
+| 2024/03 | [My path to gaining the GCP PDE certification](https://medium.com/@jstant87/my-path-to-gaining-the-google-cloud-professional-data-engineer-certification-d2ca7bbb21eb) | Josh Stanton |
+*(Note: Some links provided in your list were either inaccessible or returned errors during the search process, and are therefore excluded from the table above.)*
 | 2022/10 | [How I prepared for GCP PDE Certification](https://medium.com/@narayan.jogsingh/how-i-prepared-for-gcp-professional-data-engineer-certification-8804d90da042) | Narayan Singh |
 | 2022/07 | [How do I prepared and passed the GCP PDE Certification Exam (2022)](https://medium.com/@garyyiu/how-do-i-prepared-and-passed-the-google-cloud-professional-data-engineer-certification-exam-2022-b13989cd465b) | Gary Yiu |
 | 2022/05 | [How I Passed the PDE Exam on my First Attempt](https://dohmhen.medium.com/how-i-passed-the-google-certified-professional-data-engineer-exam-on-my-first-attempt-fa3c01699296) | Damian Ohienmhen |
