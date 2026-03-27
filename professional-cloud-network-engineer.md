@@ -12,6 +12,8 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+
+| 2025/01 | [How to Pass the Google Cloud Professional Network Engineer Certification in 2025](https://medium.com/google-cloud/how-to-pass-the-google-cloud-professional-network-engineer-certification-in-2025-5317ebe3b90c) | Sarthak Kesarwani |
 | 2022/12 | [Pass the Google Cloud Professional Cloud Network Engineer Exam (2022)](https://medium.com/@pilotudesh/pass-the-google-cloud-professional-cloud-network-engineer-exam-2022-b62f07014e7) | Udesh Udayakumar |
 | 2022/06 | [Preparing for success with the GCP Professional Cloud Network Engineer Exam](https://medium.com/google-cloud/preparing-for-success-with-the-gcp-professional-cloud-network-engineer-exam-da230f9788ed) | Ammett Williams |
 | 2021/08 | [What it takes to be a Certified GCP Professional Network Engineer ?](https://brk0018.medium.com/what-it-takes-to-be-a-certified-gcp-professional-network-engineer-4c188ccc318d) | BRK00181 |
