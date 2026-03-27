@@ -15,7 +15,8 @@ This certification is for security professionals who focus on threat detection, 
 - **Security Posture Management:** Identifying misconfigurations and compliance drift.
 - **Network Security:** VPC Service Controls, Cloud Armor, and Firewall Insights.
 
-## Study Resources
-- [Google Cloud Security Blog](https://cloud.google.com/blog/products/identity-security)
-- [Chronicle Security Operations Documentation](https://cloud.google.com/chronicle/docs)
-- [Google Cloud Skills Boost: Security Operations Path](https://cloud.google.com/learn/certification/professional-cloud-security-operations-engineer)
+### Posts
+| Published | Title/Link | Author |
+| :---:         |     :---      |          :--- |
+| 2025/11 | [How I Earned the Google Cloud Professional Security Operations Engineer Certification: Insights, Lessons, and a Practical Blueprint](https://medium.com/google-cloud/how-i-earned-the-google-cloud-professional-security-operations-engineer-certification-insights-141103a90a5a) | Anil Kumar |
+| 202x/xx | [Passing the Google Cloud Professional Security Operations Engineer Exam](https://foresite.com/blog/passing-the-google-cloud-professional-security-operations-engineer-exam) | Foresite |
