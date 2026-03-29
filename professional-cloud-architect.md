@@ -8,7 +8,8 @@
 | **Registration fee:** | $200 (plus tax where applicable).  There is also a discount for those from countries with lower purchasing power parity. | 
 | **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online-proctored from a remote location. | 
 | **Recommended experience:** |  3+ years of industry experience including 1+ years designing and managing solutions using GCP. | 
-| **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/cloud-architect | 
+| **Official Practice Test:** | https://cloud.google.com/certification/practice-exam/cloud-architect |
+| **ExamCert Practice Questions:** | https://www.examcert.app/exams/gcp-pca/ | 
 
 ### Posts
 | Published | Title/Link | Author |

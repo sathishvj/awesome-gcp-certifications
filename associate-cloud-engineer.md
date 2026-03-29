@@ -12,6 +12,7 @@
 | **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online proctored exam. | 
 | **Recommended experience:** | 6 months+ hands-on experience with GCP. | 
 | **Official Practice Exam:** | https://cloud.google.com/certification/practice-exam/cloud-engineer | 
+| **ExamCert Practice Questions:** | https://www.examcert.app/exams/gcp-ace/ |
 
 ### Posts
 | Published | Title/Link | Author |
