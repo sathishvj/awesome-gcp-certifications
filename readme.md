@@ -89,6 +89,8 @@ These references are useful across all certifications.
 | | [Directory of Google Developer Experts (GDE) for Cloud](https://developers.google.com/community/experts/directory) | |
 | 2019/04 | [Google Cloud Platform Authorized Trainer](https://medium.com/@sathishvj/google-cloud-platform-authorized-trainer-1b202f3eef61) | Sathish VJ |
 
+| | [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw | |
+
 ### Best Practices
 | Title | Link | 
 | :---:         |     :---      |
@@ -195,4 +197,3 @@ These references are useful across all certifications.
 	- Anything that compromises the integrity of the exam.
 - When one of my blog posts leaked some exam info, I was contacted by the Google Certifications Team.
 - If you find any posts that I've listed which might be a concern, please let me and also the original authors know.
-
