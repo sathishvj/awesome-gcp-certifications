@@ -54,6 +54,7 @@
 | Udemy | [Google Cloud Associate Cloud Engineer Practice Tests](https://www.udemy.com/course/google-cloud-associate-cloud-engineer-practice-examspractice-exams) | Dan Sullivan |
 | Udemy | [Google Certified Associate Cloud Engineer Practice Exams](https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice-exams-gcp) | Jon Bonzo |
 | Whizlabs | [Google Cloud Certified Associate Cloud Engineer](https://www.whizlabs.com/google-cloud-certified-associate-cloud-engineer) | |
+| BenchCert | [Google Cloud ACE Active Recall Practice Exams](https://benchcert.app/cert/gcp-ace) | BenchCert |
 
 ### Books
 | Published | Title/Link | Publisher | Authors |
