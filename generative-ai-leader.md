@@ -30,3 +30,8 @@
 | 2025/06 | [How I Passed GAIL and How You Can Too](https://medium.com/@mehmethilmi81/how-i-passed-the-google-cloud-generative-ai-certification-and-how-you-can-too-f494fda0144c) | Mehmet Hilmi Emel |
 | 2025/05 | [Certify your AI Game: GAIL - All in one guide](https://medium.com/google-cloud/certify-your-ai-game-google-cloud-just-launched-a-brand-new-generative-ai-leader-certification-bc4bd8004915) | Ramesh Rajini|
 | 2025/05 | [Preparing for GCP's New Foundational GAIL](https://medium.com/google-cloud/preparing-for-google-clouds-new-foundational-certification-generative-ai-leader-exam-0ff23b66fdb6) | Jamie Thompson |
+
+### Practice Exams / Tests
+| Published On | Title/Link | Author |
+| :---:         |     :---      |          :--- |
+| Open Source | [Cloud & SRE Exam Arena (200 Practice Scenarios with Diagnostic Feedback)](https://fabianimv.github.io/exam-arena/) | Fabian Muñoz |
